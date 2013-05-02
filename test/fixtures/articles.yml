@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyText
+  abstract: MyText
+  pubmed_id: 1
+  raw_pubmed_xml: MyText
+
+two:
+  title: MyText
+  abstract: MyText
+  pubmed_id: 1
+  raw_pubmed_xml: MyText
