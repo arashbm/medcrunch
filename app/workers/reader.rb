@@ -42,13 +42,7 @@ class ArticleReaderWorker
 
       # we are pretty confident about validity of data
       cols = [:pubmed_id, :raw_pubmed_xml, :title, :abstract]
-      res = Article.import cols, articles_to_import, validate: false
-
-      ids = Article.select(:id).last(articles_to_import.size).map(&:id)
-      harrison_path = (Rails.root.join + 'vendor' + 'harrison_purified.txt').to_s
-      ids.each_slice(50) do |slice|
-        ArticleExtractorWorker.perform_async harrison_path, slice
-      end
+      Article.import cols, articles_to_import, validate: false
 
       # mark the file as imported
       unmark_dataset(filename, 'errors')

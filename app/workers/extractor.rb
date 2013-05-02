@@ -1,10 +1,12 @@
 class ArticleExtractorWorker
   include Sidekiq::Worker
 
-  def perform(list_file, ids = nil)
-    Keyword.all.each do |term|
-      keyword = Keyword.find_by_title term
-      keyword.save_keyword_occurrence!(ids)
+  def perform(ids = nil)
+    list = []
+    Keyword.includes(:articles).find_each do |keyword|
+      list.concat keyword.list_keyword_occurrence(ids)
+      puts keyword.title if keyword.id % 1000 == 0
     end
+    ArticleKeyword.import [:keyword_id, :article_id], list, validate: false
   end
 end
