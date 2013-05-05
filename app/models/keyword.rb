@@ -4,8 +4,8 @@ class Keyword < ActiveRecord::Base
 
   def list_keyword_occurrence(ids=nil)
     articles = ids ? Article.where(id: ids) : Article
-    aks=[]
-    aid= article_ids
+    aks = []
+    aid = article_ids
     articles.select(:id).search_by_title_or_abstract(title).each do |article|
       unless aid.include?(article.id)
         aks << [id, article.id]
