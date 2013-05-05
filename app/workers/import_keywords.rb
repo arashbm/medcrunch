@@ -17,9 +17,7 @@ class ImportKeywordWorker
         # search all current articles
         list.concat keyword.list_keyword_occurrence
       end
-      list.each_slice 10_000 do |list_slice|
-        ArticleKeyword.import [:keyword_id, :article_id], list_slice, validate: false
-      end
+      ArticleKeyword.import [:keyword_id, :article_id], list_slice, validate: false
     end
   end
 end
