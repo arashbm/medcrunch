@@ -12,7 +12,7 @@ class ImportKeywordWorker
     with_locked_file list_file do
       list = read_list(list_file)
       list.each do |term|
-        keyword = Keyword.where(title: term).first_or_create
+        keyword = Keyword.where(title: term.to_s).first_or_create
 
         # search all current articles
         list.concat keyword.list_keyword_occurrence
