@@ -1,6 +1,5 @@
 "Bad news" situation
 "Blue toe" syndrome
-"Mistake" (error)
 "NO SPECS" scheme
 "Put Prevention into Practice" program
 "Quality of life" issues
@@ -58,13 +57,12 @@
 5α-Reductase
 5α-Reductase deficiency
 5α-Reductase inhibitors
-5′-Aminolevulinate synthase
-5′-Aminolevulinic acid
-5′-Nucleotidase
+5'-Aminolevulinate synthase
+5'-Aminolevulinic acid
+5'-Nucleotidase
 6-Mercaptopurine
 6-Methylcoumarin
 6-Thioguanine
-6-mercaptopurine
 A-3t–A-7t
 AA amyloidosis
 ABCD rule
@@ -93,7 +91,9 @@ AJCC staging
 AL amyloidosis
 ALA-dehydratase deficiency
 ALS-plus syndromes
-ALS/parkinsonian/dementia complex of Guam
+ALS
+parkinsonian
+dementia complex of Guam
 AMPA receptors
 ANKH gene
 AP1
@@ -266,7 +266,7 @@ Adalimumab
 Adamantinoma
 Adaptive immunity
 Addiction
-Addison’s disease
+Addison's disease
 Addressin
 Adducin gene
 Adefovir
@@ -289,8 +289,8 @@ Adenylosuccinate lyase deficiency
 Adequate intake
 Adhesins
 Adhesive capsulitis
-Adie’s syndrome
-Adie’s tonic
+Adie's syndrome
+Adie's tonic
 Adipocytes
 Adiponectin
 Adipose stem cells
@@ -321,7 +321,7 @@ Adrenergic crisis
 Adrenoleukodystrophy
 Adrenomyeloneuropathy
 Adriamycin
-Adult T cell leukemia/lymphoma
+Adult T cell leukemia
 Adult bile ductopenia
 Adult respiratory distress syndrome
 Adult stem cells
@@ -364,7 +364,8 @@ Aggressive NK cell leukemia
 Aging
 Agitated behavior
 Agnosia
-Agonal gasps/breathing
+Agonal gasps
+Agonal breathing
 Agoraphobia
 Agouti-related peptide
 Agrammatism
@@ -390,7 +391,7 @@ Airway resistance
 Akathisia
 Akinesis
 Akt protein
-Alagille’s disease
+Alagille's disease
 Alanine aminotransferase
 Albers-Schonberg disease
 Albinism
@@ -406,21 +407,18 @@ Alcohol dependence
 Alcohol hand rub
 Alcohol tolerance
 Alcohol treatment program
-Alcohol use/abuse
 Alcohol withdrawal syndrome
 Alcohol-induced acidosis
 Alcoholic ketoacidosis
 Alcoholic liver disease
 Alcoholic myopathy
 Alcoholics Anonymous
-Alcoholism
 Aldolase deficiency
 Aldose reductase inhibitors
 Aldosterone
 Aldosterone antagonists
 Aldosterone escape
 Aldosterone synthase
-Aldosteronism
 Alefacept
 Alemtuzumab
 Alendronate
@@ -450,7 +448,7 @@ Allergic reaction
 Allergic rhinitis
 Allergic vasculitis
 Allergy
-Allgrove’s syndrome
+Allgrove's syndrome
 Alligator bite
 Alloantibodies
 Alloantibody screen
@@ -497,7 +495,7 @@ Alveolar proteinosis
 Alveolar ventilation
 Alveolar-arterial oxygen gradient
 Alveolar-capillary membrane
-Alzheimer’s disease
+Alzheimer's disease
 Amacrine cells
 Amalgam tattoo
 Amanita
@@ -534,7 +532,7 @@ Aminotransferase
 Amiodarone
 Amithiozone
 Amitriptyline
-Ammonia/ammonium
+Ammonia
 Ammoniagenesis
 Amnesia
 Amnestic shellfish poisoning
@@ -544,7 +542,7 @@ Amniotic infection
 Amodiaquine
 Amoxapine
 Amoxicillin
-Amoxicillin/clavulanate
+clavulanate
 AmpC
 Amphetamine
 Amphetamine abuse
@@ -561,7 +559,8 @@ Amsel criteria
 Amygdala
 Amygdalohippocampectomy
 Amyl nitrate
-Amyl/butyl nitrate
+Amyl
+butyl nitrate
 Amylase
 Amylin
 Amyloid angiopathy
@@ -592,7 +591,8 @@ Anaphylactoid purpura
 Anaphylactoid reaction
 Anaphylaxis
 Anaplasma phagocytophilum
-Anaplastic large T/null cell lymphoma
+Anaplastic large T
+null cell lymphoma
 Anaplastic large cell lymphoma
 Anasarca
 Anastrozole
@@ -603,7 +603,7 @@ Ancylostoma caninum
 Ancylostoma duodenale
 Ancylostoma spp.
 Andersen-Tawil syndrome
-Anderson’s syndrome
+Anderson's syndrome
 Androgen
 Androgen abuse
 Androgen insensitivity syndrome
@@ -816,7 +816,7 @@ Antivenin (Crotalidae) polyvalent
 Antivenom
 Antiviral drugs
 Antley-Bixler craniosynostosis
-Anton’s syndrome
+Anton's syndrome
 Anuria
 Anus
 Anxiety
@@ -861,7 +861,6 @@ Apolipoprotein A-V deficiency
 Apolipoprotein B-100 deficiency
 Apolipoprotein C-II deficiency
 Apolipoprotein E
-Apolipoprotein(a)
 Apomorphine
 Apophysomyces spp.
 Apoprotein ε
@@ -906,7 +905,7 @@ Aromatherapy
 Aromatic amines
 Aromatic hydrocarbons
 Arousal
-Arrhythmogenic RV cardiomyopathy/dysplasia
+Arrhythmogenic RV cardiomyopathy
 Arsenic poisoning
 Arsenic trioxide
 Arsenical keratosis
@@ -934,7 +933,8 @@ Arteriovenous oxygen difference
 Arteritis
 Artesunate
 Artesunate-mefloquine
-Artesunate-sulfadoxine/pyrimethamine
+Artesunate-sulfadoxine
+pyrimethamine
 Arthralgia
 Arthritis
 Arthroconidia
@@ -959,7 +959,7 @@ Ascites
 Ash leaf spot
 Asherman syndrome
 Asimultanagnosia
-Askin’s tumor
+Askin's tumor
 Asparaginase
 Aspartylglucosaminuria
 Aspergilloma
@@ -1001,7 +1001,7 @@ Atherosclerotic nephropathy
 Atherothrombosis
 Athetosis
 Athlete
-Athlete’s foot
+Athlete's foot
 Atkins diet
 Atlantoaxial joint disease
 Atlastin
@@ -1054,7 +1054,7 @@ Auscultation
 Austin Flint murmur
 Australian bat lyssavirus
 Australian blue-ringed octopus
-Austrian’s syndrome
+Austrian's syndrome
 AutoPEEP
 Autoantibodies
 Autoantigens
@@ -1068,7 +1068,6 @@ Autoimmune thrombocytopenic purpura
 Autoinflammatory disease
 Autolysins
 Automaticity
-Automatisms
 Autonomic dysfunction
 Autonomic dysreflexia
 Autonomic function tests
@@ -1097,8 +1096,8 @@ Azotemia
 Aztreonam
 Aβ2M amyloidosis
 B cell
-B cell
-B cell chronic lymphocytic leukemia/small lymphocytic
+B cell chronic lymphocytic leukemia
+small lymphocytic
 B cell development
 B cell prolymphocytic lymphoma
 B cell receptors
@@ -1134,7 +1133,7 @@ Bacteriuria
 Bacteroides fragilis
 Bacteroides spp
 Bagassosis
-Baker’s cyst
+Baker's cyst
 Balamuthia mandrillaris
 Balance
 Balance training
@@ -1145,15 +1144,14 @@ Balkan nephropathy
 Balloon angioplasty
 Balloon valvuloplasty
 Ballottement of the patellae
-Balo’s concentric sclerosis
+Balo's concentric sclerosis
 Balsalazide
 Baltic myoclonus
 Bamboo spine
 Banana spider
 Band
-Banding
-Bannwarth’s syndrome
-Banti’s disease
+Bannwarth's syndrome
+Banti's disease
 Bar-coding
 Barbiturates
 Bardet-Biedl syndrome
@@ -1162,19 +1160,19 @@ Barium contrast study
 Barium swallow
 Barium toxicity
 Bark scorpion
-Barlow’s syndrome
+Barlow's syndrome
 Barmah Forest virus
 Baroreceptors
 Baroreflex
 Barotrauma
-Barrett’s esophagus
-Barrett’s metaplasia
-Barrett’s ulcer
+Barrett's esophagus
+Barrett's metaplasia
+Barrett's ulcer
 Barrier contraceptive
 Bartonella
 Bartonella quintana
 Bartonella spp.
-Bartter’s syndrome
+Bartter's syndrome
 Basal cell carcinoma
 Basal cell nevus syndrome
 Basal energy expenditure
@@ -1199,19 +1197,19 @@ Bat
 Batai virus
 Bath Ankylosing Spondylitis Disease Activity Index
 Battlefield injuries
-Bayes’ theorem
+Bayes' theorem
 Baylisascaris procyonis
 Bayou virus
 Bcl-2 family
 Beading
 Beano
-Beau’s line
-Bechterew’s disease
+Beau's line
+Bechterew's disease
 Beck Depression Inventory
 Becker muscular dystrophy
-Becker’s disease
+Becker's disease
 Beckwith-Wiedemann syndrome
-Beck’s triad
+Beck's triad
 Beclomethasone
 Bed nets
 Bedbugs
@@ -1221,18 +1219,19 @@ Bee sting
 Beef tapeworm
 Beer potomania
 Beetle vesication
-Beevor’s sign
+Beevor's sign
 Behavior
-Behavioral modification/behavioral therapy
-Behçet’s syndrome
+Behavioral modification
+behavioral therapy
+Behçet's syndrome
 Bejel
 Belladonna alkaloids
 Bellini duct tumors
-Bell’s palsy
-Bell’s phenomenon
+Bell's palsy
+Bell's phenomenon
 Benazepril
 Bence Jones proteins
-Benedikt’s syndrome
+Benedikt's syndrome
 Beneficence
 Benign dysequilibrium of aging
 Benign familial neonatal convulsions
@@ -1255,7 +1254,8 @@ Beriberi
 Berkelium exposure
 Bernard-Soulier syndrome
 Bernstein test
-Berylliosis/beryllium disease
+Berylliosis
+beryllium disease
 Beryllium lymphocyte proliferation test
 Beta agonists
 Beta blockers
@@ -1325,7 +1325,7 @@ Bilophila wadsworthia
 Binet staging system
 Binge eating
 Binge eating disorder
-Binswanger’s disease
+Binswanger's disease
 BioSeed products
 Bioavailability
 Biofeedback
@@ -1342,7 +1342,7 @@ Biotin
 Bipolar cells
 Bipolar disorder
 Bipolaris spp.
-Bird fancier’s lung
+Bird fancier's lung
 Birth defects
 Birth weight
 Bis(chloromethyl)ether
@@ -1356,7 +1356,7 @@ Bisphosphonates
 Bite cells
 Bite-wound infections
 Bithionol
-Bitot’s spots
+Bitot's spots
 Bitter taste
 Bivalirudin
 Black Creek Canal virus
@@ -1420,7 +1420,7 @@ Body packing
 Body plethysmography
 Body temperature
 Body weight
-Boerhaave’s syndrome
+Boerhaave's syndrome
 Bohr effect
 Bolivian hemorrhagic fever virus
 Bombay phenotype
@@ -1432,7 +1432,7 @@ Bone disease
 Bone marrow aspirates
 Bone marrow failure
 Bone marrow transplantation
-Bone marrow/bone marrow examination
+Bone marrow
 Bone mass
 Bone pain
 Bone sarcoma
@@ -1463,12 +1463,12 @@ Botulism immune globulin
 Botulism toxoid
 Botulism vaccine
 Bouba
-Bouchard’s nodes
+Bouchard's nodes
 Bound morphemes
 Boutonneuse fever
 Bovine spongiform encephalopathy
-Bowen’s disease
-Bowman’s capsule
+Bowen's disease
+Bowman's capsule
 Brace
 Brachial plexitis
 Brachial plexopathy
@@ -1525,10 +1525,10 @@ Brief Pain Inventory
 Brill-Zinsser disease
 Bristleworms
 Broad β disease
-Broadbent’s sign
-Broca’s
-Broca’s area
-Brodie’s abscess
+Broadbent's sign
+Broca's
+Broca's area
+Brodie's abscess
 Bromides
 Bromocriptine
 Brompheniramine
@@ -1565,14 +1565,14 @@ Brucella melitensis
 Brucella spp.
 Brucella vaccine
 Brucellosis
-Brudzinski’s sign
+Brudzinski's sign
 Brugada syndrome
 Brugia malayi
 Brugia spp.
-Brunner’s gland adenoma
+Brunner's gland adenoma
 Brush border
-Bruton’s X-linked agammaglobulinemia
-Bruton’s tyrosine kinase deficiency
+Bruton's X-linked agammaglobulinemia
+Bruton's tyrosine kinase deficiency
 Bruxism
 Bryostatin
 Bubo
@@ -1580,7 +1580,7 @@ Bucindolol
 Buckthorn
 Budd-Chiari syndrome
 Budesonide
-Buerger’s disease
+Buerger's disease
 Buffalo hump
 Bug bite
 Bulbar palsy
@@ -1604,12 +1604,12 @@ Burkholderia cepacia
 Burkholderia mallei
 Burkholderia pseudomallei
 Burkholderia spp.
-Burkitt’s lymphoma
+Burkitt's lymphoma
 Burn patient
 Burn-wound infections
-Burnett’s syndrome
+Burnett's syndrome
 Burnout syndrome
-Burow’s solution
+Burow's solution
 Burrowing asps
 Bursal effusion
 Bursitis
@@ -1621,12 +1621,11 @@ Butoconazole
 Butorphanol
 Butterfly rash
 Butyrate
-Byler’s disease
+Byler's disease
 Byssinosis
 Bystander effect
-Bálint’s syndrome
+Bálint's syndrome
 C cell
-C cells
 C-reactive protein
 C-type lectins
 C1 deficiency
@@ -1664,7 +1663,7 @@ CNS
 CNS disease
 CNS infections
 CNS involvement
-CNS-Behçet’s syndrome
+CNS-Behçet's syndrome
 COMT inhibitors
 COPRO-oxidase
 COX inhibitor combinations
@@ -1778,13 +1777,13 @@ Cannabinoid receptor
 Cannabinoid receptor antagonists
 Cantharidin
 Capecitabine
-Capgras’ syndrome
+Capgras' syndrome
 Capillariasis
 Capillaries
 Capillaritis
 Capillary leak syndrome
 Capitation
-Caplan’s syndrome
+Caplan's syndrome
 Capnocytophaga canimorsus
 Capnocytophaga spp.
 Capreomycin
@@ -1793,7 +1792,6 @@ Capsid
 Capsomere
 Capsule
 Capsule endoscopy
-Capsulitis
 Captopril
 Caput medusa
 Carate
@@ -1804,7 +1802,8 @@ Carbapenemase
 Carbaryl
 Carbenicillin
 Carbenoxolone
-Carbidopa/levodopa
+Carbidopa
+levodopa
 Carbimazole
 Carbinolamine dehydratase deficiency
 Carbohydrate
@@ -1878,7 +1877,7 @@ Carney complex
 Carnitine deficiency
 Carnitine palmitoyltransferase deficiency
 Carnitine therapy
-Caroli’s disease
+Caroli's disease
 Carotenemia
 Carotenoderma
 Carotenoids
@@ -1894,21 +1893,21 @@ Carotid stenosis
 Carpal tunnel syndrome
 Carpenter syndrome
 Carrier
-Carrión’s disease
+Carrión's disease
 Carticel
 Cartilage
 Cartilage-hair hypoplasia syndrome
-Carvallo’s sign
+Carvallo's sign
 Carvedilol
-Casal’s necklace
+Casal's necklace
 Cascara
 Case-control study
 Caseous necrosis
 Caspase
 Caspofungin
 Cast
-Castell’s method
-Castleman’s disease
+Castell's method
+Castleman's disease
 Castor oil
 Castration
 Cat
@@ -2045,7 +2044,7 @@ Cestodes
 Cetirizine
 Cetuximab
 Cevimeline
-Chagas’ disease
+Chagas' disease
 Chagoma
 Chalazion
 Chamomile
@@ -2056,19 +2055,19 @@ Channelopathy
 Chaparral
 Charcot-Leyden crystals
 Charcot-Marie-Tooth disease
-Charcot’s joint
-Charcot’s triad
+Charcot's joint
+Charcot's triad
 Chart review
 Charter on Medical Professionalism
 Cheek
-Cheese washer’s lung
+Cheese washer's lung
 Cheilitis
 Cheilosis
 Chelation therapy
 Chemical bioterrorism
 Chemical burn
 Chemical restraints
-Chemical worker’s lung
+Chemical worker's lung
 Chemo brain
 Chemo cap
 Chemoattractants
@@ -2080,7 +2079,6 @@ Chemoreceptor trigger zone
 Chemotherapy
 Chenodeoxycholic acid
 Chest compression
-Chest discomfort/pain
 Chest pain unit
 Chest percussion
 Chest radiography
@@ -2234,7 +2232,7 @@ Chryseobacterium spp.
 Chrysiasis
 Chrysops spp.
 Churg-Strauss syndrome
-Chvostek’s sign
+Chvostek's sign
 Chylomicron
 Chylomicron remnants
 Chylomicronemia syndrome
@@ -2280,7 +2278,7 @@ Clasp-knife phenomenon
 Class II transactivator deficiency
 Class switch
 Classism
-Claude’s syndrome
+Claude's syndrome
 Claudication
 Claudins
 Claustrophobia
@@ -2288,7 +2286,7 @@ Claversal
 Clavulanic acid
 Clear liquid diet
 Clearance of drugs
-Cleft lip/palate
+Cleft lip
 Cleidocranial dysplasia
 Clenched-fist injury
 Clevudine
@@ -2340,7 +2338,7 @@ Clubbing
 Clue cells
 Cluster headache
 Cluster-tic
-Clutton’s joint
+Clutton's joint
 Cnidae
 Cnidocytes
 Co-repressor
@@ -2354,10 +2352,10 @@ Coagulation factor inhibitors
 Coagulation tests
 Coal dust
 Coal tar
-Coal worker’s pneumoconiosis
+Coal worker's pneumoconiosis
 Coarctation of the aorta
 Coasting
-Coats’ disease
+Coats' disease
 Cobalamin
 Cobalt exposure
 Cobra
@@ -2372,7 +2370,7 @@ Cockcroft-Gault equation
 Cockroach-derived proteins
 Cocultivation
 Codeine
-Codman’s triangle
+Codman's triangle
 Codon
 Coenurosis
 Coenurus
@@ -2380,8 +2378,8 @@ Coenzyme
 Coenzyme Q10 therapy
 Coeur en sabot
 Cofactor
-Coffee worker’s lung
-Cogan’s syndrome
+Coffee worker's lung
+Cogan's syndrome
 Cognitive behavioral therapy
 Cognitive dysfunction
 Cognitive evoked potentials
@@ -2407,7 +2405,7 @@ Collagenous colitis
 Collapsing glomerulopathy
 Collecting duct
 Collectins
-Collier’s sign
+Collier's sign
 Colloid cyst
 Colon
 Colon cancer
@@ -2416,7 +2414,6 @@ Colonic inertia
 Colonic irrigation device
 Colonic obstruction
 Colonic pseudoobstruction
-Colonization
 Colonoscopy
 Colonoscopy; Sigmoidoscopy
 Colony-stimulating factors
@@ -2501,7 +2498,7 @@ Conjunctivitis
 Connective tissue
 Connective tissue disease
 Connexins
-Conn’s syndrome
+Conn's syndrome
 Conscious sedation
 Consciousness
 Constipation
@@ -2570,8 +2567,8 @@ Coronavirus
 Corpus callosum
 Corpus luteum
 Corpus luteum cyst
-Corrigan’s
-Corrigan’s pulse
+Corrigan's
+Corrigan's pulse
 Cortical basal degeneration
 Cortical mapping
 Cortical sensation
@@ -2612,7 +2609,7 @@ Councilman bodies
 Countercurrent in-line heat exchanger
 Countercurrent multiplication
 Coup de sabre
-Courvoisier’s sign
+Courvoisier's sign
 Cover test
 Cowden disease
 Cowpox
@@ -2655,8 +2652,8 @@ Critical illness myopathy
 Critical illness polyneuropathy
 CroFab
 Crocodile tears
-Crohn’s Disease Activity Index
-Crohn’s disease
+Crohn's Disease Activity Index
+Crohn's disease
 Cromolyn sodium
 Cromones
 Cronkite-Canada syndrome
@@ -2688,22 +2685,22 @@ Cryptosporidiosis
 Cryptosporidium
 Crystal associated arthropathy
 Crystal meth
-Csende’s procedure
+Csende's procedure
 Ctenocephalides felis
 Cubilin
 Culex spp.
 Culicoides spp.
-Cullen’s sign
+Cullen's sign
 Culture
 Curanderismo
 Curare
 Curium exposure
-Curling’s ulcer
+Curling's ulcer
 Curvularia spp.
-Cushing’s disease
-Cushing’s response
-Cushing’s syndrome
-Cushing’s ulcer
+Cushing's disease
+Cushing's response
+Cushing's syndrome
+Cushing's ulcer
 Cutaneous T cell lymphoma
 Cutaneous emboli
 Cutaneous leukocytoclastic angiitis
@@ -2799,7 +2796,6 @@ DNA-interactive agents
 DOPA-responsive dystonia
 DOTS strategy
 DOTS-Plus strategy
-DOTS/DOTS-Plus strategy
 DRESS syndrome
 DRIIIPP mnemonic
 DTPA
@@ -2815,15 +2811,15 @@ Dalteparin
 Danazol
 Dance therapy
 Dandy-Walker syndrome
-Danon’s disease
+Danon's disease
 Dantrolene
-Dappe’s stain
+Dappe's stain
 Dapsone
 Dapsone-pyrimethamine
 Dapsone-trimethoprim
 Daptomycin
 Darbepoetin alfa
-Darier’s sign
+Darier's sign
 Darmbrand
 Darunavir
 Dasatinib
@@ -2861,7 +2857,6 @@ Defensive medicine
 Deferasirox
 Deferoxamine
 Defibrillation
-Defibrillator
 Deformity
 Deglutition reflex
 Deglutitive inhibition
@@ -2899,7 +2894,7 @@ Dengue hemorrhagic fever
 Dengue shock syndrome
 Dengue virus
 Denileukin diftitox
-Dennie’s line
+Dennie's line
 Dense deposit disease
 Dental care
 Dental caries
@@ -2912,7 +2907,7 @@ Dentatorubropallidoluysian atrophy
 Dentin
 Dentinogenesis imperfecta
 Dentures
-Dent’s disease
+Dent's disease
 Denys-Drash syndrome
 Deoxyazacytidine
 Deoxycholic acid
@@ -2922,7 +2917,7 @@ Deoxyprogesterone
 Dependent personality disorder
 Depilatory
 Depo-Provera
-Depression/depressive disorders
+Depression
 Dermacentor spp.
 Dermagraft
 Dermal papillae
@@ -2952,7 +2947,7 @@ Desmopressin
 Desmosomes
 Desmoteplase
 Desquamative erythema
-Detergent worker’s lung
+Detergent worker's lung
 Detrusor hyperactivity with impaired contractility
 Detrusor spasticity
 Detrusor sphincter dyssynergia
@@ -2960,7 +2955,7 @@ Detumescence
 Developing countries
 Developmental plasticity
 Device-related infections
-Devic’s syndrome
+Devic's syndrome
 Dexamethasone suppression test
 Dexrazoxane
 Dextroamphetamine
@@ -2999,7 +2994,6 @@ Dialysis membrane
 Dialyzer
 Diamond-Blackfan anemia
 Diapedesis
-Diaphragm
 Diaphragm
 Diaphragmatic hernia
 Diaphragmatic pacing
@@ -3040,7 +3034,7 @@ Dietary reference intakes
 Diethylcarbamazine
 Diethylpropion
 Diethylstilbestrol
-Dieulafoy’s lesion
+Dieulafoy's lesion
 Diffuse Lewy body disease
 Diffuse axonal injury
 Diffuse idiopathic skeletal hyperostosis
@@ -3070,7 +3064,7 @@ Diisocyanates
 Dilated cardiomyopathy
 Diloxanide furoate
 Diltiazem
-Dilute Russell’s viper venom test
+Dilute Russell's viper venom test
 Dimenhydrinate
 Dimercaprol
 Dimethylaminopropionitrile
@@ -3103,12 +3097,12 @@ Direct fluorescent antibody test
 Direct thrombin inhibitors
 Dirofilarial infections
 Disability
-Disability-adjusted life years (DALY)
+Disability-adjusted life years
 Discectomy with fusion
 Discography
 Discrimination
 Disease
-Disease Control Priorities in Developing Countries (DCP)
+Disease Control Priorities in Developing Countries
 Disease probability
 Disequilibrium
 Diskography
@@ -3140,9 +3134,10 @@ Dog bite
 Dog flea
 Dog tapeworm
 Dolasetron
-Doll’s eyes
+Doll's eyes
 Dolor
-Domestic abuse/violence
+Domestic violence
+Domestic abuse
 Dominant disorders
 Dominant follicle
 Domoic acid intoxication
@@ -3170,7 +3165,7 @@ Dothiepin
 Double vision
 Double-balloon enteroscopy
 Double-outlet ventricle
-Dove pillow’s lung
+Dove pillow's lung
 Down syndrome
 Downgrading reactions
 Doxazosin
@@ -3179,8 +3174,9 @@ Doxorubicin
 Doxycycline
 Dracunculiasis
 Drawer sign
-Dressler’s syndrome
-Driving ability/privileges
+Dressler's syndrome
+Driving privileges
+Driving ability
 Dronabinol
 Drop arm test
 Drop attacks
@@ -3219,7 +3215,7 @@ Duffy blood group
 Duke criteria
 Duloxetine
 Dumping syndrome
-Duncan’s disease
+Duncan's disease
 Dunnigan familial partial lipodystrophy
 Duodenal aspirate
 Duodenal stenting
@@ -3292,7 +3288,7 @@ East African
 Eastern equine encephalitis vaccine
 Eating disorders
 Ebola virus
-Ebstein’s anomaly
+Ebstein's anomaly
 Ecchymoses
 Eccrine carcinoma
 Echinacea
@@ -3386,7 +3382,6 @@ Eloquent cortex
 Embolectomy
 Embolic protection device
 Embolism
-Embolization
 Embospheres
 Embryonal carcinoma
 Embryonal tumor
@@ -3446,7 +3441,7 @@ Endomyometritis
 Endophthalmitis
 Endorphins
 Endoscopic retrograde cholangiopancreatography
-Endoscopic therapy/procedures
+Endoscopic therapy
 Endoscopic ultrasonography
 Endoscopy
 Endospores
@@ -3472,7 +3467,6 @@ Energy requirement
 Enflurane
 Enfuvirtide
 Enhanced external counterpulsation
-Enhancer
 Enkephalins
 Enophthalmos
 Enoxaparin
@@ -3586,7 +3580,7 @@ Epoxy resin
 Eprodisate
 Epsilon aminocaproic acid
 Epstein-Barr virus
-Epstein’s syndrome
+Epstein's syndrome
 Eptifibatide
 Epulis fissuratum
 Epworth sleepiness score
@@ -3692,7 +3686,7 @@ European bat lyssavirus
 Eustachian tube dysfunction
 Euthanasia
 Evacuation disorders
-Evans’s syndrome
+Evans's syndrome
 Event monitor
 Everolimus
 Evidence-Based Medicine Reviews
@@ -3700,9 +3694,9 @@ Evidence-based best practices
 Evidence-based medicine
 Evoked potentials
 Evolution
-Ewart’s sign
+Ewart's sign
 Ewingella spp.
-Ewing’s sarcoma
+Ewing's sarcoma
 Exanthem subitum
 Exanthems
 Exchange transfusion
@@ -3743,7 +3737,7 @@ Extracorporeal lithotripsy
 Extracorporeal membrane oxygenation
 Extracranial-to-intracranial bypass surgery
 Extraembryonic endoderm cells
-Extranodal marginal zone B cell lymphoma/MALT type
+Extranodal marginal zone B cell lymphoma
 Extrapyramidal movement disorders
 Extremities
 Extrinsic incubation
@@ -3789,7 +3783,8 @@ Factor V inhibitor
 Factor VIII
 Factor VIII concentrate
 Factor VIII inhibitor
-Factor VIIa/tissue factor inhibitor
+Factor VIIa
+tissue factor inhibitor
 Factor X
 Factor X inhibitor
 Factor XI
@@ -3816,9 +3811,9 @@ Family history
 Famotidine
 Fanconi syndrome
 Fanconi-Bickel syndrome
-Fanconi’s anemia
+Fanconi's anemia
 Farber disease
-Farmer’s lung
+Farmer's lung
 Farnesyl transferase inhibitors
 Fas ligand
 Fascicular tachycardia
@@ -3856,7 +3851,7 @@ Feeding center
 Felbamate
 Feldenkrais bodywork
 Felodipine
-Felty’s syndrome
+Felty's syndrome
 Female reproductive function
 Femoral head
 Femoral neuropathy
@@ -3929,14 +3924,14 @@ Finasteride
 Fine-needle aspiration biopsy
 Finger-to-nose test
 Finkelstein sign
-Finkelstein’s test
+Finkelstein's test
 Fire ants
 Fire coral
 First-aid kit
 First-pass elimination
 Fish
 Fish food lung
-Fish meal worker’s lung
+Fish meal worker's lung
 Fish odor syndrome
 Fish oil supplements
 Fish tank
@@ -4043,7 +4038,7 @@ Forced expiratory flow
 Forced expiratory flow between 25 and 75% of VC
 Forced vital capacity
 Forchheimer spots
-Fordyce’s spots
+Fordyce's spots
 Forearm band
 Forearm exercise test
 Foreign body
@@ -4055,23 +4050,24 @@ Forward genetics
 Forward type
 Fosphenytoin
 Founder effect
-Fournier’s
-Fournier’s gangrene
+Fournier's
+Fournier's gangrene
 Fovea
 Foveation
-Foville’s syndrome
+Foville's syndrome
 Fracture
 Fragile X pre-mutation
 Fragile X syndrome
-Fragile X tremor/ataxia syndrome
+Fragile X tremor
+ataxia syndrome
 Frailty
 Framboesia
 Frameshift mutation
-Framework Convention on Tobacco Control (WHO)
+Framework Convention on Tobacco Control
 Framingham Heart Study
 Francisella spp.
 Francisella tularensis
-Franklin’s disease
+Franklin's disease
 Frasier syndrome
 Frataxin
 Freckles
@@ -4079,7 +4075,7 @@ Frederickson classification
 Frenzel eyeglasses
 Fresh-frozen plasma
 Friction massage
-Friedreich’s ataxia
+Friedreich's ataxia
 Frontal abulic syndrome
 Frontal bone fracture
 Frontal disinhibition syndrome
@@ -4124,7 +4120,7 @@ G cells
 G protein
 G20210A mutation
 GB virus
-GHB (gamma-hydroxybutyrate)
+gamma-hydroxybutyrate
 GHRH-mediated
 GLUT transporters
 GOBI
@@ -4136,7 +4132,7 @@ GTP cyclohydrolase deficiency
 GTPase-activated proteins
 Gadolinium-153 exposure
 Gag reflex
-Gaisböck’s syndrome
+Gaisböck's syndrome
 Gait
 Gait apraxia
 Gait cycle
@@ -4177,7 +4173,7 @@ Gangrene
 Gap junctions
 Gardner-Diamond syndrome
 Gardnerella vaginalis
-Gardner’s syndrome
+Gardner's syndrome
 Garlic
 Gas
 Gas exchange
@@ -4298,7 +4294,7 @@ Giardiasis
 Gibbus
 Giddiness
 Giemsa stain
-Gilbert’s syndrome
+Gilbert's syndrome
 Ginger
 Gingival erythema
 Gingival fibromatosis
@@ -4308,9 +4304,9 @@ Gingivitis
 Gingivostomatitis
 Ginkgo biloba
 Ginseng
-Gitelman’s syndrome
+Gitelman's syndrome
 Glanders
-Glanzmann’s thrombasthenia
+Glanzmann's thrombasthenia
 Glasgow Coma Scale
 Glatiramer acetate
 Glaucoma
@@ -4430,16 +4426,16 @@ Gonococcal arthritis
 Gonococcal infections
 Gonococcemia
 Gonorrhea
-Goodpasture’s syndrome
-Gordon’s syndrome
-Gorlin’s syndrome
-Gottron’s sign
+Goodpasture's syndrome
+Gordon's syndrome
+Gorlin's syndrome
+Gottron's sign
 Gout
 Gouty arthritis
 Gouty nephropathy
-Gowers’ sign
+Gowers' sign
 Go–no-go test
-Gradenigo’s syndrome
+Gradenigo's syndrome
 Graft-versus-host disease
 Graft-versus-tumor effect
 Graham Steell murmur
@@ -4450,7 +4446,6 @@ Gram stain
 Gram-negative microorganism
 Gram-positive microorganism
 Gramicidin
-Gram’s stain
 Granisetron
 Grant
 Granular cell tumor
@@ -4474,13 +4469,13 @@ Granulosa cell tumor
 Grapefruit juice
 Graphesthesia
 Grasp reflex
-Graves’ disease
-Graves’ ophthalmopathy
+Graves' disease
+Graves' ophthalmopathy
 Gray
 Gray platelet syndrome
 Green bottle fly
 Green nail syndrome
-Griffiths’ point
+Griffiths' point
 Griseofulvin
 Gross cystic disease fibrous protein
 Ground-glass opacity
@@ -4536,13 +4531,11 @@ HFE gene
 HIF-1α
 HIV
 HIV RNA determination
-HIV exposure/transmission
+HIV transmission
+HIV exposure
 HIV infection
-HIV infections
 HIV protease inhibitors
 HIV resistance testing
-HIV transmission
-HIV transmission by
 HIV vaccine
 HIV-1
 HIV-2
@@ -4589,7 +4582,7 @@ Halzoun
 Hamartoma
 Hamman-Rich syndrome
 Hammer hand syndrome
-Hampton’s hump
+Hampton's hump
 Hand
 Hand eczema
 Hand hygiene
@@ -4599,7 +4592,7 @@ Hand-Schüller-Christian disease
 Hand-foot-and-mouth disease
 Hanging groin
 Hangout time
-Hansen’s disease
+Hansen's disease
 Hantaan virus
 Hantavirus
 Hantavirus hemorrhagic fever with renal syndrome
@@ -4611,12 +4604,12 @@ Haplotype block
 Haptocorrins
 Hard tick
 Harris-Benedict equations
-Hartmann’s procedure
+Hartmann's procedure
 Hartnup disease
 Harvester ants
 Hasford system
-Hashimoto’s encephalopathy
-Hashimoto’s thyroiditis
+Hashimoto's encephalopathy
+Hashimoto's thyroiditis
 Hashish
 Haversian system
 Haw River syndrome
@@ -4666,8 +4659,8 @@ Heavy chain
 Heavy chain diseases
 Heavy metal pigmentation
 Heavy metal poisoning
-Heberden’s nodes
-Hecht’s pneumonia
+Heberden's nodes
+Hecht's pneumonia
 Hectorol
 Heel percussion sign
 Heel spur
@@ -4731,7 +4724,6 @@ Hemodilution
 Hemodynamic parameters
 Hemofiltration
 Hemoglobin
-Hemoglobin A
 Hemoglobin A1C
 Hemoglobin A2
 Hemoglobin C
@@ -4745,7 +4737,6 @@ Hemoglobin Kansas
 Hemoglobin Köln
 Hemoglobin Lepore
 Hemoglobin M. Iwata
-Hemoglobin S
 Hemoglobin SC disease
 Hemoglobin Yakima
 Hemoglobin-oxygen dissociation curve
@@ -4821,7 +4812,7 @@ Hepatocellular disease
 Hepatocyte
 Hepatocyte failure
 Hepatocyte growth factor
-Hepatocyte growth factor/c-Met pathway
+c-Met pathway
 Hepatoma
 Hepatomegaly
 Hepatopulmonary syndrome
@@ -4829,9 +4820,10 @@ Hepatorenal syndrome
 Hepatosplenic γδ T cell lymphoma
 Hepcidin
 Hephaestin
-Herbal remedies/supplements
+Herbal remedies
+Herbal supplements
 Herbal tea
-Herbert’s pits
+Herbert's pits
 Herd immunity
 Hereditary elliptocytosis
 Hereditary neuropathy with liability to pressure palsies
@@ -4868,7 +4860,7 @@ Hexagonal-phase phospholipids test
 Hexokinase deficiency
 Hexosamine pathway
 Hexosaminidase A deficiency
-Heyde’s syndrome
+Heyde's syndrome
 Hiatal hernia
 Hiccups
 Hidradenitis
@@ -4889,7 +4881,6 @@ Hippocampal dysfunction
 Hirata disease
 Hirsutism
 Hirudin
-His bundle
 Histamine
 Histamine H2 antagonists
 Histidinemia
@@ -4906,14 +4897,14 @@ Histotoxic hypoxia
 Histrionic personality disorder
 Hives
 Hoarseness
-Hodgkin’s disease
+Hodgkin's disease
 Holiday heart syndrome
 Hollenhorst plaque
 Hollow visceral myopathy
 Holoprosencephaly
 Holt-Oram syndrome
 Holter monitoring
-Homan’s sign
+Homan's sign
 Homeless
 Homeobox genes
 Homeopathic medicine
@@ -4925,14 +4916,14 @@ Homoplasmy
 Homosexual men
 Homozygote
 Hookworm
-Hoover’s sign
+Hoover's sign
 Hordeolum
 Horizontal cells
 Hormone
 Hormone receptors
 Hormone replacement therapy
 Hormone resistance syndromes
-Horner’s syndrome
+Horner's syndrome
 Hornet sting
 Horse chestnut
 Hortaea spp.
@@ -4945,9 +4936,9 @@ Host-versus-graft disease
 Hot flashes
 Hot-tub folliculitis
 Hot-tub lung
-Housemaid’s knee
+Housemaid's knee
 Howell-Jolly bodies
-Howship’s lacunae
+Howship's lacunae
 Human African trypanosomiasis
 Human Genome Project
 Human antibody infusion reactions
@@ -4974,13 +4965,13 @@ Hunger
 Hungry bone syndrome
 Hunt-Hess scale
 Hunter syndrome
-Huntington’s disease
+Huntington's disease
 Hurler syndrome
 Hurler-Scheie disease
 Hutchinson-Gilford progeria
-Hutchinson’s
-Hutchinson’s sign
-Hutchinson’s teeth
+Hutchinson's
+Hutchinson's sign
+Hutchinson's teeth
 Hyaline cast
 Hyaluronan
 Hyaluronic acid
@@ -5277,7 +5268,6 @@ Immunization
 Immunocompromised patient
 Immunofluorescent antibody technique
 Immunoglobulin
-Immunoglobulin A
 Immunoglobulin A deficiency
 Immunoglobulin A nephropathy
 Immunoglobulin E
@@ -5344,7 +5334,6 @@ Influenza A virus
 Influenza B virus
 Influenza C virus
 Influenza vaccine
-Influenza virus
 Information technology
 Informed consent
 Infusate
@@ -5423,13 +5412,12 @@ Intermediate metabolizers
 Intermittent negative-pressure ventilation
 Intermittent pneumatic compression device
 Intermittent positive-pressure ventilation
-Internal cardiac defibrillator (ICD)
+Internal cardiac defibrillator
 Internalins
-International Monetary Fund (IMF)
+International Monetary Fund
 International Normalized Ratio
 International Sensitivity Index
 International Staging System
-Internet use by
 Interstitial fluid
 Interstitial lung disease
 Interstitial nephritis
@@ -5528,7 +5516,7 @@ Iron-deficiency erythropoiesis
 Iron-hematoxylin stain
 Iron-overload cardiomyopathy
 Irritable bowel syndrome
-Isaacs’ syndrome
+Isaacs' syndrome
 Ischemia-reperfusion injury
 Ischemic cascade
 Ischemic colitis
@@ -5581,7 +5569,7 @@ Jaeger card
 Jamaica bush tea
 Jamestown Canyon virus
 Janeway lesions
-Jansen’s disease
+Jansen's disease
 Janus-associated kinase deficiency
 Japanese
 Japanese encephalitis vaccine
@@ -5598,7 +5586,7 @@ Jervell and Lange-Nielsen syndrome
 Jet lag disorder
 Jigger
 Jin Bu Huan
-Job’s syndrome
+Job's syndrome
 Jod-Basedow phenomenon
 Joint
 Joint Commission of Accreditation of Healthcare Organizations
@@ -5617,7 +5605,7 @@ Judgment
 Jugular foramen syndrome
 Jugular venous pressure
 Jugular venous pulse
-Jumper’s knee
+Jumper's knee
 Junctional nevus
 Junctional premature complexes
 Junin virus
@@ -5632,11 +5620,11 @@ Kaletra
 Kanagawa phenomenon
 Kanamycin
 Kaolin-pectin
-Kaposi’s sarcoma
-Kaposi’s sarcoma-associated herpesvirus
+Kaposi's sarcoma
+Kaposi's sarcoma-associated herpesvirus
 Karelian fever
 Karnofsky Performance Scale
-Kartagener’s syndrome
+Kartagener's syndrome
 Karyotype
 Kasabach-Merritt syndrome
 Katayama fever
@@ -5651,7 +5639,7 @@ Kelling-Madlener procedure
 Keloid
 Kemerovo virus
 Kennedy syndrome
-Kennedy’s disease
+Kennedy's disease
 Kenney-Caffey syndrome
 Kenya tick typhus
 Keratic precipitates
@@ -5688,7 +5676,7 @@ Kidney disease
 Kidney stones
 Kikuchi disease
 Kimmelstiel-Wilson nodules
-Kimura’s disease
+Kimura's disease
 Kindler syndrome
 Kinete
 Kingella kingae
@@ -5707,21 +5695,21 @@ Kniest syndrome
 Knock-out/knock-in mice
 Koebner phenomenon
 Kokobera virus
-Koplik’s spots
+Koplik's spots
 Korean hemorrhagic fever virus
 Korotkoff sounds
-Korsakoff ’s psychosis
-Korsakoff ’s syndrome
-Kostmann’s syndrome
+Korsakoff 's psychosis
+Korsakoff 's syndrome
+Kostmann's syndrome
 Krabbe disease
 Kraits
-Krukenberg’s tumor
+Krukenberg's tumor
 Kugelberg-Welander disease
 Kupffer cells
 Kurtzke Expanded Disability Status Score
 Kuru
 Kussmaul respiration
-Kussmaul’s sign
+Kussmaul's sign
 Kuzyme products
 Kviem-Siltzbach procedure
 Kwashiorkor
@@ -5748,7 +5736,7 @@ La Crosse encephalitis virus
 Labetalol
 Laboratory diagnosis of infectious disease
 Laboratory tests
-Laboratory worker’s hypersensitivity pneumonitis
+Laboratory worker's hypersensitivity pneumonitis
 Laboratory-acquired infections
 Labrum
 Labyrinthine dysfunction
@@ -5759,7 +5747,6 @@ Lactase pills
 Lactate
 Lactate dehydrogenase
 Lactate dehydrogenase deficiency
-Lactation
 Lactic acidosis
 Lactobacillus spp.
 Lactobacillus therapy
@@ -5772,9 +5759,9 @@ Lactulose
 Lacunar cells
 Lacunar infarction
 Lacunes
-Laennec’s
+Laennec's
 Laetrile
-Lafora’s disease
+Lafora's disease
 Laing distal myopathy
 Lambda sign
 Lambert-Eaton myasthenic syndrome
@@ -5796,7 +5783,7 @@ Lansoprazole-naproxen
 Lap-band
 Laparotomy
 Lapatinib
-Laplace’s law
+Laplace's law
 Large granular lymphocytes
 Laron syndrome
 Larva currens
@@ -5830,7 +5817,7 @@ Lead-time bias
 League of Nations
 Learning
 Leber hereditary optic neuropathy
-Leber’s hereditary
+Leber's hereditary
 Lecithin-cholesterol acyltransferase
 Lectins
 Leech infestations
@@ -5863,7 +5850,7 @@ Leiomyosarcoma
 Leishmania spp.
 Leishmaniasis
 Leishmaniasis recidivans
-Lemierre’s syndrome
+Lemierre's syndrome
 Lenalidomide
 Length-biased sampling
 Lennox-Gastaut syndrome
@@ -5911,9 +5898,8 @@ Lev disease
 Levallorphan
 Levamisole
 Levetiracetam
-Levine’s sign
+Levine's sign
 Levocardia
-Levodopa
 Levodopa-induced dyskinesia
 Levofloxacin
 Levonorgestrel
@@ -5924,8 +5910,9 @@ Lewis blood group
 Lewisite
 Leydig cell tumor
 Leydig cells
-Lhermitte’s sign/symptom
-Lhermitte’s syndrome
+Lhermitte's symptom
+Lhermitte's sign
+Lhermitte's syndrome
 Li-Fraumeni syndrome
 Libido
 Libman-Sacks endocarditis
@@ -5936,7 +5923,7 @@ Lichen simplex chronicus
 Lichenification
 Licorice
 Lidamidine
-Liddle’s syndrome
+Liddle's syndrome
 Lidocaine-prilocaine
 Life expectancy
 Lifestyle factors
@@ -5963,7 +5950,6 @@ Liothyronine
 Lip reading
 Lipase
 Lipid
-Lipid A
 Lipid bodies
 Lipid mediators
 Lipid raft
@@ -5984,7 +5970,6 @@ Lipoprotein
 Lipoprotein disorders
 Lipoprotein glomerulopathy
 Lipoprotein lipase
-Lipoprotein(a)
 Liposarcoma
 Liposomes
 Lipoteichoic acid
@@ -6029,7 +6014,7 @@ Locked-in syndrome
 Locus for enterocyte effacement
 Locus heterogeneity
 Lod score
-Loeffler’s syndrome
+Loeffler's syndrome
 Loiasis
 Lomustine
 Lone star tick
@@ -6041,7 +6026,7 @@ Long-term potentiation
 Longevity
 Loop diuretics
 Loop of Henle
-Looser’s zones
+Looser's zones
 Loperamide
 Loperidol
 Lopinavir
@@ -6066,11 +6051,11 @@ Lower esophageal temperature
 Lower motor neuron
 Lower motor neuron disease
 Lower motor neuron weakness
-Lowe’s syndrome
+Lowe's syndrome
 Lubiprostone
 Lubricin
-Lucio’s phenomenon
-Ludwig’s angina
+Lucio's phenomenon
+Ludwig's angina
 Lues maligna
 Lumbar plexus
 Lumbar puncture
@@ -6154,7 +6139,7 @@ Lysosomal storage disease
 Lysosomes
 Lysozyme
 Lyssavirus
-Löfgren’s syndrome
+Löfgren's syndrome
 M cells
 M component
 M protein
@@ -6212,7 +6197,7 @@ Maculopapular eruptions
 Mad cow disease
 Madurella mycetomatis
 Mafenide acetate
-Maffucci’s syndrome
+Maffucci's syndrome
 Maggots
 Magnesium
 Magnesium chloride
@@ -6228,7 +6213,7 @@ Magnetic resonance imaging
 Magnetic resonance neurography
 Magnetoencephalography
 Maintenance dose
-Majocchi’s granuloma
+Majocchi's granuloma
 Major depression
 Major histocompatibility complex genes
 Mal del pinto
@@ -6252,7 +6237,7 @@ Mallenkot catheter
 Mallory-Weiss tears
 Malnutrition
 Malocclusion
-Malt worker’s lung
+Malt worker's lung
 Maltese cross
 Mammary souffle
 Mammography
@@ -6298,7 +6283,7 @@ Masaoka staging
 Mason-Pfizer monkey virus
 Mass movements
 Massage therapy
-Masson’s trichrome stain
+Masson's trichrome stain
 Mast cell
 Mast cell leukemia
 Mast cell sarcoma
@@ -6326,8 +6311,8 @@ Mayer-Rokitansky-Kuster-Hauser syndrome
 Mazindol
 Mazzotti reaction
 Mazzotti test
-McArdle’s disease
-McConnell’s sign
+McArdle's disease
+McConnell's sign
 McCune-Albright syndrome
 McLeod blood group
 McLeod phenotype
@@ -6345,9 +6330,9 @@ Measles-mumps-rubella-varicella vaccine
 Mebendazole
 Mecamylamine
 Mechanical ventilation
-Mechanic’s hands
+Mechanic's hands
 Mechlorethamine
-Meckel’s diverticulum
+Meckel's diverticulum
 Meclizine
 Meconium ileus
 Meconium ileus equivalent
@@ -6375,7 +6360,6 @@ Medical records
 Medicare
 Medicare Advantage
 Medication
-Medication errors
 Medication-overuse headache
 Medicinal leech
 Medicine
@@ -6392,7 +6376,7 @@ Medullary sponge kidney
 Medullary stroke syndrome
 Medullary thyroid cancer
 Medulloblastoma
-Mees’ lines
+Mees' lines
 Mefenamic acid
 Mefloquine
 Megacolon
@@ -6406,8 +6390,8 @@ Megestrol
 Meglumine antimonate
 Meibomian gland carcinoma
 Meibomitis
-Meige’s disease
-Meigs’ syndrome
+Meige's disease
+Meigs' syndrome
 Meiosis
 Melanin-concentrating hormone
 Melanocortin receptors
@@ -6422,8 +6406,8 @@ Melarsoprol
 Melasma
 Melatonin
 Melena
-Meleney’s gangrene
-Meleney’s ulcer
+Meleney's gangrene
+Meleney's ulcer
 Melioidosis
 Melkersson-Rosenthal syndrome
 Melodic intonation therapy
@@ -6440,7 +6424,7 @@ Men who have sex with men
 Menaquinone
 Menarche
 Mendelian disorders
-Mendelson’s syndrome
+Mendelson's syndrome
 Meningeal biopsy
 Meningeal carcinomatosis
 Meningioma
@@ -6454,7 +6438,7 @@ Meningomyelocele
 Meniscal cartilage
 Meniscal tear
 Meniscectomy
-Menkes’ disease
+Menkes' disease
 Menopause
 Menorrhagia
 Menstrual bleeding
@@ -6546,7 +6530,8 @@ Methylcyclopentadienyl manganese tricarbonyl
 Methyldopa
 Methylene blue
 Methylenedioxymethamphetamine (MMDA
-Methylmalonic acidemia/aciduria
+Methylmalonic acidemia
+Methylmalonic aciduria
 Methylmercury
 Methylnaltrexone
 Methylphenidate
@@ -6622,11 +6607,11 @@ Military antishock trousers
 Milk
 Milk of magnesia
 Milk-alkali syndrome
-Milker’s nodule
+Milker's nodule
 Millard-Gubler syndrome
 Miller Fisher syndrome
 Miller-Dieker syndrome
-Miller’s lung
+Miller's lung
 Millipede dermatitis
 Milrinone
 Milroy disease
@@ -6727,7 +6712,8 @@ Monopotent cells
 Monosodium urate crystals
 Monosomy
 Montelukast
-Monthly contraceptive estrogen/progestin injection
+Monthly contraceptive estrogen
+Monthly progestin injection
 Mood disorders
 Moon facies
 Moonshine
@@ -6787,7 +6773,7 @@ Multidrug resistance phenotype
 Multifactorial disorder
 Multifocal motor neuropathy
 Multiorgan system failure
-Multiple carboxylase/biotinidase deficiency
+Multiple carboxylase
 Multiple cranial nerve syndromes
 Multiple endocrine neoplasia
 Multiple epiphyseal dysplasia
@@ -6811,7 +6797,7 @@ Munchausen syndrome
 Mupirocin
 Murine typhus
 Murmur
-Murphy’s sign
+Murphy's sign
 Murray Valley encephalitis virus
 Muscarinic agonists
 Muscle biopsy
@@ -6835,10 +6821,10 @@ Muscle-specific kinase
 Muscling
 Muscular ring
 Musculoskeletal disease
-Mushroom worker’s disease
+Mushroom worker's disease
 Mushrooms
 Music therapy
-Musician’s cramp
+Musician's cramp
 Musk ambrette
 Mustard gas
 Mustard operation
@@ -6947,14 +6933,13 @@ Myringotomy
 Myxedema
 Myxedema coma
 Myxoma
-Ménière’s disease
+Ménière's disease
 Müllerian agenesis
 Müllerian-inhibiting substance
 N-Acetylcysteine
 N-Acetylglutamate synthase deficiency
 N-Acetylpenicillamine
 N-Acetyltransferase
-N-acetylcysteine
 N-terminal pro-BNP
 NADH dehydrogenase deficiency
 NADPH oxidase
@@ -6970,7 +6955,6 @@ NK cells
 NK/T cells
 NMDA antagonists
 NMDA receptors
-NO-1
 NPH insulin
 NREM
 NSAID-induced
@@ -7012,7 +6996,7 @@ Nasopharyngeal culture
 Nasotracheal intubation
 Natalizumab
 Nateglinide
-National Clinicians’ Post-Exposure Prophylaxis Hotline
+National Clinicians' Post-Exposure Prophylaxis Hotline
 National Healthcare Safety Network
 National Quality Forum
 Native American medicine
@@ -7045,7 +7029,7 @@ Neisseria gonorrhoeae
 Neisseria meningitidis
 Neisseria meningitidis vaccine
 Neisseria spp.
-Nelson’s syndrome
+Nelson's syndrome
 Nemaline myopathy
 Nematodes
 Neobladder
@@ -7191,7 +7175,7 @@ Night terrors
 Night work
 Nightmares
 Nigrostriatal pathway
-Nikolsky’s sign
+Nikolsky's sign
 Nil lesion
 Nilotinib
 Nilutamide
@@ -7219,7 +7203,7 @@ Nitroprusside ketone reaction
 Nitrosamines
 Nitrosoureas
 Nitrous oxide
-Nixon’s method
+Nixon's method
 Nizatidine
 Njovera
 No-see-ums
@@ -7236,7 +7220,7 @@ Nodule
 Noma
 Non-24 hour sleep-wake disorder
 Non-HDL cholesterol
-Non-Hodgkin’s lymphoma
+Non-Hodgkin's lymphoma
 Non-islet cell tumors
 Nonaka distal myopathy
 Nonallelic heterogeneity
@@ -7260,7 +7244,7 @@ Nonsense mutation
 Nonspecific immunity
 Nonsteroidal anti-inflammatory drugs
 Nontropical sprue
-Noonan’s syndrome
+Noonan's syndrome
 Norepinephrine
 Norfloxacin
 Norgestrel
@@ -7277,7 +7261,7 @@ Nose
 Nosema spp.
 Nosocomial infections
 Notch ligands
-Nothnagel’s syndrome
+Nothnagel's syndrome
 Notifiable disease
 Novacor LVAD
 Novobiocin
@@ -7350,7 +7334,7 @@ Odor Stix test
 Odorant
 Odorant-binding proteins
 Odynophagia
-Office of Research on Women’s Health (NIH)
+Office of Research on Women's Health (NIH)
 Ofloxacin
 Okuda staging
 Old World
@@ -7414,12 +7398,13 @@ Ophthalmopathy
 Ophthalmoplegia
 Opiates
 Opioid
-Opioid abuse/dependence
+Opioid abuse
+Opioid dependence
 Opioid maintenance program
 Opioid receptors
 Opisthorchiasis
 Opisthotonos
-Oppenheim’s dystonia
+Oppenheim's dystonia
 Oprelvekin
 Opsoclonus
 Opsoclonus-myoclonus syndrome
@@ -7489,7 +7474,7 @@ Orungo virus
 Oscillopsia
 Oseltamivir
 Osler-Weber-Rendu syndrome
-Osler’s nodes
+Osler's nodes
 Oslo Study
 Osmolality
 Osmolar gap
@@ -7588,7 +7573,7 @@ Oxyphenisatin
 Oxytetracycline
 Oxytocin
 Ozone
-O’nyong-nyong virus
+O'nyong-nyong virus
 P blood group
 P system antigens
 P wave
@@ -7606,7 +7591,6 @@ PAR-1 inhibitors
 PARV4/5
 PERRLA
 PET scan
-PET scanning
 PFA-100
 PFPA syndrome
 PGAI
@@ -7641,7 +7625,7 @@ Palifermin
 Palilalia
 Palinopia
 Palivizumab
-Palla’s sign
+Palla's sign
 Palliative Care Outcomes Scale
 Palliative Prognostic Index
 Palliative care
@@ -7762,10 +7746,10 @@ Parietal cell antibodies
 Parietal cortex
 Parietal peritoneum inflammation
 Parietofrontal network
-Parinaud’s complex
-Parinaud’s syndrome
+Parinaud's complex
+Parinaud's syndrome
 Parkinsonism
-Parkinson’s disease
+Parkinson's disease
 Paromomycin
 Paronychia
 Parotid cyst
@@ -7778,7 +7762,7 @@ Paroxysmal hemicrania
 Paroxysmal nocturnal dyspnea
 Paroxysmal nocturnal hemoglobinuria
 Paroxysmal supraventricular tachyarrhythmia
-Parrot’s pseudoparalysis
+Parrot's pseudoparalysis
 Pars planitis
 Parsonage-Turner syndrome
 Partial liquid ventilation
@@ -7792,8 +7776,8 @@ Parvus et tardus pulse
 Passive diffusion
 Passive transport
 Pasteurella multocida
-Pasteur’s effect
-Pastia’s lines
+Pasteur's effect
+Pastia's lines
 Patch (skin lesion)
 Patch testing
 Patellar reflex
@@ -7812,7 +7796,7 @@ Patient Self-Determination Act
 Patient autonomy
 Patient satisfaction
 Patient-controlled analgesia
-Patrick’s sign
+Patrick's sign
 Pattern recognition receptors
 Pay-for-performance system
 Pearson syndrome
@@ -7842,7 +7826,7 @@ Pelvic infections
 Pelvic inflammatory disease
 Pelvic pain
 Pelvic thrombophlebitis
-Pemberton’s sign
+Pemberton's sign
 Pemetrexed
 Pemoline
 Pemphigoid
@@ -8012,7 +7996,7 @@ Phagocytes
 Phagocytosis
 Phagosome
 Phakomatoses
-Phalen’s sign
+Phalen's sign
 Phantogeusia
 Phantom pain
 Phantosmia
@@ -8045,7 +8029,6 @@ Phenothiazines
 Phenotype
 Phenotypic heterogeneity
 Phenotypic sex
-Phenotyping
 Phenoxybenzamine
 Phentermine
 Phentolamine
@@ -8071,9 +8054,9 @@ Phosgene
 Phosphate crystals
 Phosphate wasting
 Phosphate-binding agents
-Phosphate/phosphorus
-Phosphate/phosphorus restriction
-Phosphate/phosphorus therapy
+Phosphate
+Phosphate restriction
+Phosphate therapy
 Phosphatidylinositol-3-kinase
 Phosphatonin
 Phosphenytoin
@@ -8100,7 +8083,6 @@ Photoprotection
 Photoreceptors
 Photorhabdus spp.
 Photosensitivity
-Photosensitizer
 Phototest procedures
 Phototherapy
 Phototoxic eruptions
@@ -8123,7 +8105,7 @@ Pian
 Picaridin
 Pick bodies
 Pickwickian syndrome
-Pick’s disease
+Pick's disease
 Picobirnavirus
 Picornavirus
 Piebaldism
@@ -8164,7 +8146,7 @@ Pituitary cancer
 Pituitary disease
 Pituitary dysplasia
 Pituitary gland
-Pituitary snuff taker’s lung
+Pituitary snuff taker's lung
 Pituitary tumor (adenoma)
 Pituitary-adrenal axis
 Pityriasis alba
@@ -8188,7 +8170,8 @@ Plasma
 Plasma cell
 Plasma cell disorders
 Plasma cell leukemia
-Plasma cell myeloma/plasmacytoma
+Plasma cell myeloma
+Plasma cell plasmacytoma
 Plasma cell tumors
 Plasma derivatives
 Plasma exchange
@@ -8199,7 +8182,8 @@ Plasminogen
 Plasminogen activator
 Plasminogen activator inhibitor
 Plasmodium
-Plasmodium LDH dipstick/card test
+Plasmodium card test
+Plasmodium LDH dipstick
 Plasmodium falciparum
 Plasmodium knowlesi
 Plasmodium malariae
@@ -8345,7 +8329,6 @@ Porphobilinogen
 Porphyria
 Porphyrin
 Porphyrinogens
-Porphyrins
 Porphyromonas spp.
 Portal hypertension
 Portal inflammation
@@ -8412,7 +8395,7 @@ Potassium supplementation
 Potassium-binding resins
 Potassium-competitive acid pump antagonists
 Potassium-sparing diuretics
-Potato riddler’s lung
+Potato riddler's lung
 Pouchitis
 Powassan virus
 Poxvirus
@@ -8431,7 +8414,7 @@ Precocious puberty
 Preconceptual diagnosis
 Precordial palpation
 Precordial thump
-Precursor B cell lymphoblastic leukemia/lymphoma
+Precursor B cell lymphoblastic leukemia
 Prediction models
 Predictive value of test
 Predisposition testing
@@ -8490,7 +8473,7 @@ Primitive reflexes
 Primordial follicle
 Primordial germ cells
 Principal cells
-Prinzmetal’s variant angina
+Prinzmetal's variant angina
 Prion disease
 Prion protein
 Privacy regulations
@@ -8572,7 +8555,7 @@ Propofol
 Propoxyphene
 Propranolol
 Proprioception
-Proprotein convertase subtilisin/kexin type 9
+Proprotein convertase subtilisin
 Proptosis
 Propyldopacetamide
 Propylene glycol
@@ -8596,7 +8579,6 @@ Prostate-specific antigen
 Prostate-specific antigen density
 Prostatectomy
 Prostatic abscess
-Prostatitis
 Prosthetic device
 Prosthetic heart valves
 Prosthetic joint infections
@@ -8650,7 +8632,7 @@ Prurigo nodularis
 Pruritus
 Prussian blue
 Pseudallescheriasis
-Pseudo-Cushing’s syndrome
+Pseudo-Cushing's syndrome
 Pseudo-Hurler polydystrophy
 Pseudo-Kaposi sarcoma
 Pseudo-ankylosing spondylitis
@@ -8794,7 +8776,7 @@ Purine nucleoside phosphorylase deficiency
 Purple toes
 Purpura
 Purpura fulminans
-Purtscher’s retinopathy
+Purtscher's retinopathy
 Purupuru
 Pus
 Push endoscopy
@@ -8815,7 +8797,6 @@ Pyrantel pamoate
 Pyrazinamide
 Pyridostigmine
 Pyridoxine
-Pyrimethamine
 Pyrimidine dimers
 Pyrimidine-5′-nucleotidase deficiency
 Pyrin
@@ -8850,8 +8831,8 @@ Queensland tick typhus
 Quetiapine
 Quinacrine
 Quinagolide
-Quincke’s
-Quincke’s pulsations
+Quincke's
+Quincke's pulsations
 Quinidine
 Quinine
 Quinsy
@@ -8881,9 +8862,6 @@ Rabies virus
 Rabson-Mendenhall syndrome
 Raccoon-eyes sign
 Rachitic rosary
-Racial/ethnic disparities in health care
-Racism
-Rad
 Radial neuropathy
 Radial pulse
 Radiation
@@ -8919,30 +8897,29 @@ Raltegravir
 Ramipril
 Ramonibant
 Ramsay Hunt syndrome
-Randall’s plaques
+Randall's plaques
 Range of motion
 Ranitidine
 Ranolazine
 Rapamycin
 Rapid acetylators
 Rapid plasma reagin (RPL) test
-Ras/mitogen-activated protein kinase pathway
 Rasagiline
 Rasburicase
 Rash
-Rasmussen’s aneurysm
-Rasmussen’s encephalitis
+Rasmussen's aneurysm
+Rasmussen's encephalitis
 Rastelli procedure
 Rat bite
 Rat flea
 Rat lungworm
 Rat-bite fever
-Rathke’s cyst
+Rathke's cyst
 Rationing
 Rattlesnake
 Rauwolfia
-Raynaud’s disease
-Raynaud’s phenomenon
+Raynaud's disease
+Raynaud's phenomenon
 Reactive arthritis
 Reactive hyperemia
 Reactive nitrogen species
@@ -9005,14 +8982,15 @@ Rehabilitation program
 Reifenstein syndrome
 Reiki
 Reimplantation response
-Reiter’s syndrome
+Reiter's syndrome
 Relapsing fever
 Relapsing polychondritis
 Relative risk
 Relaxation response training
 Religion
 Renal abscess
-Renal agenesis/dysgenesis
+Renal agenesis
+Renal dysgenesis
 Renal artery obstruction
 Renal artery stenosis
 Renal artery thrombosis
@@ -9040,7 +9018,6 @@ Renal vein obstruction
 Renal vein thrombosis
 Renin
 Renin-angiotensin-aldosterone system
-Reninism
 Renovascular disease
 Renovascular hypertension
 Reovirus
@@ -9058,7 +9035,6 @@ Reproductive system disorders
 Reptilase time
 Reptile
 Reptile bites
-Research
 Reserpine
 Reset osmostat
 Residual volume
@@ -9139,8 +9115,8 @@ Reverse transcriptase inhibitors
 Reverse type
 Reversible posterior leukoencephalopathy
 Rewarming
-Reye’s syndrome
-Reynolds’ pentad
+Reye's syndrome
+Reynolds' pentad
 Rh system
 Rh0(D) immune globulin
 Rhabdomyolysis
@@ -9191,7 +9167,7 @@ Rickettsia slovaca
 Rickettsia typhi
 Rickettsial diseases
 Rickettsialpox
-Riedel’s thyroiditis
+Riedel's thyroiditis
 Rifampin
 Rifaximin
 Rift Valley fever virus
@@ -9228,9 +9204,9 @@ Rodent control
 Rodent-borne viruses
 Roferon-A
 Rokitansky-Aschoff sinuses
-Rolfing/structural integration
+Rolfing
 Roll Back Malaria campaign
-Romaña’s sign
+Romaña's sign
 Romberg sign
 Root canal therapy
 Ropinirole
@@ -9246,7 +9222,7 @@ Rotator cuff tendinitis
 Rotavirus
 Rotavirus vaccine
 Rothmund-Thomson syndrome
-Roth’s spots
+Roth's spots
 Rotigotine
 Rotor syndrome
 Rotterdam Symptom Checklist
@@ -9264,7 +9240,7 @@ Rubinstein-Taybi syndrome
 Rubor
 Rubrospinal pathway
 Rumination
-Russell’s viper
+Russell's viper
 Russian spring-summer encephalitis virus
 Ryanodine receptor
 S wave
@@ -9294,7 +9270,8 @@ ST-segment elevation
 STAT
 STAT proteins
 STAT5
-SUNCT/SUNA
+SUNCT
+SUNA
 Sabia virus
 Saccadomania
 Saccharomyces boulardii
@@ -9360,8 +9337,8 @@ Sarin
 Sashimi
 Satiety center
 Saturday night palsy
-Sauna taker’s lung
-Sausage worker’s lung
+Sauna taker's lung
+Sausage worker's lung
 Saw palmetto
 Saxitoxin
 Scabicides
@@ -9375,7 +9352,7 @@ Scar
 Scarlatiniform eruptions
 Scarlet fever
 Scavenger receptors
-Schatzki’s ring
+Schatzki's ring
 Scheie syndrome
 Schilling test
 Schirmer strip
@@ -9394,7 +9371,7 @@ Schnitzler syndrome
 Schober test
 Schulman-Upshaw syndrome
 Schwannoma
-Schüffner’s dots
+Schüffner's dots
 Sciatic neuropathy
 Sciatica
 Science of medicine
@@ -9418,7 +9395,7 @@ Scopolamine
 Scorpion sting
 Scorpionfish
 Scotoma
-Scott’s syndrome
+Scott's syndrome
 Scratch-and-sniff card
 Scratches
 Screening tests
@@ -9431,7 +9408,7 @@ Sea anemones
 Sea snakes
 Sea sponge
 Sea urchins
-Seabather’s eruption
+Seabather's eruption
 Seal bite
 Seal finger
 Seasonal affective disorder
@@ -9470,7 +9447,8 @@ Selenium sulfide
 Selenocysteine
 Selenosis
 Self-antigens
-Self-esteem/self-image
+Self-esteem
+self-image
 Sella chordoma
 Sellar fracture
 Sellar mass
@@ -9514,7 +9492,8 @@ Sequence-tagged sites
 Sequestra
 Sequoiosis
 Serine kinase receptors
-Serine/tyrosine kinase inhibitors
+Serine
+tyrosine kinase inhibitors
 Seroconversion
 Serodia TP-PA test
 Serolemmas
@@ -9561,7 +9540,7 @@ Shaking rigors
 Shapiro syndrome
 Sharp wave
 Shawl sign
-Sheehan’s syndrome
+Sheehan's syndrome
 Shell-vial culture
 Shellfish
 Shellfish poisoning
@@ -9578,7 +9557,7 @@ Shingles
 Shivering
 Shock
 Shock blocks
-Shohl’s solution
+Shohl's solution
 Short QT syndrome
 Short bowel syndrome
 Short stature
@@ -9640,13 +9619,13 @@ Sinus exit block
 Sinus histiocytosis with massive lymphadenopathy
 Sinus node
 Sinus node recovery time
-Sinus of Valsalva fistula/aneurysm
+Sinus of Valsalva fistula
 Sinus pause
 Sinus rhythm
 Sinus tachycardia
 Sirolimus
 Sirtuins
-Sister Mary Joseph’s node
+Sister Mary Joseph's node
 Sister of p-glycoprotein
 Sitagliptin
 Sitamaquine
@@ -9654,7 +9633,7 @@ Siti
 Sitosterolemia
 Sitzmark study
 Sixth nerve palsy
-Sjögren’s syndrome
+Sjögren's syndrome
 Skeletal system
 Skerljevo
 Skew deviation
@@ -9834,7 +9813,7 @@ Spinal artery
 Spinal bruit
 Spinal cord
 Spinal cord compression
-Spinal cord disease/injury
+Spinal cord disease
 Spinal cord ischemia
 Spinal manipulation
 Spinal meningitis
@@ -9886,12 +9865,12 @@ Spreading depression
 Sprouting (angiogenesis)
 Spur cell
 Spur cell anemia
-Spurling’s sign
+Spurling's sign
 Sputum
 Sputum analysis
 Squamous cell carcinoma
 Squamous intraepithelial lesion
-St. John’s wort
+St. John's wort
 St. Louis encephalitis virus
 StAR protein
 Stacking
@@ -9916,7 +9895,7 @@ Stasis ulcer
 Statins
 Statistical prediction models
 Status epilepticus
-Stauffer’s syndrome
+Stauffer's syndrome
 Stavudine
 Steady state
 Steatohepatitis
@@ -9948,8 +9927,8 @@ Stibine
 Stickler syndrome
 Stiff-person syndrome
 Stillbirth
-Still’s disease
-Still’s murmur
+Still's disease
+Still's murmur
 Stimulation tests
 Stinging ants
 Stingray encounter
@@ -10067,11 +10046,10 @@ Sudan III stain
 Sudden cardiac death
 Sudden infant death syndrome
 Sudden unexpected death in epileptic patients
-Sudeck’s point
+Sudeck's point
 Sudomotor function
 Sugar Busters diet
 Suicide
-Suicide/suicide risk
 Sulbactam
 Sulconazole
 Sulfacetamide
@@ -10133,15 +10111,14 @@ Swallowing
 Swank diet
 Sweat
 Sweat glands
-Sweating
-Sweet’s syndrome
-Swimmer’s ear
-Swimmer’s itch
+Sweet's syndrome
+Swimmer's ear
+Swimmer's itch
 Swimming-pool granuloma
 Swinging flashlight test
 Swyer syndrome
-Sydenham’s chorea
-Symmers’ clay pipe-stem fibrosis
+Sydenham's chorea
+Symmers' clay pipe-stem fibrosis
 Sympathectomy
 Sympathetic ophthalmia
 Sympathetic postganglionic neuron
@@ -10183,13 +10160,11 @@ Systolic click-murmur syndrome
 Systolic ejection murmur
 Systolic murmur
 T cell
-T cell
 T cell lymphoma
 T cell prolymphocytic leukemia
 T cell receptor
 T cell receptor excision circles
 T regulatory cells
-T wave
 T wave alternans
 T-dependent
 T-piece
@@ -10229,7 +10204,7 @@ Taeniasis saginata
 Taeniasis solium
 Tafenoquine
 Tahyna virus
-Takayasu’s arteritis
+Takayasu's arteritis
 Tako-Tsubo cardiomyopathy
 Talc
 Talc dust
@@ -10388,7 +10363,7 @@ Thiothixene
 Third cranial nerve palsy
 Third spacing
 Thirst
-Thomsen’s disease
+Thomsen's disease
 Thoracentesis
 Thoracic lavage
 Thoracic outlet
@@ -10521,7 +10496,7 @@ Tinea nigra
 Tinea pedis
 Tinea unguium
 Tinea versicolor
-Tinel’s sign
+Tinel's sign
 Tingling
 Tinidazole
 Tinnitus
@@ -10548,9 +10523,9 @@ Titin
 Tizanidine
 To-fro murmur
 Tobacco use
-Tobacco worker’s lung
+Tobacco worker's lung
 Tobramycin
-Todd’s paralysis
+Todd's paralysis
 Toe-web infections
 Togavirus
 Tolazamide
@@ -10636,7 +10611,6 @@ Transcranial magnetic stimulation
 Transcription
 Transcription factors
 Transcriptome
-Transcriptomics
 Transcutaneous electrical nerve stimulation
 Transdifferentiation
 Transduction
@@ -10681,12 +10655,12 @@ Transverse sinus thrombosis
 Transversion
 Tranylcypromine
 Trastuzumab
-Traube’s semilunar space
-Traube’s sign
+Traube's semilunar space
+Traube's sign
 Trauma
 Traumatic shock
 Travel history
-Travelers’ diarrhea
+Travelers' diarrhea
 Trazodone
 Treacher Collins syndrome
 Treg
@@ -10781,8 +10755,8 @@ Tropical sprue
 Tropisetron
 Tropolone
 Troponins
-Trousseau’s sign
-Trousseau’s syndrome
+Trousseau's sign
+Trousseau's syndrome
 Trovafloxacin
 Troxacitabine
 True-negative tests
@@ -10815,7 +10789,6 @@ Tularemia vaccine
 Tumbu fly
 Tumeric
 Tumor
-Tumor (sign of inflammation)
 Tumor burden
 Tumor embolus
 Tumor lysis syndrome
@@ -10837,11 +10810,11 @@ Tungsten carbide
 Tunica media
 Tunnel infections
 Tunneled dialysis catheter
-Turcot’s syndrome
-Turkey handler’s lung
+Turcot's syndrome
+Turkey handler's lung
 Turner syndrome
 Tuskegee Study
-Twiddler’s syndrome
+Twiddler's syndrome
 Two-point discrimination test
 Tylosis palmaris et plantaris
 Tympanic membrane
@@ -10859,11 +10832,10 @@ Typhus
 Tyramine
 Tyrosine kinase
 Tyrosine kinase JAK2
-Tyrosine kinase inhibitors
 Tyrosinemia
 Tzanck smear
 Tâche noire
-T’ai chi ch’uan
+T'ai chi ch'uan
 U wave
 U.S. Preventive Services Task Force
 UGT1 gene complex
@@ -10872,7 +10844,7 @@ UV-B
 UV-induced
 Ubc13
 Ubiquitin
-Uhthoff ’s symptom
+Uhthoff 's symptom
 Ulcer
 Ulcerative colitis
 Ulnar neuropathy
@@ -10894,13 +10866,13 @@ Underwater weighing
 Underweight
 Undescended testes
 Undulant fever
-Unequal Treatment (IOM report)
+Unequal Treatment
 Unfractionated heparin
 Uniparental disomy
 Unipolar depressive disorder
 Uniporter
 Unipotent cells
-United Nations Children’s Fund (UNICEF)
+UNICEF
 United Nations Development Program
 United Network for Organ Sharing
 Universal precautions
@@ -11025,7 +10997,7 @@ Valganciclovir
 Valgus deformity
 Valley fever
 Valosin
-Valproate/valproic acid
+Valproate
 Valrubicin
 Valsalva maneuver
 Valsalva ratio
@@ -11042,7 +11014,7 @@ Varenicline
 Variable expressivity
 Variable number of tandem repeats
 Variceal bleeding
-Varicella (chickenpox)
+Varicella
 Varicella vaccine
 Varicella-zoster immune globulin
 Varicella-zoster vaccine
@@ -11073,7 +11045,6 @@ Vasoconstriction
 Vasoconstrictor response
 Vasodilatation
 Vasodilation
-Vasodilators
 Vasointestinal polypeptide
 Vasopressin receptors
 Vasopressors
@@ -11153,7 +11124,7 @@ Vertigo
 Very-low-calorie diet
 Very-low-density lipoproteins
 Vesicants
-Vesicles/bullae
+Vesicles
 Vesicoureteral reflux
 Vesicular stomatitis virus
 Vesiculobullous eruptions
@@ -11190,7 +11161,7 @@ Vigabatrin
 Villous adenoma
 Vimentin
 Vinblastine
-Vincent’s angina
+Vincent's angina
 Vincristine
 Vindesine
 Vinorelbine
@@ -11202,7 +11173,7 @@ Viral hemorrhagic fever
 Viral infections
 Viral load
 Viral vaccines
-Virchow’s node
+Virchow's node
 Viremia
 Viroid
 Virulence
@@ -11225,7 +11196,6 @@ Visuospatial scratchpad
 Vital capacity
 Vital signs
 Vitamin
-Vitamin A
 Vitamin A supplementation
 Vitamin B1
 Vitamin B12
@@ -11246,7 +11216,6 @@ Vitamin K antagonists
 Vitamin K cycle
 Vitamin K epoxide reductase
 Vitamin K supplementation
-Vitamin supplementation
 Vitiligo
 Vitrectomy
 Vitreous degeneration
@@ -11277,7 +11246,7 @@ Waardenburg syndrome
 Waist circumference
 Waist-to-hip ratio
 Wakefulness
-Waldenström’s hypergammaglobulinemia purpura
+Waldenström's hypergammaglobulinemia purpura
 Walker-Warburg syndrome
 Walrus bite
 Wangiella dermatitidis
@@ -11306,26 +11275,26 @@ Weaning from mechanical ventilation
 Weaponization
 Weber test
 Weber-Christian disease
-Weber’s syndrome
+Weber's syndrome
 Webs
 Weekly contraceptive patch
 Weeksella spp.
-Wegener’s granulomatosis
+Wegener's granulomatosis
 Weight
 Weight gain
 Weight reduction
-Weil’s syndrome
+Weil's syndrome
 Welander distal myopathy
 Werdnig-Hoffman disease
-Wermer’s syndrome
+Wermer's syndrome
 Wernicke-Korsakoff syndrome
-Wernicke’s
-Wernicke’s area
-Wernicke’s disease
-Wernicke’s encephalopathy
-Wernicke’s syndrome
+Wernicke's
+Wernicke's area
+Wernicke's disease
+Wernicke's encephalopathy
+Wernicke's syndrome
 West Nile virus
-Westermark’s sign
+Westermark's sign
 Western blot
 Western equine encephalitis vaccine
 Western equine encephalitis virus
@@ -11334,8 +11303,8 @@ Wheal
 Wheezing
 Whiplash injury
 Whipple procedure
-Whipple’s disease
-Whipple’s triad
+Whipple's disease
+Whipple's triad
 Whipworm
 Whisper test
 Whispered pectoriloquy
@@ -11350,33 +11319,32 @@ Whole blood
 Whole-bowel irrigation
 Whole-brain radiation therapy
 Whole-genome association study
-Wickham’s striae
+Wickham's striae
 Widow spider bite
 Wild type
-Williams’ syndrome
+Williams' syndrome
 Willow
-Wilms’ tumor
+Wilms' tumor
 Wilson disease
-Wilson’s disease
-Winegrower’s lung
+Winegrower's lung
 Winking owl sign
-Winterbottom’s sign
+Winterbottom's sign
 Wiskott-Aldrich syndrome
 Wiskott-Aldrich syndrome protein
 Withdrawal syndrome
-Withdrawal/withholding of care
+Withdrawal of care
 Wnt ligands
 Wolf-Hirschhorn syndrome
 Wolff-Chaikoff effect
 Wolff-Parkinson-White syndrome
-Wolfram’s syndrome
+Wolfram's syndrome
 Wolman disease
-Women’s health
-Wood trimmer’s disease
-Woodman’s disease
-Woodworker’s lung
-Wood’s lamp
-Wood’s lamp examination
+Women's health
+Wood trimmer's disease
+Woodman's disease
+Woodworker's lung
+Wood's lamp
+Wood's lamp examination
 Working attention
 World Bank
 World Health Organization
@@ -11385,10 +11353,10 @@ Worthing Chemotherapy Questionnaire
 Wound infections
 Wound material
 Wrap-around services
-Wright’s stain
+Wright's stain
 Wrist fracture
 Wrist pain
-Writer’s cramp
+Writer's cramp
 Writing
 Wrong-way eyes
 Wuchereria bancrofti
@@ -11424,7 +11392,7 @@ Yellow fever virus
 Yellow jacket sting
 Yellow nail syndrome
 Yellow phosphorus
-Yergason’s supination sign
+Yergason's supination sign
 Yersinia
 Yersinia enterocolitica
 Yersinia pestis
@@ -11442,8 +11410,8 @@ Zap70 tyrosine kinase deficiency
 Zeaxanthin
 Zebra bodies
 Zebularine
-Zenker’s diverticulum
-Zieve’s syndrome
+Zenker's diverticulum
+Zieve's syndrome
 Zileuton
 Zinc
 Zinc gluconate lozenges
@@ -11462,11 +11430,9 @@ abdominal
 abdominal infections
 abdominal subcutaneous
 abdominal swelling vs.
-abnormal
 abnormal impulse conduction
 abnormalities of cobalamin metabolism
 abnormalities of mononuclear cells
-abscess
 absence
 absolute
 absorption of drugs
@@ -11476,31 +11442,24 @@ accompanying diseases
 according to age
 acellular
 acephalic
-acetaminophen
-acid-base nomogram
 acid-fast staining
 acid-suppressing or neutralizing medications
 acidosis
-acne vulgaris
 acquired
 acral lentiginous
 acting in best interests of patients
-actinomycetoma
 actinomycosis
-action
 activation and repression
 activators of emesis
-active
 active against hepatitis viruses
 active against herpesvirus
 active against respiratory infections
 active external
 active peptide secreted
-active surveillance (watchful waiting)
+active surveillance
 activity reduction
 activity restriction
 acute
-acute (Marburg’s variant)
 acute HIV syndrome
 acute and chronic arthritis
 acute angle-closure
@@ -11512,7 +11471,6 @@ acute bacterial
 acute bilateral
 acute cutaneous
 acute diffuse
-acute disseminated encephalomyelitis
 acute emesis
 acute endocapillary proliferative
 acute fulminant
@@ -11543,42 +11501,22 @@ adaptation to hypoxia
 adaptation to renal injury
 adaptive
 adenocarcinoma
-adenovirus
 adipsic
-adipsic hypernatremia
-adjuvant
 adjuvant chemotherapy
 adjuvant radiotherapy
-adjuvants
 adrenal
-adrenalitis
 adult immunization
 adult-onset
 adulthood-acquired
-advance care planning
 advanced disease
-advanced life support
 adventitious
-adverse events
 afebrile
-afferent loop syndromes
-after Hodgkin’s disease
-after bariatric surgery
-after bone marrow transplantation
 after gastric resection
-after hematopoietic cell transplant
 after herpes simplex infection
 after initial recovery from MI
-after measles
-after menopause
-after renal transplant
 after resuscitated cardiac arrest
-after solid organ transplant
-after subarachnoid hemorrhage
-after testicular cancer
 after tetralogy of Fallot repair
 afterdepolarizations and trigger automaticity
-age at
 age of degenerative and human-made diseases
 age of first full-term
 age of inactivity and obesity
@@ -11588,37 +11526,26 @@ age-associated
 age-related
 age-related degenerative calcific
 aggressive
-aging
 agitated
 agnogenic
 airborne lead
 airflow obstruction
 akinetic
 alcohol-induced
-alcoholic
-aldosterone antagonists
 aldosterone-producing
 aldosterone-resistant
 alimentary
 alkaline
 alkaline-encrusted
-alkylating agents
 all-trans retinoic acid
-all-trans-retinoic acid
 allergic
 allergic bronchopulmonary
 allergic fungal
-allergic reactions
 allergy and anaphylaxis
 allocating resources justly
 allogeneic
 allogenic cells
 allograft
-alloimmunization
-alopecia
-alpha
-alpha blockers
-alprostadil
 also Carcinoid tumor; Pancreatic endocrine tumor
 also Helicobacter pylori
 also Renin-angiotensin-aldosterone system
@@ -11630,7 +11557,6 @@ altered secretion
 alternative therapies
 altitude
 alveolar
-amantadine
 ambulatory
 amebic
 amebic liver abscess
@@ -11638,29 +11564,17 @@ amegakaryocytic
 amelanotic
 amiodarone-related
 among international travelers
-amylase/creatinine clearance ratio
 amyloid fibril proteins
-anabolic steroids
-anaerobes
-anaerobic
 anaerobic bacteria
-anaerobic infections
-anal/rectal infection
-anaphylactic reactions
-anaphylactoid reaction
+anal infection
 anaplastic
 anatomic
 anatomy of trigeminal nerve
-androgen insensitivity syndromes
-androgen therapy
 androgenetic
-anemia
 anemic
 anergic
 angioimmunoblastic
-angiotensin-converting enzyme inhibitors
 anicteric
-animal bite
 animal models
 animal models of disease
 animals
@@ -11670,21 +11584,15 @@ anomic
 anorectal
 anorexigen-induced
 anoxic
-antacids
 antecedent events
 anterior
-anterior choroidal artery
 anterior wall
-anterior/septal
+septal
 anterograde
 anterolateral
-anthrax
-anthropometrics
 anti-GBM antibody-mediated
 anti-TNF antibodies
-antiandrogens
 antiangiogenic therapy
-antibacterial drugs
 antibacterial properties of secretions
 antibacterial therapy
 antibiotic prophylaxis
@@ -11694,76 +11602,47 @@ antibiotic-resistant
 antibiotics
 antibiotics after cardiac surgery
 antibiotics for dental procedures
-anticholinergics
-anticholinesterases
 anticipatory
 anticoagulant therapy
 anticoagulant-related
-anticoagulants
-anticoagulation
 antidiarrheal agents
 antidote for heparin
 antidotes
 antidromic
-antiemetics
-antiepileptic drugs
 antiflatulence therapy
-antifungal agents
 antifungal therapy
-antigen recognition by
 antileukotrienes
-antimetabolites
-antimicrobial agents
 antimicrobial resistance
 antimicrobial stewardship
 antimicrobial susceptibility testing
 antimicrobial therapy
-antimitotic agents
 antimycobacterial drugs
-antiplatelet agents
 antiplatelet drugs
 antiplatelet therapy
 antiretroviral drug-related
 antiretroviral therapy
-antispasmodics
-antithrombotic mechanisms
 antithrombotic therapy
-antituberculosis drugs
 antitumor agents
-antitumor antibiotics
-antitumor antibodies
 antitumor effects
-antivaccine advocacy groups
 antiviral therapy
 antral-predominant
 anxiety attack vs.
-aortic angiography
-aortic valve replacement
-aortitis
 apathetic
-aphthous ulcers
 apical
-aplastic anemia
 apoB-containing
 aponeurotic
-apoptosis
-apparent mineralocorticoid excess syndrome
 appendiceal
-appendicitis
 appetite regulation
 aquagenic
 arcanobacterial
 arrangement of lesions
 arrhythmia after
-arterial
 arterial pressure
 arterial pressure pulse
 arterial remodeling
 arteriolar
 arterioocclusive
-artery
 artery-to-artery
-arthritis
 arthritis and rash
 arthrochalasic type
 arthropod- and rodent borne
@@ -11774,11 +11653,8 @@ articular vs. nonarticular
 artifactual
 artificial
 ascending pathways
-ascites
 ascitic fluid
 aseptic
-aspergillosis
-aspiration
 aspirin-induced
 aspirin-sensitive
 assessment of muscle strength
@@ -11793,34 +11669,23 @@ associated with other conditions
 association with other autoimmune diseases
 asteatotic
 asthenic fatigue
-asthma
-astrovirus
-asymmetric
 asymptomatic
-asymptomatic (silent)
 asymptomatic stage
 at cellular level
 at insulin-injection site
 at rare sites
-ataxia
 ataxic
-atherectomy
-atheroembolic
-atheroembolism
 atheroma evolution
-atherosclerosis
 atherosclerotic
 atherosclerotic plaque
 atonic
 atopic
 atrial
-atrioventricular conduction disease
 atrophic
 atrophic benign
 attached to radioisotopes
 atypical
 auricular
-auricular chondritis
 autocrine control
 autoimmune
 autoimmune disorders
@@ -11829,8 +11694,6 @@ autologous cells
 automated external defibrillation
 automation of microbial detection in blood
 autonomic
-autonomic nervous system
-autonomic neuropathy
 autoprotection of pancreas
 autopsy-detected
 autoreactive
@@ -11844,133 +11707,79 @@ avoiding precipitating factors
 awareness of disparities
 axial
 axonal
-azathioprine
-azoles
-babesiosis
-bacteremia
 bacterial
 bacterial inflammation
-bacterial vaginosis
 bald
 balloon tamponade
 bamboo
 band ligation
-bariatric surgery
 barrier methods
-basaloid (cuboidal)
+basaloid
 based on detoxification and excretory functions
-basic life support
 basilar
-basophilic stippling
 bed rest
 bedside
-before dental procedures
-behavioral
-behavioral therapy
-benign
 benign
 benign disseminated
 benign familial
 benign familial neonatal
-benign forgetfulness of the elderly
 benign neoplasms
 benign paroxysmal positional
 benign pigmented
 benign recurrent
-beta agonists
-beta blockers
-bevacizumab
 biases of screening tests
 bicuspid
 bilateral
-bile acid
-bile acid sequestrants
-bile reflux gastropathy
 bile salt-induced
 biliary
-biliary dyskinesia
 bilirubin production and metabolism
-binge eating/purging subtype
 binocular
 bioadhesive buccal tablets
-bioavailable
 biogroup aegyptius
 biologic therapy
 biologically based
 biologics
 biomass smoke-induced
 bioprosthetic
-biopsy
 biopsy in cobalamin deficiency
 bioreactors
 bipolar leads
-bismuth-containing preparations
-bisphosphonates
 bite wounds
-bite-wound infections
 bitemporal
 black-tar
 bladder catheter
 blast crisis
-blastomycosis
-bleeding
 bleeding at catheter insertion site
-blood
 blood and tissue parasites
 blood components
 blood delivery system
 blood group
-blood group antigens and antibodies
-blood loss/hemolysis
+blood loss
 blood pressure goals
-blood products
-bloody
 bloody tap
-blue
-blue bloaters
-bocavirus
-body packing
 body-based
 bolus fibrinolytics
-bone
 bone and joint infections
-bone disease
 bone infections
-bone marrow
 bone marrow examination
 bone mass measurement
 bone remodeling
 borderline
-bortezomib
 both RNA and DNA genomes
-botulism
 bowel disease
 bowel management
-brachytherapy
-bradyarrhythmia
-brain abscess
 brain damage after resuscitation
-brain drain
 brain metastasis
 brainstem
-brainstem lesions
-breast cancer
 breast milk and colostrum
-breast/ovarian cancer syndrome
+breast cancer syndrome
+ovarian cancer syndrome
 brief interventions
 brittle
 broad casts
 broad-spectrum
 bronchial
-bronchial adenoma
-bronchiectasis
-bronchiolitis
-bronchiolitis obliterans
-bronchoalveolar lavage
-bronchodilators
-broncholithiasis
 bronchopulmonary
-brucellosis
 brucellosis vs.
 bubonic
 buccofacial
@@ -11979,76 +11788,41 @@ bullous
 bundle branch reentrant
 bundling of therapeutic maneuvers
 burn
-burn-wound infections
 burrowing
-by athletes and recreational body builders
-by cancer type
-by disabled person
-by heart patient
-by histopathology
-by location
-by lung disease patient
-by organ system
-by poisoning
-by time course
-by transplant recipients
 c-v wave
 cDNA library
 cadaver donor
 calcaneal
-calcification
-calcitonin
 calcitonin-secreting
 calcium apatite crystals
-calcium channel blockers
 calcium content of oral preparations
 calcium deficiency
 calcium oxalate crystals
 calcium pyrophosphate dihydrate crystals
-calcium stones
-calcium supplementation
-calicivirus
-cancer
-cancer genetics
 cancer in transplant recipient
 cancer predisposition syndromes
-cancer prevention
 cancer treatment
-cancer-associated (paraneoplastic)
+cancer-associated
 cancer-related
-cancers
 candidal
-candidiasis
 canine
 capsular polysaccharide
 capsular polysaccharide complex
-carbidopa/levodopa
-carbon monoxide
 carbon monoxide intoxication
-carbuncles
 carcinogen exposure
 carcinoid
-carcinoma
-carcinoma of unknown primary
 carcinomatous
 cardiac
 cardiac activation
 cardiac auscultation
 cardiac cirrhosis
 cardiac electrophysiology
-cardiac injury
 cardiac output measurement
 cardiac resynchronization
-cardiac risk assessment
-cardiac transplantation
 cardiac ultrastructure
-cardioembolic
 cardiogenic
-cardiogenic shock
-cardiomyopathy
 cardiovascular
 cardiovascular and cerebrovascular events
-cardiovascular disease
 cardiovascular regulation
 cardiovascular system
 cardiovascular therapy
@@ -12059,18 +11833,14 @@ carotid
 carrier state
 cartilage regeneration
 case finding
-castrate
-cat bite
 cat bite-related
 catamenial
 catatonic-type
 catch-up immunization schedule
 catecholaminergic polymorphic
-cathartic
 catheter and surgical ablation
 catheter-associated
 catheter-related
-catheter-related infections
 cationic mutations
 caused by ectopic ACTH production
 causes of iron deficiency
@@ -12081,18 +11851,14 @@ causing increased drug effects
 causing muscle weakness
 cautious
 cell division
-cell lymphoma
 cell therapy
 cellular activation
 cellular immune response
 cellular interactions in regulation of immune response
 cellular targets of HIV
-cellulitis
-central
 central adiposity
 central centrifugal cicatricial
 central mechanisms
-central nervous system infections
 central nervous system therapy
 central terminal
 centrally distributed
@@ -12100,15 +11866,9 @@ centriacinar
 cephalic
 cerebellar
 cerebellar gait ataxia
-cerebral
 cerebral amyloid angiopathy of aging
 cerebrospinal fluid
-cerebrovascular disease
-certolizumab
-cervical
-cervical adenitis
 cervical cord
-cervicitis
 cervicofacial
 challenges with phenotyping
 changes in babesiosis
@@ -12119,13 +11879,11 @@ chemical inflammation
 chemoprevention
 chemoprophylaxis
 chemoradiotherapy
-chemotherapy
 chemotherapy-induced
 chemotherapy-related
 cherry
 chest
 chest leads
-chickenpox
 childhood
 childhood immunization
 chill phase
@@ -12133,19 +11891,11 @@ chlamydia vs.
 chlamydial
 chloride channel activators
 choice and role of surrogates
-cholangitis
-cholecystitis
-cholera
 cholestatic
-cholesterol absorption inhibitors
-cholesterol stones
-cholinergic
 cholorrheic
 chromophobic
 chromosomal rearrangements
-chromosomal sex
 chromosomal syndromes
-chromosome disorders
 chromosome-specific paints
 chronic
 chronic active infection
@@ -12156,7 +11906,6 @@ chronic bacterial
 chronic benign lymphocytic
 chronic childhood
 chronic daily
-chronic disease
 chronic heart failure
 chronic idiopathic
 chronic infections
@@ -12165,37 +11914,28 @@ chronic lesions of transplanted kidney
 chronic mountain sickness
 chronic myelopathy
 chronic nonsuppurative destructive
-chronic obstructive pulmonary disease
 chronic pain
 chronic progressive
 chronic pulmonary
 chronic severe
 chronic thromboembolic
-chronic/cavitary pulmonary
-chylothorax
 chylous
 circadian rhythm
 circinate
 circulating
 circulatory
 circulatory status
-circumcision
-cirrhosis
 cirrhosis-related
-clades
 class I molecules
 class I receptors and MK cell recognition
 class II molecules
 classic
 classic delayed-type
 classic pathway
-classical
 classical biotype
 classification of hypocalcemia
 clean-contaminated
 clear cell
-clenched-fist injury
-clinical
 clinical
 clinical assessment of endothelial function
 clinical associations
@@ -12215,31 +11955,23 @@ cluster
 co-receptor tropism assays
 coagulase-negative
 coagulase-negative staphylococci
-coal worker’s
-cobalamin
+coal worker's
 cobalamin deficiency
 cobalamin-folate relations
 cocaine and other drugs
 cocaine-related
-coccidioidal
 cognitive shortcuts
 coinfection with hepatitis B virus
 coinfection with hepatitis D virus
 cold
 cold-induced
-colitis
-collagenous
 collapsing
 collection for transplantation
 colloid
-colon cancer
-colonic
 colonization of nasopharynx
 colonization of stomach
-colonoscopy
 color
 color blindness
-color vision
 color-flow
 colorectal
 combination chemotherapy
@@ -12248,7 +11980,6 @@ combined deficiency of FV and FVII
 combined with parenteral feeding
 commensal strains
 common carotid artery
-common cold
 communicating bad news to patient
 community-acquired
 community-acquired infections
@@ -12262,48 +11993,32 @@ comparison of treponematoses
 comparisons of antihypertensives
 compensated
 compensated hemolysis vs.
-compensatory enlargement
 compensatory mechanisms
-competition
-complementary and alternative medicine
-complete
-complex
 complex partial
 compliance issues
-complicated
-complications
 complications of surgical treatment
 composition of body fluids
 composition of connective tissue
 composition of tobacco smoke
-comprehensive diabetes care
 compressive
-compressive myelopathy
-computed tomography
 computerized
 concealed accessory pathways
 concussion in sports
 conditions that mimic
 conduction
-conductive
-confidentiality
 confidentiality issues
 conflicts between beneficence and autonomy
 conflicts for trainees
-conflicts of interest
 congenital
 congenital anomalies
 congenital erythropoietic
 congenital motor
-congenital rubella syndrome
 congenital sensory
 congestive
 conjugated
-conjunctivitis
 constrictive
 construction
 consumer-driven care
-contact dermatitis
 contaminated shellfish
 contiguous-focus
 continuous
@@ -12311,31 +12026,19 @@ continuous ambulatory
 continuous arteriovenous
 continuous cyclic
 continuous goal assessment
-continuous positive airway pressure
 continuous venovenous
 continuous-wave
 contraindication to magnetic resonance imaging
 contraindications to thoracic surgery
-contrast agents
 contrast-enhanced
 control of cell tone
 control of pancreatic secretion
 control of programmed cell death
 control of vaccine-preventable disease
-controllers
-conventional
 conventional agents
-coordination examination
-cor pulmonale
 core-needle
 coronary
-coronary angiography
-coronary arteries
-coronary artery bypass grafting
 coronary artery bypass grafting vs.
-coronary heart disease
-coronavirus
-corrected
 corrected count increment
 correction of malalignment
 corroboration by others
@@ -12343,26 +12046,18 @@ corrosive
 cortical
 cortical lesions
 corticosteroid-resistant disease
-corticosteroids
 cortisol-producing
 cost-control strategies
 cost-effectiveness analyses
-cough
 cough variant
 cough-related
 counseling to prevent disease
 couplets
 crab yaws
-cranial nerve examination
 cranial neuropathies
-crescentic
 cricopharyngeal
 critical care disorders
-cromones
-cross-sensitivity
 crossed
-croup
-crusts
 cryoglobulinemic
 cryptococcal
 cryptogenic
@@ -12372,7 +12067,6 @@ crystals in synovial fluid
 crystals in urine
 culture of Legionella
 culture-negative
-cultured
 curative
 current controversies
 cutaneous
@@ -12381,30 +12075,22 @@ cutaneous disease
 cutaneous necrotizing
 cutaneous optics and chromophores
 cutaneous ulcers
-cyanosis
 cyclic
-cyclosporine
 cylindrical
-cystatin C
 cysteinyl
-cystic duct stump syndrome
-cystine stones
 cytodetaching
 cytokine network
-cytokine therapy
 cytomegalic inclusion disease
-cytomegalovirus
 cytomegalovirus-related
 cytoplasmic
 cytotoxic
-cytotoxic/immunoregulatory
 damage to mitochondrial DNA
 data about current state
-databases/websites
-de Quervain’s tenosynovitis
+databases
+websites
+de Quervain's tenosynovitis
 death after successful resuscitation
 death and dying issues
-debridement
 decision support tools
 decision to treat
 decision-making
@@ -12416,50 +12102,36 @@ decontamination in poisoning
 decontamination of victims
 decontamination procedures
 decrease in inspired oxygen
-decreased
 dedifferentiated
-deep neck infections
 deep organ
 deeply invasive
-deer tick
-defecation
-defective
 defects in lipid digestion and absorption
 defects in membrane transport
 defects in neurologic disease
-defects in neurologic diseases
 deficiency
 defining therapeutic strategy
 definition
 definition of alcohol abuse
 definition of influenza
-definitions
 deglutition
 delayed
 delayed emesis
 delayed hemolytic and serological reactions
 delayed hypersensitivity
 delayed onset
-delirium
 delivered dose
 delta fraction
 dematiaceous
-dematiaceous fungi
-dementia
 demyelinating
 dental abscess
-dental care after
 deposition in meningococcemia
 depot formulations
-depressed
 dermatophytes
-dermatophytosis
 dermatosparactic-type
 design of regimens
 desmoplastic
 desquamative
 desquamative inflammatory
-destruction of tumor cells by
 detached
 detection methods
 detection of pathogens by culture
@@ -12467,10 +12139,7 @@ determination
 determination of intestinal viability
 determining pulmonary vasodilator reactivity
 development at puberty
-device-related infections
-diabetes mellitus
 diabetic
-diabetic ketoacidosis
 diagnosis
 diagnosis of coagulation factor inhibitors
 diagnosis of infectious disease
@@ -12479,26 +12148,16 @@ diagnosis of microcytic anemia
 diagnosis of tonic pupil
 diagnostic
 diagnostic hypothesis generation
-diagnostic studies
-dialysate
-dialysis
-dialysis access
 dialysis-associated
 dialysis-related
-dialyzer
-diarrhea
 diarrhea and gastritis
 diarrheal disease
 diarrheal form
-diascopy
 diastolic
-diastolic filling
 diastolic sounds
 dicrotic
 diet modification
-diet therapy
 dietary
-dietary assessment
 diferric
 diffuse
 diffuse cutaneous
@@ -12512,8 +12171,6 @@ digit span forward test
 diluting agents
 dilution of ingested poisons
 dilutional
-diphtheria
-diphtheria antitoxin
 dipsogenic
 direct detection
 direct observation of treatment
@@ -12528,7 +12185,6 @@ discolored
 discontinuation for cardiac catheterization
 discontinuation of therapy
 discrete
-disease
 disease acceleration
 disease associations
 disease connections
@@ -12537,12 +12193,10 @@ disease progression
 disease risk
 disease-modifying therapies
 disease-specific
-diseases
 diseases affecting drug concentration and response
 diseases; Transplant recipient
 disk disease
 disorder
-disorders
 disorders in adulthood
 disorders involving
 disorders of HDL metabolism
@@ -12569,32 +12223,24 @@ distribution in body
 distribution of joints with arthritis
 disturbances in pulmonary gas exchange
 diuretic-induced
-diuretics
 do not resuscitate orders
-dog bite
 domestic
-domestic violence
 donor allocation system
 dopa responsive
-dopamine agonists
-dopamine antagonists
 dopaminergic tracts of brain
 dosage in liver disease
 dosage in renal disease
 dose adjustment before endoscopy
 dose adjustment in renal failure
 dose selection
-dose-limited toxicity
 dose-related
 double-contrast
 double-strand segmented
 downbeat
 drainage by paracentesis
 dressing
-drop attacks
 drug clearance
 drug distribution and elimination
-drug interactions
 drug reactions
 drug resistance
 drug susceptibility testing
@@ -12605,28 +12251,20 @@ drug-eluting
 drug-eluting stents
 drug-induced
 drug-resistant
-drugs
 drugs causing
 drugs of special interest
 drugs to avoid in myasthenic patient
-dry
-dry (nonexudative)
 dual tropic
 dual-labeled
 ductopenic
 due to salt retention
 dumb
-dumping syndrome
-duodenal ulcers
 dural
 duration of hospital stay
 duration of therapy
-during sleep
-during terminal weaning
 dyschromic
 dyshidrotic
 dysmotility causes
-dysphagia
 dysplasia
 dystrophic
 dystrophica
@@ -12634,20 +12272,13 @@ e104
 e154V
 e173V–e175V
 e175
-ear infections
 ear infections and mastoiditis
-early
 early delayed
 early goal-directed therapy
 early onset
-echinocandins
 echo
 echo-planar
-echocardiography
-economic issues
-ecthyma gangrenosum
 ectopic
-edema
 edema-related
 education and healthful habits
 effect of satiety
@@ -12655,9 +12286,7 @@ effect of smoking and COPD severity
 effect on drug concentration and response
 effect on heart murmurs and sounds
 effect on murmurs
-effect on satiety
 effect on vitamin D production
-effective
 effects on nonepithelial cells
 efficacy in different diseases
 ehrlichiosis
@@ -12667,32 +12296,22 @@ elastase-antielastase hypothesis
 elastin-related disorders
 elder abuse
 elective
-electrodiagnostic studies
 electrolyte toxicity
-elevated
 elevated LDL-C with normal triglycerides
 elevated with other liver test abnormalities
 elevation in sarcoidosis
 elimination of carriage of streptococci
 elimination of nasal staphylococci
 elite nonprogressors
-embolectomy
-embolic
-embolic protection device
 embryonal
 emergency
-emergency care
 emergency management
 emetic form
 emotional support
 emphysematous
 empirical
 employee health service issues
-empyema
-encephalitic (furious)
-encephalitis
-encephalitis after
-encephalomyelitis
+encephalitic
 encounters with epithelial cells
 encounters with phagocytes
 end points of drug action
@@ -12700,67 +12319,43 @@ endemic
 endemic treponematoses
 endoanal
 endobronchial
-endocarditis
 endocrine
 endocrine and metabolic
 endocrine therapy
-endocrinologic
 endogenous
-endometriosis
-endometritis
-endophthalmitis
 endoscopic
 endoscopic variceal ligation
 endothelin receptor antagonists
 endothelium-dependent
-endovascular infections
 endovascular techniques
-enema
-energy requirements
 energy requirements for common activities
 engraftment
-enhanced external counterpulsation
 enhancement of poison elimination
 enigmatic case
-enteral formulas
 enteral tube feeding
-enteral/parenteral nutrition
-enteric
 enteric bacilli
 enteric fever
 enteroaggregative
 enterococcal
-enterococci
 enterohemorrhagic
 enteropancreatic axis and feedback inhibition
 enteropathogenic
 enterotoxigenic
-enterovirus
 enterovirus-related
-entry inhibitors
 environmental
 environmental disease
-environmental health
 environmental lung disease
 enzootic
 enzyme abnormalities
 enzyme secretion
-eosinophilia
-eosinophilic
 epidemic
 epidemic and emerging problems
-epidemics
 epidemiologic transition
 epidemiology of,836– 837
-epididymitis
 epidural
-epidural abscess
 epigenetic modifications
 epigenetically silenced in cancer
-epiglottitis
-epilepsy
 epileptic
-epileptogenic factors
 epiphrenic
 episodic
 epithelial
@@ -12769,23 +12364,11 @@ epithelioid
 epizootic
 eradication of H. pylori
 erbB2 gene
-erysipelas
-erythema infectiosum
-erythroid hyperplasia
 erythropoietic
-erythropoietin
 escape mutants
-eschars
-esophageal
-esophagitis
-essential
 essential mixed
-established
 establishing and maintaining airway
 estrogen status
-estrogens
-ethical issues
-euthanasia
 euthanasia and physician-assisted suicide
 euvolemic
 evaluation in immunodeficiency patients
@@ -12797,7 +12380,6 @@ evasion of immune system
 evasion of immune system control
 evidence of group A streptococcal infection
 evidence-based
-evolution
 evolution into acute myeloid leukemia
 exacerbation by Haemophilus influenzae
 exacerbations
@@ -12806,13 +12388,9 @@ examination of abdomen
 examination of extremities
 examples
 exanthema
-exanthems
 excess utilization or loss
 excisional
-excitable gap
 excitation-contraction coupling
-exercise
-exercise program
 exercise-induced
 exercise-related
 exertional
@@ -12822,7 +12400,6 @@ exit-site
 exocrine-endocrine relations
 exogenous
 exotoxin-producing
-expedited partner therapy
 experimental therapies
 explanation and reassurance
 extended-spectrum
@@ -12833,7 +12410,6 @@ external contamination
 extraarticular disease
 extracapillary proliferative
 extracellular
-extracorporeal membrane oxygenation
 extracorpuscular
 extraction of burrowing larvae
 extragenital infections
@@ -12854,7 +12430,6 @@ extrinsic compression of ducts
 exudative
 exudative phase
 eye movements and alignment
-ezetimibe
 facilitated
 factitious
 factors affecting
@@ -12872,14 +12447,10 @@ familial hemiplegic
 familial inflammatory
 familial multiple coagulation deficiencies
 familial spastic
-family
-family history
-fasting
 fasting
 fasting serum
 fasting-induced
 fatal familial
-fatty acid
 features of effective agents
 febrile
 febrile nonhemolytic reactions
@@ -12894,78 +12465,57 @@ femoral-popliteal
 festinating
 fetal
 fetal posterior
-fetal/neonatal
-fever
 fever and myalgia
 fever vs.
-fiber
-fibric acid derivatives
 fibrillary
 fibrin clot formation
-fibrinolytic drugs
 fibrinolytic system
 fibrinolytic therapy
 fibrolamellar
-fibrosing
 fibrosing cholestatic
 fibrotic phase
-fibrous dysplasia
 field
 fields of practice
-filarial infections
-first
 first generation
 first-degree
 first-line essential
 first-line supplemental
 first-pass effect
-fissured (scrotal)
+fissured
 fistula formation
 fitness to fly
-fixed drug eruptions
 fixed-drug combination products
 flashbulb
 flatogenic
 flexible
 flow of genetic information
-flucytosine
 fluent transcortical
 fluid analysis
 fluid composition
 fluid management
 fluid overload
-fluid requirements
-fluid therapy
-fluoride
 flush phase
 foam cell formation
 focal
 focal and segmental
 focal lesions
 focal sclerosing membranous
-focal segmental
 focal seizures
 focal sensory
 folate deficiency
 follicular
-folliculitis
 follow-up
 follow-up care after
 follow-up of exposed patient
 follow-up of patients
 food and water precautions
-food poisoning
 food-borne
 food-related
 for-profit
 foraminal
 foreign bodies and food impaction
-formal
 forward
-fourth
 fragmented
-frailty
-free
 free T3 index
 free T4 index
 free erythrocyte
@@ -12973,51 +12523,31 @@ free-base
 frequency of adverse events
 frontal gait disorders
 fulminant
-function
-functional
 functional contributing factors
 functional defects
 functional incontinence
 functional or transient
 functional stasis
 fungal
-fungal infections
 furuncles
 fusiform
-futile care
 future
 future directions
 future therapies
 future use of drugs
 gain-of-function
-gait
-gait examination
-gait freezing
 gallbladder perforation
-gallium nitrate
-gallstone ileus
-gangrene
 gangrene of gallbladder
-gangrenous
-gas exchange
 gas exchange disturbances
-gas-liquid chromatography
 gastric
-gastric cancer
 gastric physiology
-gastric ulcers
-gastrinoma
-gastritis
 gastroduodenal
 gastroduodenal mucosal defenses
-gastroenteritis
 gastroesophageal reflux
 gastrointestinal
-gastrointestinal disease
 gastrointestinal illness
 gastrointestinal motor stimulants
 gastrointestinal risk
-gastrointestinal tract
 gaze-evoked
 gene expression in cancer
 gene polymorphisms
@@ -13026,93 +12556,61 @@ gene profiling in multiple myeloma
 gene therapy
 gene therapy to enhance
 general support during
-generalized
-generalized (quadriparesis)
 generalized convulsive
-generalized disease of the newborn
 generalized with febrile convulsions plus
 genes vs. environment
-genetic
 genetic determinants of response to drugs
 genetic screening
 genetic syndromes
-genetic testing
 genetically defined
 genetics and exceptional longevity
 genital
 genital infections
 genital mycoplasmas
-genital tract infections
-genital ulcers
 genitourinary
-genotyping
 gentamicin-resistant
 geographic
 geographic variations in care
-geriatric syndromes
 gestational
 giant
-glanders
 global
-global burden of disease
-global health
 globalization of medicine
-globi
 glomerular
-glomerular disease
 glossary of terms
 glucocorticoid preparations
 glucocorticoid-induced
 glucocorticoid-related
 glucocorticoid-remediable
-glucocorticoids
 glucosamine and chondroitin sulfate
 glucose deprivation
-glucose-6-phosphate dehydrogenase deficiency
-glucose-6-phosphate dehydrogenase deficiency and
 glue
 glycemic control-related
 glycogen storage disease mimicking
 goitrous
 gonadal
 gonadal dysfunction
-gonadal sex
 gonadal transdifferentiation
 gonadotropin-producing
-gonadotropins
 gonococcal
-gonorrhea
 gradient echo sequences
 graft failure
-graft-versus-host disease
 gram-negative enteric bacilli
 gram-negative enteric bacteria
 granulocyte transfusions
 granulocytotropic anaplasmosis
-granuloma
 granulomatous
 granulomatous amebic
-granulomatous amebic encephalitis
 gray hepatization
-griseofulvin
 gross
 group M
 group N
 group O
-growth hormone
-growth hormone receptor antagonists
 growth hormone-secreting
 guide to therapy
 guttate
 habitual
 hair growth and differentiation
-hair removal
 hairy
-hamartoma
-hand
-hand eczema
-hand hygiene
-hanging groin
 haplogroup
 hardening
 health care-associated
@@ -13120,76 +12618,39 @@ health professionals
 health resources
 healthy
 healthy aging
-hearing loss
-heart disease
-heart failure
 heart failure with depressed ejection fraction
 heart rate with deep breathing
 heart-liver
-heat conservation by
-heat loss by
 helical
-helminthic
 helper
-helper/inducer
+inducer
 hematogenous
 hematologic
 hematologic abnormalities
-hematopoietic cell transplantation
-hematopoietic differentiation
 heme-heme interaction
-hemicrania continua
 hemidesmosomal
-hemiparesis
 hemispatial
-hemochromatosis
 hemodynamic
 hemoglobins with altered oxygen affinity
-hemolytic-uremic syndrome
-hemorrhage
-hemorrhagic
 hemorrhagic and erosive
-hemorrhagic cystitis
-hemorrhagic fevers
-hemosiderosis
-hemostasis
-hemothorax
-heparin
 heparin-induced
-hepatic
-hepatic encephalopathy
-hepatitis
 hepatitis B virus exposure
-hepatitis viruses
 hepatobiliary parasitism
 hepatocellular
-hepatocellular carcinoma
 hepatoerythropoietic
-hepatorenal syndrome
 herbal medicines
 herd effect
 hereditary
-hereditary (familial)
 hereditary disorders of magnesium balance
 hereditary hemorrhagic
 herniated
-herpangina
-herpes gladiatorum
-herpes simplex virus
 herpes simplex virus-associated
-herpes zoster
-herpesvirus
-herpetic whitlow
-heteroplasmy
-hiatal hernia
 hibernating
-hidradenitis suppurativa
 high activity
 high-affinity
 high-altitude
 high-dose
 high-dose regimens
-high-frequency ventilation
 high-grade
 high-level
 high-resolution
@@ -13197,8 +12658,6 @@ high-risk
 high-risk patient
 highly selective
 hilar
-hirsutism
-hirsutism after
 historic background
 history and physical examination
 history-taking
@@ -13207,7 +12666,6 @@ holosystolic
 home
 home monitoring
 homonymous
-homoplasmy
 honeymoon period
 hormonal agents
 hormonal defenses against
@@ -13219,7 +12677,6 @@ hormone excess
 hormone resistance
 hormones regulating ovarian function
 hospice benefits
-hospice care
 hospital costs
 hospital discharge
 hospital phase
@@ -13230,53 +12687,37 @@ host receptors for virus
 host-pathogen interactions
 hot
 hot-tub
-hot-tub folliculitis
-hot-tub lung
 human
 human T cell lymphotropic virus infections
-human bite
 human bite wounds
-human genome
-human herpesvirus 6
 human infections
 humoral immune response
-hydrocephalus after
-hydrops fetalis
 hyperactive
 hyperacute rejection
 hypercalciuric
 hypercapnic
 hypercarbic
-hyperchloremic (non-anion gap)
+hyperchloremic
 hyperfunction in chronic renal failure
 hyperfunctioning
-hyperglycemic hyperosmolar state
 hypergonadotropic
 hyperinfection
-hyperinflation
 hyperinsulinemic
 hyperkalemic
 hyperkinetic
 hypermobile
 hyperosmolar
-hyperperfusion states
-hyperpigmentation
 hyperplastic
 hyperplastic cholecystoses
 hyperreninemic
 hypersegmented
 hypersensitivity
-hypersensitivity pneumonitis
 hypersensitivity syndrome
-hypersplenism
-hypertension
 hypertension-related
-hypertensive
 hypertensive nephrosclerosis
 hypertensive variant
 hyperthermia vs.
 hyperthermic limb perfusion for melanoma
-hypertonic
 hyperventilation syndrome vs.
 hypervolemic
 hypnic
@@ -13285,13 +12726,10 @@ hypoactive
 hypocalcemic
 hypocalciuric
 hypocellular
-hypochloremic (high-anion-gap)
 hypocomplementemic
 hypocomplementemic cutaneous
-hypoglycemia after
 hypoglycemia-associated
 hypoglycemia-associated autonomic failure
-hypogonadism
 hypogonadotropic
 hypokinetic
 hypoosmolar
@@ -13299,16 +12737,10 @@ hypophosphatemia-induced
 hypophosphatemic
 hypoproliferative
 hyporeninemic
-hypotension
 hypothalamic
-hypothalamic-pituitary-testis axis
-hypothermia
 hypothermic
-hypothyroidism after
-hypotonic
 hypovolemic
 hypoxemic
-hypoxia
 hypoxic
 hysterical
 iatrogenic
@@ -13316,8 +12748,7 @@ ideational
 identification methods
 ideomotor
 idiopathic
-idiopathic (primary)
-idiopathic LV septal/fascicular
+idiopathic LV septal
 idiopathic hypertrophic
 idiopathic neonatal
 idiopathic outflow tract
@@ -13326,9 +12757,7 @@ idiopathic torsion
 ileocolonic storage and salvage
 illness after return
 imaging methods
-imatinib
 immediate-type
-immune
 immune and autoimmune
 immune complex-mediated
 immune mediators of antitumor effects
@@ -13336,32 +12765,22 @@ immune reactions
 immune-based therapies
 immune-mediated
 immune-mediated damage to microbes or host tissues
-immunization
-immunization during
 immunization of cancer patients
 immunization of workers
 immunoblastic
 immunodeficiency-associated
 immunodiagnosis
-immunoglobulin deficiencies
 immunologic
 immunologic markers
 immunologic syndromes
 immunologically mediated
-immunomodulation
-immunosuppression
-immunosuppression caused by
-immunosuppressive therapy
 immunotactoid
-immunotherapy
 impact on medical practice
 impaction in esophagus
 impaired
 impaired blood flow
 impaired conjugation
-impetigo
 implantable cardiac defibrillator
-implantable cardioverter-defibrillator
 implications for clinical practice
 implications for internal medicine
 impression of patient
@@ -13374,10 +12793,8 @@ inappropriate
 incarcerated
 incisional
 inclusion
-incompetent patients
 incomplete
 incompletely processed big
-increased
 increased androgen exposure
 increased fatigability
 increased hepatic glucose and lipid production
@@ -13398,11 +12815,9 @@ infant
 infantile
 infantile-onset
 infarction
-infected
 infection
 infection to disease
 infection-induced
-infections
 infections associated with specific defects
 infections in cancer patients
 infections in transplant recipients
@@ -13411,14 +12826,11 @@ infectious
 infectious aerosols
 infectious agents
 infectious disease-associated
-infectious mononucleosis
 infectious syndromes
-infective
 inferior vena caval filter
 inferior-posterior
 inferior-posterior-lateral wall
 inferolateral
-infertility after
 infiltrative
 infiltrative disorders
 inflammation and extracellular matrix proteolysis
@@ -13428,14 +12840,10 @@ inflammatory disorders
 inflammatory vs. noninﬂammatory
 inflow velocity
 influenza
-influenza virus
 influenza virus-related
 informal
-informed consent
 infusion techniques
-inguinal syndrome
 inhalational
-inhaled
 inhaled corticosteroids
 inhaled steroids
 inherited
@@ -13443,7 +12851,7 @@ inherited disorders
 inherited disorders involving
 inherited mycobacterial susceptibility
 inhibitors of cell-wall synthesis
-inhibitors of nucleic acid synthesis/activity
+inhibitors of nucleic acid synthesis
 inhibitors of protein synthesis
 initial evaluation of patient
 initial response
@@ -13453,26 +12861,18 @@ initiation of therapy
 initiation of therapy in HIV infection
 initiation phase
 injectable testosterone
-injuries caused by
 injury in head trauma
-injury in sepsis/septic shock
+injury in sepsis shock
 inoculum size
-inorganic dusts
 inotropes
 inpatient
 inpatient neurologic consultation
 inpatient therapy
-insecticide-treated bed nets
 insensible
-insomnia
-insulin
-insulin preparations
 insulin regimens
 insulin synthesis
 insulin-resistant
 intake
-integrase
-integrase inhibitor
 integrating with curative care
 intensive management
 interactions in myasthenia gravis
@@ -13480,9 +12880,6 @@ interactions with VLDL
 interactions with vitamin E
 intercostal
 interface
-interferon
-interferons
-interictal behavior
 intermediate
 intermediate complexity
 intermediate- to high-risk patients
@@ -13494,20 +12891,14 @@ internal radionuclide contamination
 interphase analysis
 interpolated
 interstitial
-interstitial lung disease
 interval
 interventions
-intestinal
 intestinal disorders
-intestinal obstruction
 intestinal parasites
 intestinal pathogenic
 intoxication
 intraabdominal
-intraabdominal abscess
-intraabdominal infection
-intraabdominal infections
-intraabdominal/retroperitoneal
+retroperitoneal
 intraarterial
 intraarticular
 intraarticular glucocorticoids
@@ -13516,12 +12907,10 @@ intracardiac pressures
 intracavernosal self-injection
 intracellular
 intracranial
-intracranial hemorrhage
 intraglomerular
 intrahepatic
 intralesional
 intralobular
-intraluminal digestion products assay
 intramedullary syndrome
 intramural esophageal
 intramural hematoma
@@ -13534,22 +12923,14 @@ intrathecal
 intratympanic
 intraurethral
 intrauterine
-intrauterine device
-intrauterine infection
 intravascular
 intravenous
-intravenous immunoglobulin
 intravesical therapy
 intrinsic
-inulin clearance
 invasion by mycobacteria
-invasive
-invasive (malignant or necrotizing)
 invasive infections
 invasive pulmonary
 invasive vs. conservative strategy
-inverse
-invertebrate
 involuntary active
 involving anus
 involving multiple cranial nerves
@@ -13557,42 +12938,27 @@ iodine deficiency
 iodine metabolism and transport
 ion channel defects causing
 iron metabolism
-iron overload
 iron stores
 iron supply and storage
-iron-deficiency anemia
 iron-deficient
 irritant
 ischemia
 ischemic
 ischemic heart disease
-islet cell transplantation
 isochromosome X
-isolated
 isolated axillary adenopathy
 isolated systolic
-isolation
 isolation in tissue culture
 isolation of bacterial pathogens
 isolation of viral agents
-isolation techniques
 jargon
 jellyfish-safe
 jerk
 joint infections
-joints affected by
-jugular venous pulse
 junctional
-justice
 juvenile
-juvenile myoclonic epilepsy
 juvenile pilocytic
 juxtamedullary
-karyotype
-keratitis
-keratoconjunctivitis
-kinetic
-laboratory diagnosis of infectious disease
 laboratory evaluation of function
 laboratory studies
 laboratory tests and imaging
@@ -13602,12 +12968,8 @@ large cell
 large duct
 large-fiber
 large-volume
-larva migrans
-laryngeal
-laryngitis
 lasting more than six months
-late consequences of cancer/cancer therapy
-late consequences of cancer/cancer therapy
+late consequences of cancer therapy
 late delayed
 late direct complications
 late systolic
@@ -13624,41 +12986,27 @@ leading circle
 leaky epithelia
 left axis deviation
 left heart catheterization
-left ventriculography
 leg
 legal
-legal issues
-legionellosis
-leiomyosarcoma
-leishmaniasis
 lentigo maligna
 lepromatous
-leprosy
-leptospirosis
-leukapheresis
-leukemia
 leukocyte recruitment
 leukocyte reduction of blood products
 level of lesion
 levels in chronic kidney disease
 levodopa augmentation strategies
 levodopa-induced
-levodopa-induced dyskinesia
 liability to pressure palsies
 lichenoid
 lid tone
 life cycle of parasite
-life cycle of parasites
 life cycle of pathogen
 life cycle of pinworms
 life cycle of worm
-life cycle of worms
-life expectancy
 life-sustaining interventions
 life-threatening disease
 life-threatening infections
 lifestyle management
-lifestyle modifications
 light-induced
 limb
 limb mononeuropathies
@@ -13675,37 +13023,22 @@ limiting factors
 linear
 linear nevoid
 lingual
-linkage disequilibrium
 lipid-modifying therapy
 lipoid
 listeriosis
-lithium
 lithogenic
 live attenuated
-liver
-liver abscess
-liver biopsy
-liver disease
 liver glycogenosis
 liver metastasis
-liver transplantation
 living donor
-living donors
-loading dose
 lobular
-local
 local heat
 localization of infection
-localized
 localized disease
 localized juvenile
 localized tumors
-localized/regional
 locally or regionally advanced disease
 locating the lesion
-long-acting
-long-chain
-long-term
 long-term follow-up
 long-term management
 long-term management of survivors
@@ -13726,36 +13059,22 @@ low-pressure
 low-tension
 lower
 lower body
-lower motor neuron
 lower tar and nicotine cigarettes
 lower tract sources
 lumbar
 lumbar cord
-lumbar puncture
-lumpectomy
-lung
-lung abscess
-lung disease
 lung infections
-lung injury
 lung parenchyma
-lung transplantation
-lung volume reduction surgery
 lymph-node
-lymphadenopathy
 lymphatic
-lymphedema
 lymphocutaneous
 lymphocutaneous disease
 lymphocyte turnover
 lymphocyte-depleted
 lymphocyte-endothelial cell interactions
 lymphocyte-predominant
-lymphocytic
 lymphocytic lymphoma
-lymphogranuloma venereum
 lymphoid
-lymphoma
 lymphomatous
 mTOR inhibitors
 macro-EMG
@@ -13767,25 +13086,16 @@ macronodular
 macroreentrant
 macular
 maculopapular
-maculopapular eruptions
-magnesium sulfate
-magnetic resonance imaging
 maintaining adequate circulation
-maintenance dose
 maintenance of gastric mucosa
 malabsorption
 malabsorption syndromes
-malaria
 malaria prevention
-malasseziasis
 male
 male factor
 male hormonal
-male hormonal contraception
 malignancy
 malignancy-associated
-malignant
-malnutrition
 management of arrhythmias
 management of common syndromes
 management of dysplasia and cancer
@@ -13794,7 +13104,6 @@ management principles
 management problems
 management strategies
 managing last stages
-mandibular repositioning splint
 manipulative
 mantle cell
 marantic
@@ -13802,37 +13111,26 @@ marasmic
 marginated
 marijuana-related
 marine
-marine envenomations
 marrow
 marrow cellularity
 mass lesions
-massive
 massive lymphadenopathy
-mastectomy
-mastitis
-mastoiditis
 mat
 maternal
-maternal inheritance
 maternal mortality
-maternal-fetal/infant
+maternal-fetal
 maturation disorders
 mature (peripheral) B cell neoplasms
 mature (peripheral) T cell neoplasms
 maxillary
-maximal tolerated dose
-measles
 measurement by Doppler echocardiography
 measurement of exposure
 measurement of safety
-mechanical
 mechanical and surgical interventions
 mechanical blockade
 mechanical destruction of red cells
 mechanical inflammation
 mechanical trauma
-mechanical ventilation
-mechanism
 mechanism of fluid accumulation
 mechanism of vessel formation
 mechanisms of autoimmunity
@@ -13840,69 +13138,48 @@ mechanisms of brain metastasis
 medial
 medial inferior
 medial superior
-mediastinal
-mediastinitis
 mediators and proteases
-medical
 medical assay of radiation-exposed patient
 medical illness
-medical nutrition therapy
 medical therapy
 medical virology
-medication errors
 medication-overuse
-medication-overuse headache
 medications effects
-medicine
 medium-chain
 medullary
 mefloquine-resistant
 megaloblastic
 megaloblastoid
-melanoma
 membrane receptors
-membrane transport
 membranoproliferative
 membranous
 men with skeletal metastases and elevated PSA
-meningeal
-meningitis
 meningococcal
-meningoencephalitis
 meningovascular
 mental health
-mental status examination
 mesangial proliferation
-mesangial sclerosis
 mesangioproliferative
 mesenchymal
 mesenteric
 mesenteric venous thrombosis
 mesial temporal lobe epilepsy
-meta-analysis
 metabolic
 metabolic crisis
 metabolic disorders
 metabolic or pharmacokinetic
-metabolic syndrome
 metabolites of drugs
 metachromatic
 metals in urine
-metapneumovirus
 metastasis
 metastasis to heart
 metastasis to peripheral nervous system
 metastatic
 metastatic cancer
-metastatic disease
 methicillin-resistant
 methodology
-methotrexate
 microbial
 microbial entry and adherence
-microbial entry through
 microbial growth after entry
-microbial pathogenesis
 microbial survival inside
 microcytic
 microdeletion syndromes
@@ -13914,15 +13191,10 @@ microvascular disease
 microvessels
 micturition
 middiastolic
-middle
-middle cerebral artery
 middle ear
 midesophageal
 midsystolic
-migraine
-mild
-miliary (disseminated)
-military antishock trousers
+miliary
 mineralocorticoid-mediated
 minerals and vitamins
 minimal mesangial
@@ -13932,19 +13204,14 @@ minor injury
 minority workers
 mitochondria in cell death
 mitochondrial
-mitochondrial DNA diseases
 mitochondrial DNA disorders
 mitochondrial DNA mutations
 mitochondrial myopathy
 mitotic
-mitotic spindle inhibitors
 mitral regurgitation begets mitral regurgitation
-mitral valve replacement
-mitral valvotomy
 mixed
 mixed acid-base disorders
 mixed cellularity
-mixed incontinence
 mixed viral and bacterial
 mixing studies
 mobilizing agents
@@ -13952,13 +13219,12 @@ moderate
 modified
 modified radical
 modifiers influencing
-modulation in different situations/individuals
+modulation in different situations
 modulation of vascular tone
 molar
 molecular
 molecular basis for dementia
 molecular methods
-molluscum contagiosum
 monarticular
 monitoring anticopper therapy
 monitoring glycemic control
@@ -13970,7 +13236,6 @@ monitoring of therapy
 monitoring response to therapy
 monitoring treatment response
 monitoring warfarin therapy
-monkeypox
 monoclonal
 monocular
 monoferric
@@ -13979,25 +13244,14 @@ monogenic Mendelian disorders
 monomeric
 monomeric formulas
 monomorphic
-mononeuropathy
-mononeuropathy multiplex
 mononucleosis syndrome
-monoparesis
-monosodium urate crystals
-monosomy
-morbidity and mortality caused by
 morpheaform
-morphine
 morphine sulfate
 mortality in United States
-mosaicism
 mosquito bite
 mother yaw
 motility disorders
-motivational interviewing
 motor
-motor examination
-motor neuron disease
 motor symptoms
 motor-predominant
 mouse bite
@@ -14005,10 +13259,6 @@ mucinous
 mucocutaneous
 mucopurulent
 mucopurulent cervicitis
-mucormycosis
-mucosal
-mucosal protective agents
-mucositis
 mucous membrane
 multi-drug resistant
 multibacillary
@@ -14020,12 +13270,8 @@ multifactorial
 multifocal
 multiformed
 multinodular
-multiple
 multiple antibiotic resistance
 multiple-sensory-defect
-mumps
-muscle
-muscle disease
 muscle enlargement and atrophy
 muscle glycogenosis
 muscular
@@ -14036,34 +13282,19 @@ mutational analyses
 mutational analysis
 mutational profiling
 muttering
-myalgia
-myasthenic crisis
 mycobacterial
 mycobacterial culture
 mycoplasmal
-mycoplasmas
 mycotic
-myelitis
-myelofibrosis
-myeloid hyperplasia
-myeloma
-myelopathy
-myelosuppression
 myocardial
-myocardial infarction
 myocardial perfusion
-myocarditis
 myoclonic
 myogenic
 myonecrosis
 myopathic
-myopathy
-myositis
 myxedematous
-myxoma
 myxopapillary
 nalidixic acid-resistant
-narcotics
 nasal
 nasal spray
 nasopharyngeal carriage
@@ -14073,27 +13304,19 @@ natural history of disease
 natural history of infections
 natural history of,1381
 nature and extent of disparities
-nausea and vomiting
 necrotic core
 necrotizing
 necrotizing enteritis
-necrotizing fasciitis
-negative
 negative-strand
 neoadjuvant
 neoadjuvant therapy
 neonatal
-neonatal infections
-neonatal jaundice
 neonatally acquired
 neoplastic
-nephritis
 nephritogenic
 nephrogenic
-nephropathy
 nephrotic-range
 nephrotoxic
-nerve agents
 nerve and root
 nerve root and epidural injections
 nervous system disease
@@ -14101,43 +13324,27 @@ neurocardiogenic
 neurodegenerative
 neuroendocrine carcinoma
 neuroendocrine response to shock
-neuroendocrine response to shock
-neuroendocrine tumor
 neurogenic
-neuroimaging
 neurologic
-neurologic critical care
 neuronal
 neuropathic
 neuropathogenesis
-neuropathy
 neuroprotection
 neuroprotective therapy
-neurostimulation therapy
-neurosyphilis
 neutropenic
 new agents
 new daily persistent
 new drugs
-niacin
 niacin-induced
 niacin-related
-niche site
-nicorandil
-nicotine addiction
-nitrates
-nitric oxide
 nocardial
-nocardiosis
 nociceptive
 nociceptor-induced
 nocturnal
 node biopsy
 nodular
-nodular eruptions
 nodular follicular
 nodular sclerosing
-nodules
 noise-induced
 non-O1
 non-Q-wave
@@ -14157,9 +13364,7 @@ nonbacterial thrombotic
 noncardiogenic
 noncastrate
 nonclostridial
-noncommunicable diseases
 noncompressive
-noncompressive myelopathy
 nonconventional strategies
 nonconvulsive
 noncoronary interventions
@@ -14167,14 +13372,11 @@ noncyclic
 nondeclarative
 nondiphtherial
 nondirective
-nondisclosure of information
 nonexercise activity
 nonexertional
 nonfluent transcortical
 nonfunctional
-nonfunctioning
 nongonococcal
-nongonococcal urethritis
 nonimmune
 noninfectious causes
 noninflammatory
@@ -14202,7 +13404,6 @@ nonseminoma
 nonspecific
 nonspecific reaction
 nonspecific tests
-nonsteroidal anti-inflammatory drugs
 nonsustained
 nonsyndromic familial isolated
 nonsynonymous
@@ -14214,40 +13415,30 @@ nontuberculous mycobacteria
 nontypable
 nontyphoidal
 nonulcer
-normal
 normal ECG
 normal flora
 normal hemostasis
 normal pressure tracings
 normal value
-normal values
 normal values for hemodynamic parameters
 normal values of measurements in adults
 normal-pressure
 normofollicular
 normolipemic flat
-norovirus
 nosocomial
-nosocomial infections
 not associated with diarrhea
 not mediated by changes in drug disposition
 not-for-profit
 nuclear
-nuclear cardiology
 nuclear receptors
-nuclear reprogramming
-nuclear transplantation
-nuclear weapons
 nucleated
 nucleic acid amplification
 nucleic acid amplification methods
 nucleic acid sequence-based amplification
-nucleic acid tests
 nucleic acids in peripheral blood
 numerical
 nummular
 nutcracker
-nutritional
 nutritional history
 nutritional iron balance
 nutritional manipulation
@@ -14255,10 +13446,8 @@ nutritional status of patient
 nutritional support formulas
 nutritional therapy
 nutritionally variant
-obesity
 obligate
 obscure
-obstetric neuropathies
 obstruction of hollow viscera
 obstructive
 obstructive jaundice
@@ -14280,27 +13469,15 @@ off-label options
 off-pump
 olfactory
 oligoarticular
-omalizumab
-omega-3 fatty acids
-onchocerciasis
-oncocytoma
 oncogene signaling pathways
-oncogenic (tumor-induced)
-oncologic emergencies
-oncologic emergency
+tumor-induced
 oncolytic
-onset
 onset of clinical transition
-oophoritis
 open-access
 operable disease
-opioid abuse by
 opioid combinations
-opioid maintenance program
-opioids
 opportunistic
 optic
-optic disc
 oral
 oral agents
 oral derivatives of testosterone
@@ -14309,11 +13486,7 @@ oral health
 oral infections
 oral iron therapy
 oral-facial infections
-orbital
-orchiectomy
-orchitis
 organ-specific
-organic dusts
 organification
 organization
 organization into chromosomes
@@ -14326,14 +13499,9 @@ orthostatic recordings
 orthotopic
 osmotic
 ossificans progressiva
-osteoarthritis
 osteoarticular
-osteomyelitis
-osteoporosis
 osteoporotic
 ostium secundum
-otitis externa
-otitis media
 outbreak control
 outdoor
 outer-membrane components
@@ -14343,14 +13511,11 @@ outpatient therapy
 outside United States
 ovarian
 ovarian cancer screening
-overdosage/poisoning
-overflow incontinence
 overnight
 overzealous
 ovulatory dysfunction
 oxidized
 oxygen supply and demand
-oxygen therapy
 oxygen transport in blood
 oxygenation and ventilation
 p16 protein
@@ -14363,190 +13528,123 @@ p27 protein
 p53 gene
 p70S6K
 pH
-pacemaker
 pacing mode
-pain control
 pain management
-painful
 palliative
 palpable
 panacinar
-pancreas transplantation
-pancreatic
 pancreatic enzymes in body fluids
-pancreatitis
 pandemic and interpandemic disease
 papillary
 papillary dysfunction
-papillary stenosis
 papular eruptive
-papules
 papulonodular
 papulosquamous
 paracellular transport
 paracrine control
 paradoxical
 paraesophageal
-parainfluenza virus
 paralytic
 paranasal
 paraneoplastic
 paraneoplastic ganglionopathy
 paranoid-type
-paraparesis
 parapneumonic
 parasagittal
 parasellar region
 parasite detection
 parasitic
 parasystolic focus
-parathyroid hormone
 parenchymal
 parenteral
 parenteral iron therapy
-parenteral nutrition
-parotitis
 paroxysmal
-paroxysmal hemicrania
 paroxysmal kinesigenic
-paroxysmal nocturnal hemoglobinuria
-partial
-partial liquid ventilation
 particle size of contaminants
-partner notification
-partner-delivered therapy
-parvovirus B19
-passive
 passive external
-patch testing
 pathogenesis
 pathogenesis of neoplastic transformation
 pathologic
-patient
 patient age
-patient autonomy
 patient counseling
 patient education
 patient-physician relationship
 patient-specific
 patients who lack decision-making capacity
 patients who remain symptomatic
-patients’ description of complaint
-patient’s readiness to change
-patient’s right to refuse
+patients' description of complaint
+patient's readiness to change
+patient's right to refuse
 pattern recognition
 pauciarticular
 paucibacillary
 pay for performance
 pay-for-performance
 pegylated interferon
-peliosis hepatis
 pelvic
-pelvic infections
-pelvic inflammatory disease
-pemphigoid gestationis
-pemphigus
-penetrating
 penetrating atherosclerotic ulcer
 penicillin-resistant
 penicillinase-producing
 penile
-penile prosthesis
 peptide antigen presentation
 percent saturation
 percussion
 percutaneous
-percutaneous balloon aortic valvuloplasty
 percutaneous coronary angioplasty
-percutaneous coronary interventions
 percutaneous coronary interventions vs.
 percutaneous femoral technique
 percutaneous mechanical
-percutaneous transluminal coronary angioplasty
 percutaneous valve replacement
 perennial nonallergic
 perforated
 perforated ulcers
-performance
 perianal
-periappendicitis
 pericardial
-pericarditis
-perichondritis
-perihepatitis
 perinatal
 perinatal exposure
-perinephric/renal abscess
 perinuclear
-periodic
 periodontotic-type
 perioperative
 perioperative prophylactic
 periorbital
-periostitis
 peripartum
 peripatetic
 peripheral
-peripheral blood smear
-peripheral eruptions
 peripheral mechanisms
 peripheral overproduction
 peripherally inserted
 periportal
-peritoneal fluid
-peritonitis
 periungual
 periungual telangiectasia
 permissive
-pernicious anemia
 persistent
 persistent generalized
 persistent virus replication
 persistent/latent infections
 personal protection
-pertussis
 pharmaceutical and device industries
-pharmacogenetics
-pharmacogenomics
-pharmacologic
-pharmacology
 pharmacology and nutritional aspects
 pharmacotherapy
-pharyngeal
-pharyngitis
-phase I
-phase II
 phase-contrast
-phenotypic heterogeneity
-phenotypic sex
-phenotyping
 pheochromocytoma and paraganglioma
-phlebotomy
 phonemic
-phosphate therapy
 phosphodiesterase-5 inhibitors
 phospholipid-dependent
 phosphorus-32 exposure
 photoaging of skin
-photosensitivity
 phylogenetic tree
 physical
-physical activity
 physical dependence
-physical examination
 physical map of HLA region
 physical symptoms and their management
 physician intervention
 physician-assisted
-physician-assisted suicide
 physiologic
 physiologic factors
 physiologic postrotational
 physiologic reserve of patient
 physiology of swallowing
-picobirnavirus
 piecemeal
-pigment stones
 pigmented
 pigmented lesions
 pigmented micronodular
@@ -14554,70 +13652,37 @@ pigmented villonodular
 pill-induced
 pilocytic
 pink
-pink puffers
-pitting
 pituitary
-plague
 plane
 plaque
 plaque-type
-plasma
 plasma aldosterone to plasma renin activity
 plasma concentration as guide to therapy
 plasma protein binding
 plasma protein binding of drugs
-plasmapheresis
 platelet plug formation
 platelet-rich
-pleural effusion after
-pleural fluid
-pleuritis
-pleurodynia
 pleuropulmonary
 pleuropulmonary infections
-plexopathy
-plicamycin
 pluripotent
-pneumatic antishock garment
 pneumococcal
-pneumococcal vaccine
-pneumonia
-pneumonic
-pneumonitis
-point mutations
-poisoning
 poisoning and overdosage
 poisoning or drug overdosage
-poliomyelitis
-polyarthropathy syndrome
 polyarticular
-polycythemia
-polydrug abuse
 polygenic
 polymicrobial
-polymorphic
-polymorphisms
-polyneuropathy
-polyneuropathy/mononeuropathy
-polypill
-polyploidy
 polyposis syndromes
 poorly differentiated carcinoma with midline adenopathy
 population
 porcelain
 porcelain gallbladder
 portal
-portal hypertension
 position of eye within
-positional
-positive
 positive and negative phenomena
 positive selection
 positive-strand
-positron emission tomography
 post-ERCP
 post-LP headache
-post-Lyme syndrome
 post-cardiac bypass
 post-cardiac bypass brain injury
 post-diarrhea complications
@@ -14634,15 +13699,12 @@ postchemotherapy surgery
 postcholecystectomy
 postcholecystectomy spasm
 postcoital
-postconcussion syndrome
 posterior
-posterior cerebral artery
 posterior inferior cerebellar artery
 posterior ischemic
 posterior pituitary
 postexposure
 postexposure immunization
-postexposure immunization with immunoglobulin
 postexposure immunization with immunoglobulin
 postexposure prophylaxis
 postgastrectomy
@@ -14662,7 +13724,6 @@ postoperative complications
 postoperative course
 postpartum
 postpericardiotomy
-postpolio syndrome
 postprandial
 postprimary disease
 postremission therapy
@@ -14676,7 +13737,6 @@ posttransplant complications
 posttransplant relapse
 posttransplant treatment
 posttransplantation management
-postural
 postvaccinal
 postvaccinal encephalomyelitis
 postvagotomy
@@ -14690,19 +13750,15 @@ precipitating events
 precipitating factors
 precocious
 precordial
-precordial palpation
 precursor B cell neoplasms
 precursor T cell
 precursor T cell neoplasms
 precursor lesions
-predictive value of tests
 predisposing conditions
 predisposing factors
 predisposing factors and etiology
-predisposition testing
 preeclamptic
 preexposure prophylaxis
-pregnancy
 pregnancy-related
 prehepatic
 prehospital care
@@ -14712,10 +13768,8 @@ premalignant lesions
 premature
 premedication for taxanes
 premenstrual
-prenatal diagnosis
 preoperative
 preoperative questionnaire
-preparation for hematopoietic cell transplantation
 preparation for hematopoietic cell transplantation
 preparative regimens
 preprocedure administration for cardiac catheterization
@@ -14730,7 +13784,6 @@ pressure-support ventilation
 presumptive evidence for immunologic pathogenesis
 presymptomatic
 presynaptic rundown
-presystolic murmurs
 pretest
 pretibial
 pretransfusion testing
@@ -14751,13 +13804,9 @@ prevention of recurrent bleeding
 prevention of reexposure
 prevention of systemic emboli
 prevention with ursodeoxycholic acid
-preventive
 preventive therapies
-primary
-primary (azurophil)
 primary accidental
 primary amebic
-primary amebic meningoencephalitis
 primary biliary
 primary breast cancer
 primary disorders of elevated ApoB
@@ -14780,33 +13829,25 @@ principles of care
 principles of chemotherapy
 principles of endocrinology
 principles of patient care
-prion diseases
 prion strains
 prior to abscess
 proangiogenic
 probability of successful resuscitation
 probes for direct detection of pathogens
 problems after return
-procedural
-procedures
-proctitis
 prodromal complaints
 prodromal symptoms
 products in clinical trials
-progestins
 prognosis and recovery
 progression of disease
 progression of renal injury
 progression to biologic death
 progression to rheumatic heart disease
-progressive
-progressive disease
 progressive disseminated
 progressive familial
 progressive familial intrahepatic
 progressive nonfluent
 progressive primary
-progressive/relapsing
 proinflammatory
 prolactin-secreting
 prolapse
@@ -14815,7 +13856,6 @@ proliferative phase
 prolonged
 prominent cerebellar involvement at onset
 prominent parkinsonism at onset
-promotion
 prone positioning during
 propagation phase
 prophylactic
@@ -14827,34 +13867,21 @@ prophylaxis in surgical patient
 prophylaxis in transplant recipients
 prophylaxis of infective endocarditis
 prophylaxis of venous thromboembolism
-prospective payment
-prostacyclins
-prostaglandin analogues
-prostatectomy
-prostatitis
-prosthetic joint infections
-protease inhibitors
 protection against STDs
 protective measures against
 protein-bond
 protein-conjugate
-proteins
-proton pump inhibitors
 protozoal
 protozoal intestinal infections
 provider-patient communication
 proximal
 pseudo-vitamin D deficiency
 pseudo-vitamin D-resistant
-psittacosis
-psoas abscess
 psychogenic
 psychogenic gait disorder
-psychological disorders
 psychological symptoms and their management
 psychological variables
 psychosocial
-psychosocial support
 public access
 public expectation
 public health strategies
@@ -14862,59 +13889,35 @@ public reporting
 puerperal fever
 puerperal sepsis
 pulmonary
-pulmonary artery catheter
-pulmonary biomarkers
 pulmonary circulation disturbances
-pulmonary disease
-pulmonary edema
-pulmonary embolism after
 pulmonary infiltrates with eosinophilia
-pulmonary rehabilitation
-pulmonary risk assessment
 pulsatile
-pulse oximetry
 pulsed-wave
-pupils
-pure
 pure
 pure motor
 pure myopathy syndromes
-pure red-cell aplasia/chronic anemia
+pure red-cell aplasia
+chronic anemia
 pure sensory
 pure tonic
 purging subtype
 purple
-purpura
-purpura fulminans
 purpuric eruptions
 pustular
 pustular lesions
 pyogenic
-pyogenic (purulent)
-pyomyositis
 pyridoxine-dependent
-pyrogenic
-quality of life issues
-quality theory
 quantitative
 quartan
 quasispecies
-rabies
 rabies and tetanus prophylaxis
-racial/ethnic disparities in care
-racial/ethnic disparities in health care
-racial/ethnic factors in communication
-radiation
-radiation injury
 radiation safety precautions
-radiation therapy
 radiation-derived units
 radiation-induced
 radicular
 radiculopathies and plexopathies
 radioactive
 radiographic procedures
-radioiodine therapy
 radioiodine uptake tests
 radiolabeled
 radiologic dispersal events
@@ -14922,25 +13925,19 @@ radionuclide properties and treatment
 radionuclide-labeled markers
 radiotherapy with curative intent
 raised CSF pressure headache
-rapid
 rapid cycling
 rapidly conducting
 rapidly progressive
 raspberry
-rate control
-raw
 reactional states
 reactions to light
 reactive
-reactive
-reactive arthritis
 rebound
 recent activity and results
 receptor mutations
 recessive
 reciprocal
 reciprocal ST depression
-recombinant
 recommendation to address
 recommendations for asymptomatic normal-risk subjects
 recommended
@@ -14949,38 +13946,28 @@ recovery phase
 rectal
 recurrence of primary disease
 recurrent
-recurrent /metastatic disease
+recurrent metastatic disease
 recurrent fallers
 recurrent ulceration
 recurrent unilateral
-red
-red blood cell
 red cell
 red cell fragmentation
 red cell membrane-cytoskeleton abnormalities
 red hepatization
-red man syndrome
 red-brown
-reduced
 reduction of atherosclerosis
 reexpansion
 refeeding
 reference values
 reference values for laboratory tests
-referred
-referred pain
 reflex or startle
 reflux
-refractive state
 refractory
 refractory disease
 refractory epilepsy
-refusal to swallow
 regenerating cardiac tissue
 regional rheumatic complaints
 regional trends
-regional wall motion abnormalities
-regulation
 regulation of aldosterone secretion
 regulation of ovarian function
 regulation of testicular function
@@ -14988,23 +13975,17 @@ regulation of thyroid axis
 regulation of water excretion
 rehabilitation after
 rehabilitation of alcoholics
-rehabilitation programs
-rehabilitative
 rehabilitative aids
 reinfection
-reinfection after
 relapse
 relapse prevention
-relapsing
-relapsing fever
 relapsing fever-induced
-relapsing/remitting
+remitting
 related conditions
 related to sensory deficit
 relationship
 relationship among primate lentiviruses
 relationship to cancer
-relative
 relative bradycardia
 relaxation
 relaxation rate
@@ -15014,35 +13995,24 @@ removal of poisons
 removal of poisons from bloodstream
 remyelination after
 renal
-renal abscess
 renal disease
-renal transplantation
 renal vein renin ratio
-renin-angiotensin-aldosterone system
 renin-dependent
 renin-secreting
 renovascular
-reovirus
 reperfusion therapy
 reperfusion-revascularization
-repetitive
 repetitive joint use
 repetitive probes
 replacement of coagulation or fibrinolysis inhibitors
-replacement serotypes
 replacement therapy for cancer patients
 replicative phase of infection
 reporting systems
 reproductive disorders
 reproductive dysfunction
 reptile-associated
-required
 rescue
-research and teaching by
-resident
 residual-type
-resistant
-resolution
 resolution phase
 resources on world wide web
 respiratory
@@ -15050,51 +14020,29 @@ respiratory arrest in stroke
 respiratory bronchiolitis-associated
 respiratory care
 respiratory cycle
-respiratory disease
 respiratory infections
 respiratory rate
-respiratory syncytial virus
 respiratory system
 respiratory system mechanics
-respiratory tract
 response to antidotes
 response to nephron less
-restenosis after
-resting
 restricting subtype
-restrictive
 restrictive pattern
 retentive
-retinal
 retinal examination
-retinitis
-retinopathy
 retransplantation
 retrobulbar
 retrocaval
 retrograde
 revaccination
-revascularization
 reverse cholesterol transport
 reverse painting
-reverse transcriptase
-reverse transcriptase PCR
-reverse transcriptase inhibitors
 revertant
-rewarming
 rewarming strategies
-rewarming strategy
 rheumatic
-rheumatic fever
-rheumatic heart disease
 rheumatic review of systems
 rhinocerebral
-rhinovirus
 rice-based
-rickets
-rickettsial disease
-rickettsial diseases
-right
 right axis deviation
 right heart catheterization
 right ventricular
@@ -15103,38 +14051,20 @@ risk factor reduction
 risk-directed
 role of fibrinolytic therapy
 rotational
-rotavirus
 route of administration
 routine
-rubella
 rupture
 rupture of saccular aneurysm
-ruptured
 saccular
-sacral cord/conus medullaris
-safer sexual practices
-safety in health care
 safety theory
-salicylates
-saliva
-salmonellosis
-salpingitis
 salvage chemotherapy
 salvage treatment plan
-sapovirus
 saprophytic
-sarcoidosis
-sarcoma
 scaffolds
 scanning
-scarlet fever
-scarring
 schistosomal
 schistosome eggs
-schistosomiasis
-scleroderma
 sclerosing
-sclerotherapy
 sclerotic
 sclerotic glomeruli
 scoring scale of Ferriman and Gallwey
@@ -15143,85 +14073,58 @@ screening
 screening assays
 screening for colorectal cancer
 screening programs
-screening tests
-scrub typhus
 seasonal
-second
 second malignancy
 second-degree
 second-generation
 second-line
 second-look
-secondary
-secondary (postprimary)
-secondary (specific)
 secondary SUNCT
 secondary progressive
 secondary response
 secondary type
-secretin-pancreozymin test
 secretion
-secretory
-sedation
 sedation after myocardial infarction
 sedation of patient
-segmental
 segmental necrotizing
 segregation in meiosis
 segregation of mitochondrial DNA
 seizure vs.
 selection of imaging tests
-selective digestive decontamination
-selective estrogen response modulators
 self-induced
 sella
 sellar region
 semantic
-semen analysis
 seminoma
 semisynthetic penicillinase-resistant
 senescent
 senile
 senile systemic
-sensitivity of tests
 sensorimotor polyneuropathy
 sensorineural
 sensory
-sensory ataxia
-sensory examination
-sepsis
 sepsis and septic shock
 septic
-septic shock
 septicemic
 serodiagnostic tests
 serogroup O1
 serogroup O139
 serogroups
 serologic
-serology
 seronegative
-serosorting
 serotonin receptor agonists
 serotonin receptor antagonists
-serous
 serum
 serum antibodies
 serum creatinine
 serum-binding proteins
-severe
-severe acute respiratory syndrome
-severe asthma with fungal sensitization
 severe injury
 sex
 sex therapy
 sexual
 sexually transmitted
 shampoo
-shift cells
 shift to the left
-shift-work disorder
-shigellosis
 short-acting
 short-chain
 short-course chemotherapy
@@ -15230,11 +14133,8 @@ shorter-course therapy
 sickle cell
 sickness
 signal-averaged
-silent
-silent (painless)
 silent exposure
 silhouette sign
-simple
 simplex
 simultaneous administration of multiple vaccines
 sine scleroderma
@@ -15251,16 +14151,12 @@ sites of infection
 situational
 skeletal
 skeletal muscle-central nervous system syndromes
-skin
 skin and soft tissue
 skin and soft tissue infections
 skin biopsy
-skin infections
 skin necrosis
 skin-colored
 skull-base
-sleep
-sleep disorders
 sleep maintenance
 sleep offset
 sleep onset
@@ -15268,10 +14164,7 @@ sleep-associated
 sleep-related
 sleepiness vs.
 sleepiness-related
-sleeping sickness
-sliding
 slipping and tripping
-slow
 slow low-efficiency
 slow-growing
 small airways
@@ -15284,68 +14177,43 @@ small-fiber
 small-intestinal
 small-intestinal obstruction
 small-vessel
-smoker’s
-smoking cessation
+smoker's
 smoldering
 snake identification
-snakebite
-sodium excretion by
-soft tissue
-soft tissue infections
 solar
 solitary bone
 solitary metastatic site
 soluble defense
-somatic mutations
-somatostatin analogues
-source contact
 sources of infection
 spasmodic
-spastic
 spastic-ataxic
 special clinical situations
-specialized nutritional support
 specialized nutritional support regimen
-specialized nutritional support regimens
 species barrier
-specific
 specific diseases
 specific factor assays
 specific organ
 specific types
-specificity of tests
 specimen collection and transport
 specimen handling
 specimen-processing algorithm
 spectral karyotyping
-speech
-spermatogenesis
 sphincter of Oddi spasm
 spider
 spinal
-spinal cord
-spinal cord compression by
 spinal cord lesions
 spirochetal
-splenectomy
-splenic abscess
-spontaneous
 spontaneous CTL activity
 spontaneous bacterial
-spontaneous bacterial peritonitis
 spontaneous breathing trial
 spontaneous nontraumatic
 sporadic
 spread by direct extension
-spur cells
-spurious/relative
 sputum collection
 squamous (epidermoid)
 squamous cell
-squamous cell carcinoma
 stabbing
 stabilization
-stable
 stable disease
 stable exertional
 stable phase COPD
@@ -15355,58 +14223,39 @@ stages I and II nonseminoma
 stages I and II seminoma
 stages of disease
 stages of iron deficiency
-staging
 standards for immunization practice
 standing
 staphylococcal
 staphylococci
-statins
 steatorrheal
 steerable guidewire
-stem cell
-stem cell therapy
 stem cell transplantation
 stemness
 stenosis
-stenting
-stents
 stepwise therapy
-stereopsis
 sterile
 sterile pyogenic
-steroid transport by
 steroid-induced
 steroid-induced diabetes
 steroid-sparing therapies
 stiff guidewire
 stiff-legged
-stimulation tests
-stomatitis
 stone passage
 stool
-stool-bulking agents
 strain H5N1
 strain O157:H7
 strain rate
 strategies for improving
 strawberry
 streptococcal
-streptococcus group A
 streptococcus group B carriers
-stress
-stress
-stress echocardiography
-stress incontinence
-stress testing
 stress-induced
 stress-related mucosal injury
-strontium ranelate
 structural
 structural lesions
 structural variants
 structural-obstructive
 structure in cancer cells
-struvite stones
 studies of pancreatic structure
 study models
 subacute
@@ -15416,39 +14265,28 @@ subclinical
 subcortical
 subcutaneous
 subdural
-subdural empyema
 subendocardial
 subependymal giant cell
 subgingival
 subitum
 sublingual
-substance abuse
 substernal
 subtotal or near-total
 subtypes
-subtypes of I
 subvalvular
-sucralfate
 sudden natural death
-sudomotor function
 sulfur mustard exposure
-summer grippe
 sun avoidance
-sunburn
 super-spreaders
-superantigens
 superficial
 superficial spreading
-superinfection
 supine
 supplementation
 supplementation for dysmenorrhea
-support
 supportive care
 suppression in HIV infection
 suppression of erythropoietin production
 suppression of reactivation
-suppression tests
 suppurative
 suppurative deep tissue infections
 suppurative intracranial
@@ -15457,7 +14295,6 @@ supragingival
 supranuclear
 supravalvular
 supraventricular
-surfactant replacement therapy
 surgery
 surgical
 surgical methods
@@ -15466,11 +14303,9 @@ surgically modified
 surveillance in high-risk individuals
 survivorship issues
 susceptibility of bacteria in vitro
-susceptibility testing
 susceptibility to infections after
 sustained
 sustained-release
-sweat
 symbols
 symmetric
 sympathetically maintained
@@ -15480,7 +14315,6 @@ symptomatic disease
 symptomatic therapy
 symptoms of serious underlying disorder
 synchronized intermittent mandatory ventilation
-syndrome
 synergistic nonclostridial anaerobic
 synergistic or additive activity
 synonymous
@@ -15489,41 +14323,23 @@ synthesis in bacteria
 synthetic prions
 syphilis
 syphilitic
-system
 system-specific syndromes
-systemic
-systemic diseases that cause/exacerbate
 systemic glucose balance and glucose counterregulation
 systemic steroids
-systemic vascular resistance
-systems neuroscience
 systolic
 systolic sounds
 systolic with wide pulse pressure
-tachyarrhythmia
-tachycardia
-tacrolimus
 taking history from subjects in clinical trials
-tamoxifen
-tanning
 tardive
-target cells
 target population
-targeted therapy
 temporal lobe
-tendinous
-tendon
 tension
 tension-type
-terbinafine
 terminal
-terminal weaning
 tertian
 tertiary
 test batteries
 testicular
-testicular biopsy
-testosterone
 testosterone assays
 testosterone buciclate
 testosterone gel
@@ -15531,15 +14347,12 @@ testosterone undecanoate
 testosterone-lowering agents
 tests of glucocorticoid reserves
 tests of pituitary sufficiency
-tetanus
 thalamic lesions
-thalidomide
 that alter cell membrane permeability
 that measure biosynthetic function
 that mimic inflammatory bowel disease
 that reflect cholestasis
 that reflect damage to hepatocytes
-theophylline
 therapeutic
 therapeutic angiogenesis
 therapeutic interventions
@@ -15549,28 +14362,17 @@ therapy for acute renal failure
 therapy-induced
 therapy-related
 thiamine-responsive
-third
 third-generation
 thoracic
 thoracic cord
-thoracic/abdominal
 thoracoabdominal
-thrombectomy device
 thromboembolism prevention
 thromboembolitic
-thromboendarterectomy
-thrombolytic therapy
 thrombotic
 thunderclap
-thymectomy
-thymoma
 thyroglobulin determinations
-thyroid
 thyroid-stimulating hormone-secreting
-thyrotoxicosis induced by
-tick-
 tick-borne
-tick-borne spotted fevers
 tight epithelia
 time course of illness
 time-of-flight imaging
@@ -15578,18 +14380,10 @@ timing of operation
 tissue
 tissue and body fluids
 tissue damage and disease
-tissue engineering
 tissue fibrosis
-tissue invasion
-tissue invasion by
 tissue repair
-tissue tropism
-tissue tropisms
 tissue typing and clinical immunogenetics
-tobacco use
 tolerance and physical dependence
-tolerant
-tonic
 tonic-clonic
 tooth extraction
 tooth loss
@@ -15597,16 +14391,11 @@ tophaceous
 topical
 topical antifungals
 toppling
-torovirus
-total
 total body
-total parenteral nutrition
 total parenteral nutrition for diabetic
 total unilateral
 toxic
 toxic agents and drugs
-toxic chemicals
-toxic epidermal necrolysis
 toxic granulations
 toxic multinodular
 toxic phase
@@ -15614,8 +14403,6 @@ toxicologic analysis of urine and blood
 toxin-coregulated
 toxin-mediated disease
 trabecular
-tracheobronchitis
-trachoma
 transdermal
 transdermal patch
 transesophageal
@@ -15624,8 +14411,6 @@ transfer
 transfer from blood to bile
 transferase variants
 transforming into melanoma
-transfusion
-transfusion therapy
 transfusion-associated
 transfusion-related
 transfusion-transmitted
@@ -15633,18 +14418,14 @@ transgenic
 transient
 transient aplastic crisis
 transient global
-transient hypogammaglobulinemia of infancy
 transient monocular
 transient or sudden
 transit time
 transition to menopause
 transitional cell
-transjugular intrahepatic portosystemic shunt
-transjugular intrahepatic portosystemic shunt
 translocation
 transmission to new hosts
 transmural
-transmyocardial laser revascularization
 transplacental
 transplant procedure
 transplant rejection
@@ -15660,21 +14441,14 @@ transport of thyroid hormones
 transtentorial
 transtubular concentration gradient
 transudative
-transverse
 trapped
-trauma
 trauma-related
 traumatic
-traumatized
-travel by
 travel by disabled person
-travel during
-travel history
 travel medicine
 travel through pulmonary capillaries
 travel-associated
 travel-associated injury
-travelers’ diarrhea
 treatment complications
 treatment failure
 treatment failure and relapse
@@ -15687,14 +14461,8 @@ treatment-related
 tremor artifact
 trends in health care delivery
 treponemal
-trichinellosis
-trichomoniasis
-tricyclic antidepressants
-triggered
-triggers
 triggers of asthma
 triple therapy
-trisomy
 tropical
 tropical pulmonary
 true
@@ -15702,113 +14470,71 @@ truncal
 truncal radiculoneuropathy
 trust within
 trypanosomal
-trypanosomes
-trypanosomiasis
 tub gene
 tubal disease
 tube placement
 tubercular
 tuberculoid
-tuberculosis
 tuberculosis vs.
 tuberculous
 tuberoeruptive
 tuberous
 tubular
-tubulointerstitial disease
-tularemia
 tumefactive
-tumor
 tumor angiogenesis
 tumor growth rate
 tumor localization
 tumor location
-tumor location/localization
 tumor-associated
-tumor-induced
-tumors
 tunnel-site
 twisted
-two-dimensional
-type 1
-type 1 (distal)
-type 2
-type 2 (proximal)
-type 4
-type I
-type IH
-type II
-type IV
 type of food causing
 types of documents
 types of exposure
 types of radioisotopic radiation
 typhoidal
 ulcer disease
-ulcerative
 ulceroglandular
-ulcers
 ulcers and eschars
-ultrafast/electron beam
-unbound
+electron beam
 uncal
 unclassified
-uncommon
 unconjugated
 underlying conditions
 undifferentiated
-unequal
 unfractionated
 unidentified
 unilateral
 unipolar leads
 unpredictable
-unstable
-unstable angina
-unstable hemoglobins
 unstable sequences
-upbeat
-upper
 upper body
 upper motor neuron
 upper tract
 upper tract sources
 uremic
-urethral syndrome
-urethritis
 urgent
 urgent treatment
 uric acid handling
-uric acid stones
 urinary
 urinary D-xylose test
 urinary casts
 urinary free
-urinary tract infection
-urinary tract infections
 urine
 urokinase-type
-urticaria
 urticaria and angioedema
 urticarial eruption
 using stem cells
-uveitis
-vaccination
-vaccination against
 vaccine-associated
 vacuolar
-vacuum constriction devices
-vaginitis
 valvular
 valvular disease
 valvular gradients
-valvular heart disease
 valvular regurgitation
 vancomycin-resistant
 variability
 variant
 variceal ligation
-varicella
 varicose
 variegate
 varioliform
@@ -15819,44 +14545,26 @@ vascular malformations
 vascular mechanisms
 vascular parkinsonism
 vascular regeneration
-vascular volume
-vasculitis
 vasculogenic
 vasoconstricting agents
 vasoconstrictors
 vasodepressor
-vasodilators
 vasomotor
-vasopressors
-vasospasm after
 vasovagal
 vector for gene therapy
-vectors for gene therapy
 vellus
 venom
 venom sensitivity
-venomous
 venous
-venous return
-venous thrombosis
-ventilation-perfusion matching
 ventilator operation
 ventilator-associated
 ventilator-associated pneumonia
 ventilator-induced lung injury
 ventilatory disturbances
-ventilatory support
 ventricular
 ventricular function
-vertebral
-vertebral artery
-vertebral osteomyelitis
-vertebrate
 vertical gaze
-vesicants
-vesicles/bullae
 vesicular
-vesiculobullous eruptions
 vestibular
 vibrator
 video-EEG telemetry
@@ -15872,15 +14580,9 @@ viridans
 virtual
 virus-associated
 virus-specific
-viruses transmitted by
 visceral
 visceral infections
-visual acuity
 visual field assessment
-visual fields
-visual loss
-vitamin C
-vitamin D
 vitamin D deficiency
 vitamin D-dependent
 vitamin D-related
@@ -15890,24 +14592,19 @@ vocal
 volatile hydrocarbons
 voluntary active
 volutrauma
-von Gierke’s disease
+von Gierke's disease
 von Hippel-Landau tumor-suppressor protein
 von Hippel-Lindau syndrome
-von Recklinghausen’s disease
+von Recklinghausen's disease
 von Willebrand disease
 von Willebrand factor
 von Willebrand factor concentrate
-vulvovaginal
-vulvovaginitis
 waiting list and donor allocation
 warfarin-induced
 warning arrhythmias
-warts
 water and electrolyte secretion
-water excretion by
 water-bottle
 water-hammer
-watery
 waveforms and intervals
 waxy casts
 weaponization of agents
@@ -15916,10 +14613,6 @@ webs and rings
 weight loss and exercise
 weight status and risk of disease
 well-differentiated
-wet
-wet (exudative)
-while sleepy
-white
 white coat
 white lesions
 white matter disease
@@ -15928,23 +14621,15 @@ whole-body exposure
 whole-body thyroid scan
 whole-brain
 whole-cell
-whole-cell/B subunit
 withdrawal symptoms
-withdrawal syndrome
-withholding/withdrawal of care
 women with peritoneal carcinomatosis
-women’s health
-working
 worldwide
 wound
 wound care
-wound infections
 wound management
 xenodiagnosis
 xenogenic cells
-yaws
 yellow
-yersiniosis
 zoonotic
 zoster-associated pain
 Δ-Pyrroline-5-carboxylate synthase deficiency

@@ -71,7 +71,8 @@ CREATE TABLE articles (
     pubmed_id integer,
     raw_pubmed_xml text,
     created_at timestamp without time zone,
-    updated_at timestamp without time zone
+    updated_at timestamp without time zone,
+    search_vector tsvector
 );
 
 
@@ -180,17 +181,10 @@ ALTER TABLE ONLY keywords
 
 
 --
--- Name: articles_to_tsvector_idx; Type: INDEX; Schema: public; Owner: -; Tablespace: 
+-- Name: articles_search_idx; Type: INDEX; Schema: public; Owner: -; Tablespace: 
 --
 
-CREATE INDEX articles_to_tsvector_idx ON articles USING gin (to_tsvector('english'::regconfig, title));
-
-
---
--- Name: articles_to_tsvector_idx1; Type: INDEX; Schema: public; Owner: -; Tablespace: 
---
-
-CREATE INDEX articles_to_tsvector_idx1 ON articles USING gin (to_tsvector('english'::regconfig, abstract));
+CREATE INDEX articles_search_idx ON articles USING gin (search_vector);
 
 
 --
@@ -222,6 +216,13 @@ CREATE UNIQUE INDEX unique_schema_migrations ON schema_migrations USING btree (v
 
 
 --
+-- Name: articles_vector_update; Type: TRIGGER; Schema: public; Owner: -
+--
+
+CREATE TRIGGER articles_vector_update BEFORE INSERT OR UPDATE ON articles FOR EACH ROW EXECUTE PROCEDURE tsvector_update_trigger('search_vector', 'pg_catalog.english', 'title', 'abstract');
+
+
+--
 -- PostgreSQL database dump complete
 --
 
@@ -235,4 +236,4 @@ INSERT INTO schema_migrations (version) VALUES ('20130430165141');
 
 INSERT INTO schema_migrations (version) VALUES ('20130430191323');
 
-INSERT INTO schema_migrations (version) VALUES ('20130430224847');
+INSERT INTO schema_migrations (version) VALUES ('20130508064032');

@@ -10,14 +10,14 @@ class ImportKeywordWorker
   def perform(list_file, ids = nil)
     list = []
     with_locked_file list_file do
-      list = read_list(list_file)
-      list.each do |term|
+      keyword_list = read_list(list_file)
+      keyword_list.each do |term|
         keyword = Keyword.where(title: term.to_s).first_or_create
 
         # search all current articles
         list.concat keyword.list_keyword_occurrence
       end
-      ArticleKeyword.import [:keyword_id, :article_id], list_slice, validate: false
+      ArticleKeyword.import [:keyword_id, :article_id], list, validate: false, timestamps: false
     end
   end
 end

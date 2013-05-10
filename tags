@@ -5,7 +5,6 @@
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
 ActiveSupport	/media/arashbm/Data/code/medcrunch/test/test_helper.rb	/^class ActiveSupport::TestCase$/;"	c
-AddFulltextIndexToArticles	/media/arashbm/Data/code/medcrunch/db/migrate/20130430224847_add_fulltext_index_to_articles.rb	/^class AddFulltextIndexToArticles < ActiveRecord::Migration$/;"	c
 AddUniqueIndexToPmid	/media/arashbm/Data/code/medcrunch/db/migrate/20130430191323_add_unique_index_to_pmid.rb	/^class AddUniqueIndexToPmid < ActiveRecord::Migration$/;"	c
 Application	/media/arashbm/Data/code/medcrunch/config/application.rb	/^  class Application < Rails::Application$/;"	c	class:Medcrunch
 ApplicationController	/media/arashbm/Data/code/medcrunch/app/controllers/application_controller.rb	/^class ApplicationController < ActionController::Base$/;"	c
@@ -20,6 +19,7 @@ CreateArticleKeywords	/media/arashbm/Data/code/medcrunch/db/migrate/201304301651
 CreateArticles	/media/arashbm/Data/code/medcrunch/db/migrate/20130430162844_create_articles.rb	/^class CreateArticles < ActiveRecord::Migration$/;"	c
 CreateKeywords	/media/arashbm/Data/code/medcrunch/db/migrate/20130430165044_create_keywords.rb	/^class CreateKeywords < ActiveRecord::Migration$/;"	c
 FileMark	/media/arashbm/Data/code/medcrunch/lib/file_mark.rb	/^module FileMark$/;"	m
+FulltextIndexToArticles	/media/arashbm/Data/code/medcrunch/db/migrate/20130508064032_fulltext_index_to_articles.rb	/^class FulltextIndexToArticles < ActiveRecord::Migration$/;"	c
 ImportKeywordWorker	/media/arashbm/Data/code/medcrunch/app/workers/import_keywords.rb	/^class ImportKeywordWorker$/;"	c
 Keyword	/media/arashbm/Data/code/medcrunch/app/models/keyword.rb	/^class Keyword < ActiveRecord::Base$/;"	c
 KeywordsTest	/media/arashbm/Data/code/medcrunch/test/models/keywords_test.rb	/^class KeywordsTest < ActiveSupport::TestCase$/;"	c
@@ -28,8 +28,9 @@ change	/media/arashbm/Data/code/medcrunch/db/migrate/20130430162844_create_artic
 change	/media/arashbm/Data/code/medcrunch/db/migrate/20130430165044_create_keywords.rb	/^  def change$/;"	f	class:CreateKeywords
 change	/media/arashbm/Data/code/medcrunch/db/migrate/20130430165141_create_article_keywords.rb	/^  def change$/;"	f	class:CreateArticleKeywords
 change	/media/arashbm/Data/code/medcrunch/db/migrate/20130430191323_add_unique_index_to_pmid.rb	/^  def change$/;"	f	class:AddUniqueIndexToPmid
-change	/media/arashbm/Data/code/medcrunch/db/migrate/20130430224847_add_fulltext_index_to_articles.rb	/^  def change$/;"	f	class:AddFulltextIndexToArticles
+change	/media/arashbm/Data/code/medcrunch/db/migrate/20130508064032_fulltext_index_to_articles.rb	/^  def change$/;"	f	class:FulltextIndexToArticles
 dataset_marked?	/media/arashbm/Data/code/medcrunch/lib/file_mark.rb	/^  def dataset_marked?(dataset, mark='marked')$/;"	f	class:FileMark
+keyword_search	/media/arashbm/Data/code/medcrunch/app/models/article.rb	/^  def self.keyword_search(query)$/;"	F	class:Article
 list_keyword_occurrence	/media/arashbm/Data/code/medcrunch/app/models/keyword.rb	/^  def list_keyword_occurrence(ids=nil)$/;"	f	class:Keyword
 mark_dataset	/media/arashbm/Data/code/medcrunch/lib/file_mark.rb	/^  def mark_dataset(dataset, mark='marked')$/;"	f	class:FileMark
 perform	/media/arashbm/Data/code/medcrunch/app/workers/extractor.rb	/^  def perform(ids = nil)$/;"	f	class:ArticleExtractorWorker
@@ -37,5 +38,6 @@ perform	/media/arashbm/Data/code/medcrunch/app/workers/import_keywords.rb	/^  de
 perform	/media/arashbm/Data/code/medcrunch/app/workers/reader.rb	/^  def perform(filename)$/;"	f	class:ArticleReaderWorker
 read_list	/media/arashbm/Data/code/medcrunch/app/workers/import_keywords.rb	/^  def read_list(list_file)$/;"	f	class:ImportKeywordWorker
 save_keyword_occurrence!	/media/arashbm/Data/code/medcrunch/app/models/keyword.rb	/^  def save_keyword_occurrence!(ids=nil)$/;"	f	class:Keyword
+to_query	/media/arashbm/Data/code/medcrunch/app/models/keyword.rb	/^  def to_query$/;"	f	class:Keyword
 unmark_dataset	/media/arashbm/Data/code/medcrunch/lib/file_mark.rb	/^  def unmark_dataset(dataset, mark='marked')$/;"	f	class:FileMark
 with_locked_file	/media/arashbm/Data/code/medcrunch/lib/file_mark.rb	/^  def with_locked_file(filename)$/;"	f	class:FileMark
