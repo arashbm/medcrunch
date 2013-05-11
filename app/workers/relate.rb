@@ -3,7 +3,7 @@ class KeywordRelationWorker
 
   def perform(ids=nil)
     list = []
-    if ids & ids.is_a? Array
+    if ids && ids.is_a? Array
       ks = Keyword.select(:id).where(id: ids).to_a
     else
       ks = Keyword.select(:id).to_a
