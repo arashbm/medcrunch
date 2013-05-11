@@ -127,6 +127,39 @@ ALTER SEQUENCE keywords_id_seq OWNED BY keywords.id;
 
 
 --
+-- Name: keywords_relations; Type: TABLE; Schema: public; Owner: -; Tablespace: 
+--
+
+CREATE TABLE keywords_relations (
+    id integer NOT NULL,
+    keyword_first_id integer,
+    weight integer,
+    keyword_last_id integer,
+    created_at timestamp without time zone,
+    updated_at timestamp without time zone
+);
+
+
+--
+-- Name: keywords_relations_id_seq; Type: SEQUENCE; Schema: public; Owner: -
+--
+
+CREATE SEQUENCE keywords_relations_id_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+
+--
+-- Name: keywords_relations_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: -
+--
+
+ALTER SEQUENCE keywords_relations_id_seq OWNED BY keywords_relations.id;
+
+
+--
 -- Name: schema_migrations; Type: TABLE; Schema: public; Owner: -; Tablespace: 
 --
 
@@ -157,6 +190,13 @@ ALTER TABLE ONLY keywords ALTER COLUMN id SET DEFAULT nextval('keywords_id_seq':
 
 
 --
+-- Name: id; Type: DEFAULT; Schema: public; Owner: -
+--
+
+ALTER TABLE ONLY keywords_relations ALTER COLUMN id SET DEFAULT nextval('keywords_relations_id_seq'::regclass);
+
+
+--
 -- Name: article_keywords_pkey; Type: CONSTRAINT; Schema: public; Owner: -; Tablespace: 
 --
 
@@ -178,6 +218,14 @@ ALTER TABLE ONLY articles
 
 ALTER TABLE ONLY keywords
     ADD CONSTRAINT keywords_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: keywords_relations_pkey; Type: CONSTRAINT; Schema: public; Owner: -; Tablespace: 
+--
+
+ALTER TABLE ONLY keywords_relations
+    ADD CONSTRAINT keywords_relations_pkey PRIMARY KEY (id);
 
 
 --
@@ -237,3 +285,5 @@ INSERT INTO schema_migrations (version) VALUES ('20130430165141');
 INSERT INTO schema_migrations (version) VALUES ('20130430191323');
 
 INSERT INTO schema_migrations (version) VALUES ('20130508064032');
+
+INSERT INTO schema_migrations (version) VALUES ('20130511064236');

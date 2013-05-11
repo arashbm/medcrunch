@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  keyword_first_id: 1
+  weight: 1
+  keyword_last_id: 1
+
+two:
+  keyword_first_id: 1
+  weight: 1
+  keyword_last_id: 1

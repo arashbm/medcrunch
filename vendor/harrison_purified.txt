@@ -10287,7 +10287,6 @@ Terminal extubation
 Terminal restlessness
 Terminal weaning
 Terminally ill patient
-Testes
 Testicular biopsy
 Testicular cancer
 Testicular dysgenesis
@@ -11433,8 +11432,6 @@ abdominal swelling vs.
 abnormal impulse conduction
 abnormalities of cobalamin metabolism
 abnormalities of mononuclear cells
-absence
-absolute
 absorption of drugs
 acalculous
 access to peritoneal cavity
@@ -11550,12 +11547,10 @@ also Carcinoid tumor; Pancreatic endocrine tumor
 also Helicobacter pylori
 also Renin-angiotensin-aldosterone system
 also specific disorders
-altered
 altered gut immune function
 altered gut transit
 altered secretion
 alternative therapies
-altitude
 alveolar
 ambulatory
 amebic
@@ -11665,8 +11660,6 @@ assessment of pulmonary circulation
 assessment of screening tests
 assessment of severity of illness
 assist control mode ventilation
-associated with other conditions
-association with other autoimmune diseases
 asteatotic
 asthenic fatigue
 asymptomatic
@@ -11826,13 +11819,11 @@ cardiovascular and cerebrovascular events
 cardiovascular regulation
 cardiovascular system
 cardiovascular therapy
-care
 care during last hours
 care of ventilated patient
 carotid
 carrier state
 cartilage regeneration
-case finding
 cat bite-related
 catamenial
 catatonic-type
@@ -11984,7 +11975,6 @@ communicating bad news to patient
 community-acquired
 community-acquired infections
 comorbid conditions
-comparative
 comparative genomic hybridization
 compared to fondaparinux
 compared to heparin
@@ -12005,7 +11995,6 @@ computerized
 concealed accessory pathways
 concussion in sports
 conditions that mimic
-conduction
 confidentiality issues
 conflicts between beneficence and autonomy
 conflicts for trainees
@@ -12057,7 +12046,6 @@ crab yaws
 cranial neuropathies
 cricopharyngeal
 critical care disorders
-crossed
 cryoglobulinemic
 cryptococcal
 cryptogenic
@@ -12108,13 +12096,10 @@ deeply invasive
 defects in lipid digestion and absorption
 defects in membrane transport
 defects in neurologic disease
-deficiency
 defining therapeutic strategy
-definition
 definition of alcohol abuse
 definition of influenza
 deglutition
-delayed
 delayed emesis
 delayed hemolytic and serological reactions
 delayed hypersensitivity
@@ -12132,21 +12117,16 @@ design of regimens
 desmoplastic
 desquamative
 desquamative inflammatory
-detached
-detection methods
 detection of pathogens by culture
-determination
 determination of intestinal viability
 determining pulmonary vasodilator reactivity
 development at puberty
 diabetic
-diagnosis
 diagnosis of coagulation factor inhibitors
 diagnosis of infectious disease
 diagnosis of intestinal parasites
 diagnosis of microcytic anemia
 diagnosis of tonic pupil
-diagnostic
 diagnostic hypothesis generation
 dialysis-associated
 dialysis-related
@@ -12177,8 +12157,6 @@ direct observation of treatment
 direct presentation
 directed at tumor cells
 directed outside the gut
-directive
-dirty
 disability assessment
 discoid
 discolored
@@ -12304,7 +12282,6 @@ elimination of carriage of streptococci
 elimination of nasal staphylococci
 elite nonprogressors
 embryonal
-emergency
 emergency management
 emetic form
 emotional support
@@ -12622,8 +12599,6 @@ heart failure with depressed ejection fraction
 heart rate with deep breathing
 heart-liver
 helical
-helper
-inducer
 hematogenous
 hematologic
 hematologic abnormalities
@@ -12646,9 +12621,6 @@ hereditary hemorrhagic
 herniated
 herpes simplex virus-associated
 hibernating
-high activity
-high-affinity
-high-altitude
 high-dose
 high-dose regimens
 high-grade
@@ -12777,7 +12749,6 @@ immunologically mediated
 immunotactoid
 impact on medical practice
 impaction in esophagus
-impaired
 impaired blood flow
 impaired conjugation
 implantable cardiac defibrillator
@@ -12816,7 +12787,6 @@ infantile
 infantile-onset
 infarction
 infection
-infection to disease
 infection-induced
 infections associated with specific defects
 infections in cancer patients
@@ -12841,7 +12811,6 @@ inflammatory vs. noninﬂammatory
 inflow velocity
 influenza
 influenza virus-related
-informal
 infusion techniques
 inhalational
 inhaled corticosteroids
@@ -13048,15 +13017,8 @@ loss of replicative senescence
 loss-of-function
 louse-borne
 low CSF volume headache
-low activity
-low levels
-low-affinity
 low-bacteria
-low-dose
-low-grade
 low-molecular-weight
-low-pressure
-low-tension
 lower
 lower body
 lower tar and nicotine cigarettes
@@ -13215,8 +13177,6 @@ mixed cellularity
 mixed viral and bacterial
 mixing studies
 mobilizing agents
-moderate
-modified
 modified radical
 modifiers influencing
 modulation in different situations
@@ -13371,7 +13331,6 @@ noncoronary interventions
 noncyclic
 nondeclarative
 nondiphtherial
-nondirective
 nonexercise activity
 nonexertional
 nonfluent transcortical
@@ -13565,7 +13524,6 @@ passive external
 pathogenesis
 pathogenesis of neoplastic transformation
 pathologic
-patient age
 patient counseling
 patient education
 patient-physician relationship
@@ -13609,7 +13567,6 @@ perioperative prophylactic
 periorbital
 peripartum
 peripatetic
-peripheral
 peripheral mechanisms
 peripheral overproduction
 peripherally inserted
@@ -13839,7 +13796,6 @@ prodromal complaints
 prodromal symptoms
 products in clinical trials
 prognosis and recovery
-progression of disease
 progression of renal injury
 progression to biologic death
 progression to rheumatic heart disease
@@ -13931,8 +13887,6 @@ rapidly progressive
 raspberry
 reactional states
 reactions to light
-reactive
-rebound
 recent activity and results
 receptor mutations
 recessive
@@ -13940,7 +13894,6 @@ reciprocal
 reciprocal ST depression
 recommendation to address
 recommendations for asymptomatic normal-risk subjects
-recommended
 recommended intakes
 recovery phase
 rectal
@@ -13983,7 +13936,6 @@ relapsing fever-induced
 remitting
 related conditions
 related to sensory deficit
-relationship
 relationship among primate lentiviruses
 relationship to cancer
 relative bradycardia
@@ -14007,7 +13959,6 @@ repetitive probes
 replacement of coagulation or fibrinolysis inhibitors
 replacement therapy for cancer patients
 replicative phase of infection
-reporting systems
 reproductive disorders
 reproductive dysfunction
 reptile-associated
@@ -14190,10 +14141,7 @@ spastic-ataxic
 special clinical situations
 specialized nutritional support regimen
 species barrier
-specific diseases
 specific factor assays
-specific organ
-specific types
 specimen collection and transport
 specimen handling
 specimen-processing algorithm
@@ -14224,7 +14172,6 @@ stages I and II seminoma
 stages of disease
 stages of iron deficiency
 standards for immunization practice
-standing
 staphylococcal
 staphylococci
 steatorrheal
@@ -14251,13 +14198,11 @@ streptococcal
 streptococcus group B carriers
 stress-induced
 stress-related mucosal injury
-structural
 structural lesions
 structural variants
 structural-obstructive
 structure in cancer cells
 studies of pancreatic structure
-study models
 subacute
 subacute bacterial
 subaortic stenosis
@@ -14287,7 +14232,6 @@ supportive care
 suppression in HIV infection
 suppression of erythropoietin production
 suppression of reactivation
-suppurative
 suppurative deep tissue infections
 suppurative intracranial
 suppurative myositis in addicts
@@ -14304,10 +14248,7 @@ surveillance in high-risk individuals
 survivorship issues
 susceptibility of bacteria in vitro
 susceptibility to infections after
-sustained
 sustained-release
-symbols
-symmetric
 sympathetically maintained
 sympatholytics
 symptomatic
@@ -14388,7 +14329,6 @@ tonic-clonic
 tooth extraction
 tooth loss
 tophaceous
-topical
 topical antifungals
 toppling
 total body
@@ -14407,7 +14347,6 @@ transdermal
 transdermal patch
 transesophageal
 transfalcial
-transfer
 transfer from blood to bile
 transferase variants
 transforming into melanoma
@@ -14465,7 +14404,6 @@ triggers of asthma
 triple therapy
 tropical
 tropical pulmonary
-true
 truncal
 truncal radiculoneuropathy
 trust within
@@ -14487,11 +14425,6 @@ tumor localization
 tumor location
 tumor-associated
 tunnel-site
-twisted
-type of food causing
-types of documents
-types of exposure
-types of radioisotopic radiation
 typhoidal
 ulcer disease
 ulceroglandular
@@ -14532,8 +14465,6 @@ valvular disease
 valvular gradients
 valvular regurgitation
 vancomycin-resistant
-variability
-variant
 variceal ligation
 varicose
 variegate

@@ -9,10 +9,10 @@ class Keyword < ActiveRecord::Base
   end
 
   def neighbour_keywords
-    neighbour_keyboard_ids.map { |a| [a['weight'].to_i, Keyword.find(a['keyword_id'])]}
+    neighbour_keywoard_ids.map { |a| [a['weight'].to_i, Keyword.find(a['keyword_id'])]}
   end
 
-  def neighbour_keyboard_ids
+  def neighbour_keyword_ids
     res = ActiveRecord::Base.connection.select_all <<-SQL
       SELECT count(k1.article_id) AS weight, k2.keyword_id
       FROM article_keywords k1, article_keywords k2
