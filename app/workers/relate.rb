@@ -1,10 +1,14 @@
 class KeywordRelationWorker
   include Sidekiq::Worker
 
-  def perform
-    KeywordsRelation.delete_all
+  def perform(ids=nil)
     list = []
-    Keyword.select(:id).find_each do |keyword|
+    if ids & ids.is_a? Array
+      ks = Keyword.select(:id).where(id: ids).to_a
+    else
+      ks = Keyword.select(:id).to_a
+    end
+    ks.each do |keyword|
       keyword.neighbour_keyword_ids.each do |k|
         list << [keyword.id, k['weight'].to_i, k['keyword_id'].to_i] if k['keyword_id'].to_i > keyword.id
       end
