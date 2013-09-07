@@ -18,7 +18,7 @@ development:
   adapter: postgresql
   encoding: unicode
   database: medcrunch_development
-  pool: 5
+  pool: 20
   username: arashbm
   password:
 
@@ -47,7 +47,7 @@ test:
   adapter: postgresql
   encoding: unicode
   database: medcrunch_test
-  pool: 5
+  pool: 20
   username: arashbm
   password:
 
@@ -55,6 +55,6 @@ production:
   adapter: postgresql
   encoding: unicode
   database: medcrunch_production
-  pool: 5
+  pool: 20
   username: arashbm
   password:

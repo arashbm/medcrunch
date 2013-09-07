@@ -17,3 +17,5 @@ gem 'sinatra', '>= 1.3.0', :require => nil
 gem 'activerecord-import', '~> 0.4.0'
 
 gem 'textacular', require: 'textacular/rails'
+
+gem 'foreman'

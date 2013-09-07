@@ -42,7 +42,9 @@ class ArticleReaderWorker
 
       # we are pretty confident about validity of data
       cols = [:pubmed_id, :raw_pubmed_xml, :title, :abstract]
-      Article.import cols, articles_to_import, validate: false
+      Rails.logger.silence do
+        Article.import cols, articles_to_import, validate: false
+      end
 
       # mark the file as imported
       unmark_dataset(filename, 'errors')

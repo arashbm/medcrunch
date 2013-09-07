@@ -33,7 +33,11 @@ GEM
     celluloid (0.14.1)
       timers (>= 1.0.0)
     connection_pool (1.1.0)
+    dotenv (0.8.0)
     erubis (2.7.0)
+    foreman (0.63.0)
+      dotenv (>= 0.7)
+      thor (>= 0.13.6)
     hike (1.2.3)
     i18n (0.6.4)
     json (1.8.0)
@@ -112,6 +116,7 @@ PLATFORMS
 
 DEPENDENCIES
   activerecord-import (~> 0.4.0)
+  foreman
   nokogiri
   pg
   puma

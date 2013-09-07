@@ -1,6 +1,6 @@
 # Be sure to restart your server when you modify this file.
 
-# Your secret key for verifying the integrity of signed cookies.
+# Your secret key is used for verifying the integrity of signed cookies.
 # If you change this key, all old signed cookies will become invalid!
 
 # Make sure the secret is at least 30 characters and all random,
@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Medcrunch::Application.config.secret_key_base = '9eb61d07e96c0b4dafabaf8ee0764a21d5024f6b9fa053c4f48fef277338e122abe32d9c103aa3086dc04018d1ecdb26ab42fc43c82b4d27baca71addcae8322'
+Medcrunch::Application.config.secret_key_base = '4bc24cb767b90dab2237e2fe50b64f4750ea25808334902a370a25f134a2fb5078b7614a506359fcc6e875c0ba1305cc6f1729b3a478fbd029a8a26b748efc73'
