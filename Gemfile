@@ -19,3 +19,5 @@ gem 'activerecord-import', '~> 0.4.0'
 gem 'textacular', require: 'textacular/rails'
 
 gem 'foreman'
+
+gem 'fast-stemmer'

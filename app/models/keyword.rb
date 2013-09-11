@@ -9,7 +9,7 @@ class Keyword < ActiveRecord::Base
   end
 
   def neighbour_keywords
-    neighbour_keywoard_ids.map { |a| [a['weight'].to_i, Keyword.find(a['keyword_id'])]}
+    neighbour_keyword_ids.map { |a| [a['weight'].to_i, Keyword.find(a['keyword_id'])]}
   end
 
   def neighbour_keyword_ids

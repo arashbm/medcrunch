@@ -16,6 +16,8 @@ class ImportKeywordWorker
 
         # search all current articles
         list.concat keyword.list_keyword_occurrence
+        p "relations in this job: #{list.count}"
+        p "keywords in this job: #{keyword_list.index(term)}/#{keyword_list.count}"
       end
       ArticleKeyword.import [:keyword_id, :article_id], list, validate: false, timestamps: false
     end

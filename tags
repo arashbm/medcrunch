@@ -4,40 +4,48 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
-ActiveSupport	/media/arashbm/Data/code/medcrunch/test/test_helper.rb	/^class ActiveSupport::TestCase$/;"	c
-AddUniqueIndexToPmid	/media/arashbm/Data/code/medcrunch/db/migrate/20130430191323_add_unique_index_to_pmid.rb	/^class AddUniqueIndexToPmid < ActiveRecord::Migration$/;"	c
-Application	/media/arashbm/Data/code/medcrunch/config/application.rb	/^  class Application < Rails::Application$/;"	c	class:Medcrunch
-ApplicationController	/media/arashbm/Data/code/medcrunch/app/controllers/application_controller.rb	/^class ApplicationController < ActionController::Base$/;"	c
-ApplicationHelper	/media/arashbm/Data/code/medcrunch/app/helpers/application_helper.rb	/^module ApplicationHelper$/;"	m
-Article	/media/arashbm/Data/code/medcrunch/app/models/article.rb	/^class Article < ActiveRecord::Base$/;"	c
-ArticleExtractorWorker	/media/arashbm/Data/code/medcrunch/app/workers/extractor.rb	/^class ArticleExtractorWorker$/;"	c
-ArticleKeyword	/media/arashbm/Data/code/medcrunch/app/models/article_keyword.rb	/^class ArticleKeyword < ActiveRecord::Base$/;"	c
-ArticleKeywordsTest	/media/arashbm/Data/code/medcrunch/test/models/article_keywords_test.rb	/^class ArticleKeywordsTest < ActiveSupport::TestCase$/;"	c
-ArticleReaderWorker	/media/arashbm/Data/code/medcrunch/app/workers/reader.rb	/^class ArticleReaderWorker$/;"	c
-ArticleTest	/media/arashbm/Data/code/medcrunch/test/models/article_test.rb	/^class ArticleTest < ActiveSupport::TestCase$/;"	c
-CreateArticleKeywords	/media/arashbm/Data/code/medcrunch/db/migrate/20130430165141_create_article_keywords.rb	/^class CreateArticleKeywords < ActiveRecord::Migration$/;"	c
-CreateArticles	/media/arashbm/Data/code/medcrunch/db/migrate/20130430162844_create_articles.rb	/^class CreateArticles < ActiveRecord::Migration$/;"	c
-CreateKeywords	/media/arashbm/Data/code/medcrunch/db/migrate/20130430165044_create_keywords.rb	/^class CreateKeywords < ActiveRecord::Migration$/;"	c
-FileMark	/media/arashbm/Data/code/medcrunch/lib/file_mark.rb	/^module FileMark$/;"	m
-FulltextIndexToArticles	/media/arashbm/Data/code/medcrunch/db/migrate/20130508064032_fulltext_index_to_articles.rb	/^class FulltextIndexToArticles < ActiveRecord::Migration$/;"	c
-ImportKeywordWorker	/media/arashbm/Data/code/medcrunch/app/workers/import_keywords.rb	/^class ImportKeywordWorker$/;"	c
-Keyword	/media/arashbm/Data/code/medcrunch/app/models/keyword.rb	/^class Keyword < ActiveRecord::Base$/;"	c
-KeywordsTest	/media/arashbm/Data/code/medcrunch/test/models/keywords_test.rb	/^class KeywordsTest < ActiveSupport::TestCase$/;"	c
-Medcrunch	/media/arashbm/Data/code/medcrunch/config/application.rb	/^module Medcrunch$/;"	m
-change	/media/arashbm/Data/code/medcrunch/db/migrate/20130430162844_create_articles.rb	/^  def change$/;"	f	class:CreateArticles
-change	/media/arashbm/Data/code/medcrunch/db/migrate/20130430165044_create_keywords.rb	/^  def change$/;"	f	class:CreateKeywords
-change	/media/arashbm/Data/code/medcrunch/db/migrate/20130430165141_create_article_keywords.rb	/^  def change$/;"	f	class:CreateArticleKeywords
-change	/media/arashbm/Data/code/medcrunch/db/migrate/20130430191323_add_unique_index_to_pmid.rb	/^  def change$/;"	f	class:AddUniqueIndexToPmid
-change	/media/arashbm/Data/code/medcrunch/db/migrate/20130508064032_fulltext_index_to_articles.rb	/^  def change$/;"	f	class:FulltextIndexToArticles
-dataset_marked?	/media/arashbm/Data/code/medcrunch/lib/file_mark.rb	/^  def dataset_marked?(dataset, mark='marked')$/;"	f	class:FileMark
-keyword_search	/media/arashbm/Data/code/medcrunch/app/models/article.rb	/^  def self.keyword_search(query)$/;"	F	class:Article
-list_keyword_occurrence	/media/arashbm/Data/code/medcrunch/app/models/keyword.rb	/^  def list_keyword_occurrence(ids=nil)$/;"	f	class:Keyword
-mark_dataset	/media/arashbm/Data/code/medcrunch/lib/file_mark.rb	/^  def mark_dataset(dataset, mark='marked')$/;"	f	class:FileMark
-perform	/media/arashbm/Data/code/medcrunch/app/workers/extractor.rb	/^  def perform(ids = nil)$/;"	f	class:ArticleExtractorWorker
-perform	/media/arashbm/Data/code/medcrunch/app/workers/import_keywords.rb	/^  def perform(list_file, ids = nil)$/;"	f	class:ImportKeywordWorker
-perform	/media/arashbm/Data/code/medcrunch/app/workers/reader.rb	/^  def perform(filename)$/;"	f	class:ArticleReaderWorker
-read_list	/media/arashbm/Data/code/medcrunch/app/workers/import_keywords.rb	/^  def read_list(list_file)$/;"	f	class:ImportKeywordWorker
-save_keyword_occurrence!	/media/arashbm/Data/code/medcrunch/app/models/keyword.rb	/^  def save_keyword_occurrence!(ids=nil)$/;"	f	class:Keyword
-to_query	/media/arashbm/Data/code/medcrunch/app/models/keyword.rb	/^  def to_query$/;"	f	class:Keyword
-unmark_dataset	/media/arashbm/Data/code/medcrunch/lib/file_mark.rb	/^  def unmark_dataset(dataset, mark='marked')$/;"	f	class:FileMark
-with_locked_file	/media/arashbm/Data/code/medcrunch/lib/file_mark.rb	/^  def with_locked_file(filename)$/;"	f	class:FileMark
+ActiveSupport	/home/arashbm/medcrunch/test/test_helper.rb	/^class ActiveSupport::TestCase$/;"	c
+AddUniqueIndexToPmid	/home/arashbm/medcrunch/db/migrate/20130430191323_add_unique_index_to_pmid.rb	/^class AddUniqueIndexToPmid < ActiveRecord::Migration$/;"	c
+Application	/home/arashbm/medcrunch/config/application.rb	/^  class Application < Rails::Application$/;"	c	class:Medcrunch
+ApplicationController	/home/arashbm/medcrunch/app/controllers/application_controller.rb	/^class ApplicationController < ActionController::Base$/;"	c
+ApplicationHelper	/home/arashbm/medcrunch/app/helpers/application_helper.rb	/^module ApplicationHelper$/;"	m
+Article	/home/arashbm/medcrunch/app/models/article.rb	/^class Article < ActiveRecord::Base$/;"	c
+ArticleExtractorWorker	/home/arashbm/medcrunch/app/workers/extractor.rb	/^class ArticleExtractorWorker$/;"	c
+ArticleKeyword	/home/arashbm/medcrunch/app/models/article_keyword.rb	/^class ArticleKeyword < ActiveRecord::Base$/;"	c
+ArticleKeywordsTest	/home/arashbm/medcrunch/test/models/article_keywords_test.rb	/^class ArticleKeywordsTest < ActiveSupport::TestCase$/;"	c
+ArticleReaderWorker	/home/arashbm/medcrunch/app/workers/reader.rb	/^class ArticleReaderWorker$/;"	c
+ArticleTest	/home/arashbm/medcrunch/test/models/article_test.rb	/^class ArticleTest < ActiveSupport::TestCase$/;"	c
+CreateArticleKeywords	/home/arashbm/medcrunch/db/migrate/20130430165141_create_article_keywords.rb	/^class CreateArticleKeywords < ActiveRecord::Migration$/;"	c
+CreateArticles	/home/arashbm/medcrunch/db/migrate/20130430162844_create_articles.rb	/^class CreateArticles < ActiveRecord::Migration$/;"	c
+CreateKeywords	/home/arashbm/medcrunch/db/migrate/20130430165044_create_keywords.rb	/^class CreateKeywords < ActiveRecord::Migration$/;"	c
+CreateKeywordsRelations	/home/arashbm/medcrunch/db/migrate/20130511064236_create_keywords_relations.rb	/^class CreateKeywordsRelations < ActiveRecord::Migration$/;"	c
+FileMark	/home/arashbm/medcrunch/lib/file_mark.rb	/^module FileMark$/;"	m
+FulltextIndexToArticles	/home/arashbm/medcrunch/db/migrate/20130508064032_fulltext_index_to_articles.rb	/^class FulltextIndexToArticles < ActiveRecord::Migration$/;"	c
+ImportKeywordWorker	/home/arashbm/medcrunch/app/workers/import_keywords.rb	/^class ImportKeywordWorker$/;"	c
+Keyword	/home/arashbm/medcrunch/app/models/keyword.rb	/^class Keyword < ActiveRecord::Base$/;"	c
+KeywordRelationWorker	/home/arashbm/medcrunch/app/workers/relate.rb	/^class KeywordRelationWorker$/;"	c
+KeywordsRelation	/home/arashbm/medcrunch/app/models/keywords_relation.rb	/^class KeywordsRelation < ActiveRecord::Base$/;"	c
+KeywordsRelationTest	/home/arashbm/medcrunch/test/models/keywords_relation_test.rb	/^class KeywordsRelationTest < ActiveSupport::TestCase$/;"	c
+KeywordsTest	/home/arashbm/medcrunch/test/models/keywords_test.rb	/^class KeywordsTest < ActiveSupport::TestCase$/;"	c
+Medcrunch	/home/arashbm/medcrunch/config/application.rb	/^module Medcrunch$/;"	m
+change	/home/arashbm/medcrunch/db/migrate/20130430162844_create_articles.rb	/^  def change$/;"	f	class:CreateArticles
+change	/home/arashbm/medcrunch/db/migrate/20130430165044_create_keywords.rb	/^  def change$/;"	f	class:CreateKeywords
+change	/home/arashbm/medcrunch/db/migrate/20130430165141_create_article_keywords.rb	/^  def change$/;"	f	class:CreateArticleKeywords
+change	/home/arashbm/medcrunch/db/migrate/20130430191323_add_unique_index_to_pmid.rb	/^  def change$/;"	f	class:AddUniqueIndexToPmid
+change	/home/arashbm/medcrunch/db/migrate/20130508064032_fulltext_index_to_articles.rb	/^  def change$/;"	f	class:FulltextIndexToArticles
+change	/home/arashbm/medcrunch/db/migrate/20130511064236_create_keywords_relations.rb	/^  def change$/;"	f	class:CreateKeywordsRelations
+dataset_marked?	/home/arashbm/medcrunch/lib/file_mark.rb	/^  def dataset_marked?(dataset, mark='marked')$/;"	f	class:FileMark
+keyword_search	/home/arashbm/medcrunch/app/models/article.rb	/^  def self.keyword_search(query)$/;"	F	class:Article
+list_keyword_occurrence	/home/arashbm/medcrunch/app/models/keyword.rb	/^  def list_keyword_occurrence(ids=nil)$/;"	f	class:Keyword
+mark_dataset	/home/arashbm/medcrunch/lib/file_mark.rb	/^  def mark_dataset(dataset, mark='marked')$/;"	f	class:FileMark
+neighbour_keyword_ids	/home/arashbm/medcrunch/app/models/keyword.rb	/^  def neighbour_keyword_ids$/;"	f	class:Keyword
+neighbour_keywords	/home/arashbm/medcrunch/app/models/keyword.rb	/^  def neighbour_keywords$/;"	f	class:Keyword
+neighbour_titles	/home/arashbm/medcrunch/app/models/keyword.rb	/^  def neighbour_titles$/;"	f	class:Keyword
+perform	/home/arashbm/medcrunch/app/workers/extractor.rb	/^  def perform(ids = nil)$/;"	f	class:ArticleExtractorWorker
+perform	/home/arashbm/medcrunch/app/workers/import_keywords.rb	/^  def perform(list_file, ids = nil)$/;"	f	class:ImportKeywordWorker
+perform	/home/arashbm/medcrunch/app/workers/reader.rb	/^  def perform(filename)$/;"	f	class:ArticleReaderWorker
+perform	/home/arashbm/medcrunch/app/workers/relate.rb	/^  def perform(ids=nil)$/;"	f	class:KeywordRelationWorker
+read_list	/home/arashbm/medcrunch/app/workers/import_keywords.rb	/^  def read_list(list_file)$/;"	f	class:ImportKeywordWorker
+save_keyword_occurrence!	/home/arashbm/medcrunch/app/models/keyword.rb	/^  def save_keyword_occurrence!(ids=nil)$/;"	f	class:Keyword
+unmark_dataset	/home/arashbm/medcrunch/lib/file_mark.rb	/^  def unmark_dataset(dataset, mark='marked')$/;"	f	class:FileMark
+with_locked_file	/home/arashbm/medcrunch/lib/file_mark.rb	/^  def with_locked_file(filename)$/;"	f	class:FileMark
